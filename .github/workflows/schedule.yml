@@ -1,0 +1,34 @@
+name: Run News Scraper Every Hour
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour on the hour (UTC)
+  workflow_dispatch:
+
+jobs:
+  run-news-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        pip install feedparser newspaper3k
+
+    - name: Run scraping script
+      run: python scrape_news.py
+
+    - name: Commit updated articles.txt
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add savedarticles/articles.txt
+        git commit -m "⏰ Hourly scrape $(date -u)" || echo "No changes"
+        git push
