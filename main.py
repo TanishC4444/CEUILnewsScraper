@@ -23,6 +23,7 @@ timestamp = datetime.now().strftime("%Y-%m-%d%H-%M")
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 output_path = os.path.join(OUTPUT_DIR, f"articles.txt")
 with open(output_path, "w", encoding="utf-8") as out_file:
+    out_file.write(f"\n==== 🕒 Run at {datetime.now().isoformat()} ====\n")
     char_written = 0
     for name, url in FEEDS.items():
         print(f"\n====== 📰 {name} ======")
