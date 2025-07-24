@@ -2,7 +2,7 @@ name: Run News Scraper Every Hour
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour at minute 0 (UTC)
+    - cron: '*/15 * * * *'  # Runs every 15 mins at minute 0 (UTC)
   workflow_dispatch:       # Allows manual run via GitHub UI
 
 jobs:
