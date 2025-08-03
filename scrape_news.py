@@ -94,7 +94,25 @@ with open(output_path, "a", encoding="utf-8") as out_file:
                 char_written += len(text)
                 
                 if char_written >= CHUNK_LIMIT:
-                    out_file.write("\n" + "-"*50 + "\n")
+                    out_file.write("\n" + 
+                                   """You are a Current Events UIL question writer. Using only the information below (do not add outside details), generate as many multiple-choice current events questions as possible at an advanced (“very very very hard”) difficulty level.
+Requirements:
+- Each question must have a concise, high-level stem that tests deep understanding, synthesis, or nuance from the information.
+- Provide exactly four answer choices labeled A–D, with one clearly correct answer and three highly plausible distractors.
+- Distractors must be subtle, drawing on related details or common misconceptions found in the text.
+- Do not introduce any facts or context not present in the source material.
+- For each article or segment separated by a “––––––––––––––––––––––––”, generate at least one and up to three questions based solely on that segment.
+- At the end, include an Answer Key listing each question’s number, correct answer letter, and:
+    - A brief explanation citing the specific text evidence supporting the answer.
+    - The associated URL that corresponds to the source of the question (use the one placed above each dashed info section).
+
+Formatting:
+- Do not include citations, summaries, or explanations under each question.
+- Place all explanations and source URLs in the Answer Key only.
+- Do not include any additional commentary beyond the questions and the formatted Answer Key.
+Info: 
+
+""" + "\n")
                     char_written = 0
                 
                 out_file.write(f"{text}\n")
