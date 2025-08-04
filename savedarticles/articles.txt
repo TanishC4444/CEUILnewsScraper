@@ -26330,3 +26330,23 @@ This does seem    better United. Amorim  getting  ideas across.
 But Arsenal' upcoming visit  Old Trafford   37 Premier Leagues games afterwards will decide whether  progress  real   -season 2025  just another false dawn.
 
 -----
+
+==== 🕒 Run at 2025-08-04T07:57:34.155849 ====
+https://www.cnbc.com/2025/08/04/nvidia-h20-china-market-share-recovery.html
+Nvidia ' H20 chips  likely  return  China,  tech experts ' expect them    with  same fanfare   market  light   competition  regulatory scrutiny.
+
+The Trump administration last month gave Nvidia assurances that  would  permitted  resume sales   H20 chips  China, after their exports  been effectively banned  April. It also announced   "fully compliant" made--China chip.
+
+The move  seen   huge    company, which  flagged billions  losses    policy. But while  H20s might  returning   Chinese market that doesn' mean Nvidia will regain  former market share, analysts caution.
+
+In  recent report, global equity research  brokerage firm Bernstein forecast that Nvidia' AI chip market share  China would drop  54%  2025, from 66%  year prior.
+
+This drop  only partly owed  complications with resuming chip supply,  Chinese AI chipmakers have been seizing more   booming domestic market.
+
+"U.S. export controls have created  unique opportunity  domestic AI processor vendors,  they   competing with  most advanced global alternatives," Bernstein' report said, noting growing prominence  Chinese players such  Huawei, Cambricon  Hygon. "The localization ratio  China' AI chip market will surge from 17%  2023  55%  2027."
+
+Other analysts such  The Futurum Group CEO Daniel Newman were more bullish about Nvidia' bounce back  China. However,  also flagged potential market share erosion from Nvidia customers that might have found success with Chinese rivals while  H20 controls were  place.
+
+It' also worth noting that Bernstein' predictions assume that broader U.S. chip restrictions will remain largely unchanged. That creates  dynamic where Chinese companies continue  develop  offer advanced chips, possibly eroding demand  outdated U.S. offerings.
+
+-----
