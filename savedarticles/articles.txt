@@ -31845,3 +31845,522 @@ https://www.cnbc.com/2025/08/04/ge-vernova-finds-itself-in-the-middle-of-the-fra
 The AI boom  presented energy stalwarts like GE Vernova with  monumental task —  opportunity: Make enough  turbines  support  entire technological revolution. As tech giants invest billions  dollars  build AI data centers,  shortage  power  emerged     unexpected bottleneck. In  initial wake  ChatGPT' launch  late 2022,  main supply crunch   Nvidia' graphics processing units, which  moderated. Now,  biggest demand   energy, putting GE Vernova,    world' largest producers  -fired turbines used  create electricity,   center   frantic race  build  generative AI infrastructure. Gas turbine orders from utilities, independent power producers,  industrial players    record-breaking pace  2025, according   S & P Global Commodity Insights. Think  these turbines  huge modified engines located  power plants that burn natural   make    electricity very quickly. Manufacturing them   complex process,  right  supplies  tight. "You  have trouble getting GPUs," Jim Cramer said. "Try getting power from GE Vernova." The fervent demand  GE Vernova' turbines  leading   financial windfall,   recent blowout quarterly earnings release made clear. So strong   report that,  response, Jim described  industrial stock  "maybe  best story   entire market." Shares  GE Vernova have doubled year  date    pace   fresh record close Monday around $662  share. Following earnings,  Club raised  price target  $150  GE Vernova  $700  share. Orders   power segment rose 44% organically last quarter   power equipment orders,  particular, increased nearly threefold. Meanwhile,  measure  multiyear demand that includes both -turbine orders  "slot reservations," which will  fulfilled further into  future, increased  55 gigawatts,  from 50  April. By year-, GE Vernova expects that    least 60 gigawatts —  context,   Hoover Dam were running   capacity,  could produce roughly 2 gigawatts  power . This "  accelerated electrification  driving unprecedented investment," CEO Scott Strazik said   conference call. GEV YTD mountain GE Vernova' year--date stock performance. The unprecedented investment  also testing  limits   power industry. Demand  GE Vernova' turbines —  those from peers like Siemens Energy  Mitsubishi Power —   large that ' hard  them  keep pace. GE Vernova'  turbines  "largely sold "  2026  2027, while  company  "approaching filling  '28  starting  sign agreements  later years," Strazik said   earnings call this spring. In other words, customers placing  orders  these heavy-duty  turbines  face wait times that extend several years. With strong demand  limited supply, turbine prices have jumped  recent years  well. The reason there'  much need  these turbines  simple:  U.S. needs   more electricity  keep  with  demand  AI computing. Club holdings Amazon , Microsoft  other hyperscalers seemingly cannot spend enough money  construct more power-hungry data centers. Alongside earnings last week, Microsoft  Meta reported massive capital expenditures   back  increased AI investments  signaled that more outlays    . "This   number  driver   [turbine] demand growth, especially   near term," said Sam Huntington, director  North American power research  S & P Global Commodity Insights. "For decades,   this long period  flat [] minimal load growth, right    past couple  years,  ,  situation  changed again,"  told CNBC. Bank  America analysts   July note forecasted that U.S. electricity demand will grow   2.5% compound annual growth rate through 2035,  from half  percent between 2014  2024. Many energy executives  more natural  will  necessary  meet  electricity demand, given some current limitations around solar  wind. Even though projections point  more turbine demand, expanding manufacturing capacity '  easy . These turbines  massive  complex machinery that  take years    customers ,  management teams want  make sure that this AI data center buildout  durable before they commit  dramatically scaling  their  production. "They have  balance  building enough  meet data center electricity demand   future versus making irreversible investment decisions today that might   costing companies    money over  next 30 years  demand doesn' show ," said Ramteen Sioshansi,  engineering professor  Carnegie Mellon University  leads  Electricity Industry Center. The industry doesn' want  repeat   early 2000s when there   similar hype cycle around natural  power plant construction that ended poorly. Lower natural  prices — coupled with growing environmental concerns that   more interest  cleaner alternatives  coal — meant  boom  demand  these turbines   time. But when  prices rose again   collapse  Enron made  harder  power producers  finance  plant construction , demand   turbines dried , leaving manufacturers including GE Vernova — then part   General Electric conglomerate — with canceled orders  excess inventory. "This    huge boom  bust market  people lost    money," S & P Global' Huntington added. "So, there' still scars  20 years  [that]  relatively fresh." Plus,   years leading    AI boom, major investments into renewable energy sources like wind  solar around  world also disincentivized turbine manufacturers from expanding their production capacity. That context helps explain  companies like GE Vernova   want  open   check book  spend wildly  expand output. At  same time, GE Vernova must maintain  healthy production pace while keeping  customers happy. "I think there'  sense  [GE Vernova] that, 'We' winning  deals that  want   ,   '   need  potentially risk over-capacitizing  market chasing demand,'" RBC Capital Markets analyst Chris Dendrinos told CNBC. Still, Dendrinos said GE Vernova  " early mover  terms  expanding capacity"   industry. In January, GE Vernova announced  $600 million investment  U.S. factories over  next  years  address  growing need  electricity. Of that capital, $300 million  specifically going  support  buildout    turbine business  expanding facilities. It  expected  create more than 850  jobs. Dendrinos,   covered  energy sector  over  decade, described  $600 million investment  "absolutely material"  " testament   demand"   turbines. GE Vernova' peers  ramping  production, . On  February earnings call, Siemens Energy CEO Christian Bruchs said  company  working  grow production capacity  roughly 30%. "However,  take  measured approach  expand  capacities   responsible , neither losing sight  cost   risk  adding  much capacity,"  executive said   call. Along with  committed capital, GE Vernova  announced deals  expedite production  promoted alternatives   heavy-duty turbines  maintain  dominance   industry  please customers. In March,  example,  firm announced  acquisition  Woodward' heavy-duty  combustion parts business   undisclosed amount. The move  intended  help  company "meet growing energy demands from load growth," according   press release. By buying this business,  brings manufacturing  essential combustion parts  these  turbines  house, which gives GE Vernova more control over  supply chain. Meanwhile, GE Vernova  also touted temporary alternatives   heavy-duty turbines such    "aeroderivative" units. These  mostly preassembled, have faster start times  take  less space than their heavy-duty counterparts. On  other hand, aeroderivatives  less efficient  scale  data centers. GE Vernova announced  March that  company secured  order  three  these units   municipal utility  Missouri. Overall, GE Vernova   stellar position  capitalize   data center buildout. However, Jim said  company could afford  further expand production  order  meet booming demand. "[Their] orders   strong  ironclad, I wish [they'] spend some more,"  said. (Jim Cramer' Charitable Trust  long GEV, NVDA, AMZN, MSFT. See here   full list   stocks.) As  subscriber   CNBC Investing Club with Jim Cramer,  will receive  trade alert before Jim makes  trade. Jim waits 45 minutes after sending  trade alert before buying  selling  stock   charitable trust' portfolio. If Jim  talked about  stock  CNBC TV,  waits 72 hours after issuing  trade alert before executing  trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
 
 -----
+
+==== 🕒 Run at 2025-08-04T18:47:34.047190 ====
+https://www.bbc.com/news/articles/c93dkwnx94ro?at_medium=RSS&at_campaign=rss
+Abbott threatens Democrats with bribery charges  stalling Texas vote
+
+Abbott warned that lawmakers  refuse  return  vote    could face second-degree felony charges.
+
+The proposed congressional , unveiled last week  Texas Republicans, would create more Republican seats   US House  Representatives where they hold  slim majority currently.
+
+At least -thirds   150-member state legislative body must  present  proceed with  vote. The quorum became unreachable when 51 Democratic lawmakers left  state.
+
+Texas governor Greg Abbott  threatened  file bribery charges against Democratic legislators  fled  state  prevent  vote   controversial redistricting plan that would significantly favour Republicans.
+
+"It would  bribery   lawmaker took money  perform   refuse  perform     legislature," Abbott said  Fox News  Monday. "And  reports  these legislators have both sought money  offered money  skip  vote,  leave  legislature,  take  legislative . That would  bribery."
+
+The governor also issued  letter  Democrats asking them  return  Texas  Monday afternoon.
+
+"This truancy ends ,"  wrote. "The derelict Democrat House members must return  Texas    attendance when  House reconvenes  15:00 local time (20:00 GMT)  Monday," Abbott said   letter released  late Sunday evening.
+
+Earlier, Texas Attorney General Ken Paxton,  Republican,  threatened  have  Democratic leaders arrested.
+
+Paxton wrote  X that  state should " every tool   disposal  hunt down those  think they  above  ".
+
+Most   Democrats fled  Illinois where  state' Governor JB Pritzker said   "going   everything    protect every single   them" amid arrest threats from Abbott.
+
+The Democrats said they planned  stay away from Texas   weeks until     special legislative session.
+
+"We will  whatever  takes. What that looks like,  ' know," Gene Wu,  Texas House Democratic Caucus leader, said.
+
+Texas Republicans currently hold 25   38 congressional seats   Lone Star State.
+
+They hope   maps could increase that number  30 -   constituencies that President Donald Trump  last November   least 10 points.
+
+Trump' party currently  219  435 seats   House, while Democrats hold 212. The redistricting could help   slender Republican majority   House, which   lower chamber  Congress.
+
+Both Republicans  Democrats have been acuused  manipulating boundaries   electroal constituency - commonly known  gerrymandering.
+
+A  Democratic leaders  other states have suggested they  redraw their  legislative maps  counter  proposed losses  seats  Texas.
+
+New York Governor Kathy Hochul said   exploring  constitutional amendment  move   timeline  redraw legislative lines   state.
+
+New York - alongwith California, Colorado  Washington - assigns redistricting  -partisan, independent commissions, rather than  state legislatures.
+
+States typically undergo redistricting every 10 years, when voting maps  redrawn  account  population changes.
+
+The most recent US Census   2020. Redrawing district lines   middle   decade  unusual.
+
+-----
+https://www.bbc.co.uk/sounds/play/p0lv3r4l?at_medium=RSS&at_campaign=rss
+Americanswers…  5 Live! Why  Sydney Sweeney' jeans  sparked  race debate? Americanswers…  5 Live! Why  Sydney Sweeney' jeans  sparked  race debate?
+
+-----
+https://www.bbc.com/sport/football/articles/c4gmevn5ye0o?at_medium=RSS&at_campaign=rss
+Liverpool' second youngest ever player Rio Ngumoha shone again  -season   fans wondering   could  part   first team this year.
+
+The England Under-17 forward,  turns 17 later this month, scored  assisted  their Anfield return against Athletic Bilbao.
+
+The Reds were playing  Basque side   -season friendlies -  17:00  20:00 BST.
+
+It   mostly second string XI that started  first game, with Ngumoha   left wing -   caught      done  summer.
+
+He scored  just  second minute    onto  loose ball    half before racing forward  curling  fine effort  from 20 yards .
+
+Just three minutes later  nodded  Ben Doak cross down  Darwin Nunez  convert from close range.
+
+Liverpool fans were singing  name  Curtis Jones urged them  show their appreciation.
+
+And  caused  La Liga side  kinds  problems with  dribbling  trickery   4-1 .
+
+Doak  Harvey Elliott scored  other goals.
+
+The 16-year- left   standing ovation midway through  second half.
+
+"He  such  excellent prospect," said -Reds defender Gary Gillespie  LFC TV.
+
+"The difficult  managing expectations  ' hard      ."
+
+Ngumoha' performance came   back   assist against AC Milan  goal against Yokohama F. Marinos  Asian friendlies.
+
+He looks  fine talent,  ,  will  hoping more first-team competitive games    .
+
+In January, Ngumoha became  youngest player  start  match,   second youngest  play,  Liverpool - aged 16 years  135 days  -   4-0  over Accrington   FA Cup.
+
+But that   only first-team appearance   never made  bench   Premier League game.
+
+That could well change this season, especially with  many changes   Liverpool front line.
+
+The  death  centre forward Diogo Jota    crash  been  main focus  Liverpool' -season. There were tributes   before  during  game  Anfield.
+
+Winger Luis Diaz  sold  Bayern Munich  Nunez   target  Saudi Pro League clubs.
+
+An exit  Nunez would mean  Reds' only really strong frontline options would  Mohamed Salah,  signing Hugo Ekitike  Cody Gakpo - giving  chance  somebody like Ngumoha  break through.
+
+That  unless they managed  sign Newcastle striker Alexander Isak. An initial   £110m  been rejected.
+
+"I'  trying  rush because I' still only young," said Ngumoha last week.
+
+"But   same time, I just want  show  manager what I       complacent. I just want   bigger  better things     club."
+
+Ngumoha   actually  Liverpool academy product, having only joined Liverpool from Chelsea' youth - last summer.
+
+At  time Blues legend John Terry wrote "this    will    player".
+
+He'  looking wrong.
+
+-----
+https://www.pbs.org/newshour/world/trial-begins-for-suspects-in-accused-of-killing-149-in-moscow-concert-hall-attack
+MOSCOW (AP) — A trial began Monday under tight security  19 defendants accused  involvement  last year’ shooting rampage   Moscow concert hall that killed 149 people  wounded over 600     deadliest attacks   capital  years.
+
+A faction   Islamic State group claimed responsibility   March 22, 2024, massacre   Crocus City Hall concert venue  which four gunmen shot people  were waiting   show   popular rock band  then   building  fire.
+
+President Vladimir Putin  other Russian officials have claimed, without presenting evidence, that Ukraine   role   attack. Kyiv  strongly denied  involvement.
+
+The Investigative Committee, Russia’  criminal investigation agency, said  June that  concluded that  attack  been “planned  carried    interests   current leadership  Ukraine  order  destabilize political situation   country.” It also noted  four suspected gunmen tried  flee  Ukraine afterward.
+
+READ MORE: Kursk attack could test  patience  some  Putin’ backers  Russia
+
+The four,  identified  citizens  Tajikistan, were arrested hours after  attack  later appeared   Moscow court with signs  being severely beaten.
+
+The defendants appearing  court  Monday kept their heads bowed  they    defendants’ cage.
+
+The committee said earlier this year that  other suspects were charged  absentia  placed  Russia’ wanted list  allegedly recruiting  organizing  training   four. Other defendants   trial were accused  helping them.
+
+-----
+https://www.pbs.org/newshour/world/egyptians-begin-voting-in-senate-election-amid-frustrations-over-stagnant-economy
+CAIRO (AP) — Egyptians  Monday began voting  candidates   Senate,  consultative upper chamber   parliament that helps  much powerful lower house  advise   legislation, policies,  constitutional matters.
+
+There were some 63 million people eligible  vote  over 8,000 polling stations across  nation  116 million  northeastern Africa. Voting will continue through Tuesday.
+
+Voters  expected  elect 200 candidates   300-seat body  five-year terms, with  other senators appointed   president. Results will  announced  Aug. 12.
+
+The election comes   time  frustration  many. A stagnant economy  left Egyptians grappling with soaring inflation  they navigate rising daily costs  food  fuel.
+
+Sherine Abdel Azim,  candidate running  behalf   Free Egyptians Party, which  known    liberal party, told The Associated Press that while some voters   knew which party they’ support, others annulled their votes without stating  reason.
+
+She also said  spoke with voters  ’ have  certain candidate  mind   participating  show support   government, especially   solidarity with Gaza  Israel’  with Hamas. Gaza borders Egypt, which  home  millions  people descended from  Palestinians  were expelled  fled from what   Israel.
+
+Abdel Azim, ’ also  deputy editor--chief  state- Ahram newspaper, said   encouraged  nominate herself  part   political career, which kicked   2012,   wake   Arab Spring   ouster  former president Hosni Mubarak.
+
+“I wasn’ fulfilled  just sharing  opinions  social media  through journalism. I wanted  have  voice inside  Senate,”  said.
+
+READ MORE: Egyptian archaeologists discover 3 tombs  Luxor
+
+She    over 400 candidates running  this election.
+
+Abdel Azim said ’ visited several districts  Cairo, including  densely populated areas  Materya, Ain Shams, Gamelya, Ain Shams,  Al-Azhar. She said voters there were especially concerned about healthcare  hospitals, medical insurance,   disturbance caused   increasing number  -tuks,  motorized three-wheelers,  some areas.
+
+The  rental   another major issue   election. The   amended last month, allowing landlords  raise rents that were fixed  decades, based   contracts.
+
+“These  rightful demands coming from average citizens  love their country,  want  feel supported  these matters,” Abdel Azim said.
+
+It   second election   Senate, which  created  constitutional changes  2019 with  stated   improving political participation. However, critics blasted many   other changes, which allow President Abdel-Fattah -Sissi  stay  power until 2030  broaden  military’ role.
+
+Egyptians abroad were eligible  vote  consulates across 117 countries  Friday  Saturday.
+
+-----
+https://www.pbs.org/newshour/world/hong-kong-bans-financial-support-for-16-overseas-activists-and-cancels-passports
+HONG KONG (AP) — Hong Kong authorities  Monday strengthened  crackdown  16 overseas-based activists  were previously targeted  bounties  suspicion  endangering national security, implementing measures that include banning financial support  them  canceling passports  most  them.
+
+The activists were among 19 people  were targeted with arrest warrants  July  alleged roles  Hong Kong Parliament,  group  police called  subversive organization abroad. The organization    city’ official legislature   influence  limited.
+
+Three   original 19 activists were already targeted  similar measures last year.
+
+Secretary  Security Chris Tang banned providing funds  economic resources   16 activists, including Victor Ho, Keung Ka-, Australian academic Chongyi Feng  U.S. citizen Gong Sasha,  Hong Kong government said   statement.
+
+Travel documents were canceled  12   16  hold Hong Kong passports.
+
+The government also prohibited properties from being leased   people   list  forming joint ventures with them. Anyone violating  orders risks  penalty    seven years  prison.
+
+The 16 activists  hiding   U.K.,  U.S., Canada, Germany, Australia, Thailand  Taiwan, among other regions,  government said, accusing them  continuing  engage  activities endangering national security.
+
+READ MORE: Top U.S. diplomat  Hong Kong criticizes  city  China  curtailing freedoms
+
+The notice also accused them  intending  incite hatred against Beijing  Hong Kong through smear  slander.
+
+“We therefore have taken such measures  make  significant impact,”  statement said.
+
+Beijing imposed  national security    territory  2020 that  effectively wiped  most public dissent following huge anti-government protests  2019. Many activists were arrested, silenced  forced into self-exile.
+
+The measures announced Monday were issued under  powers granted  Hong Kong’ homegrown national security  enacted last year.
+
+The arrest warrants issued  July have drawn criticism from foreign governments, including  U.S.,  U.K.   European Union. Police offered rewards  200,000 Hong Kong dollars ($25,480)  1 million Hong Kong dollars ($127,400)  information leading  their arrests.
+
+In  July statement, U.S. Secretary  State Marco Rubio condemned  moves.
+
+“The extraterritorial targeting  Hong Kongers   exercising their fundamental freedoms   form  transnational repression,”  said. “We will  tolerate  Hong Kong government’ attempts  apply  national security laws  silence  intimidate Americans  anyone  U.S. soil.”
+
+The Hong Kong office   Chinese Foreign Ministry responded  opposing criticism from foreign politicians, insisting  actions were legitimate.
+
+The governements  Beijing  Hong Kong said  security laws were necessary   city’ stability.
+
+-----
+https://www.nytimes.com/2025/08/04/us/hochul-new-york-texas-redistricting.html
+The Democrats’ position  something   Texas Two Step. Lawmakers  trying  thwart Republican efforts  redraw  House maps  Texas, even  they reserve  right     New York  other states that they control. Ms. Hochul’ comments were  clearest indication  that Democrats   state   throw   rulebook  their efforts  counter President Trump.
+
+At  president’ request, Republican leaders  Texas unveiled    last week that would redraw five Democratic seats  include many more Republican voters. Democratic members   Texas House then fled  state  deny  Republican majority  quorum  State Constitution requires  legislation  pass — temporarily  least.
+
+Gov. Greg Abbott  Texas responded shortly after  New York meeting, saying   “kind  outrageous” that Texas Democrats would protest aggressive Republican redistricting  going  New York  Illinois, where Democratic lawmakers have used their power  draw lines that favor their  party.
+
+He also reiterated  threat  begin  process  remove  absent Democrats from office, which  made hours after they left  Sunday.
+
+“I believe they have forfeited their seats   State Legislature because they’  doing   they were elected  ,” Mr. Abbott said Monday   interview  Fox News.
+
+-----
+https://www.nytimes.com/2025/08/04/well/cardiac-amyloidosis.html
+When James Hicks, 75,  diagnosed with heart failure,  felt like  beginning   .
+
+Mr. Hicks,  former railroad worker from Rogers, Ark.,  quietly dealt with various health problems, from carpal tunnel syndrome  both arms  dual knee replacements. But   heart  giving ,   doctors chalked     wear  tear   . “There’ just  exactly  surgery   this,”  said.
+
+Soon enough, Mr. Hicks couldn’ walk from  grandson’ high school basketball game   , without stopping several times  catch  breath. His feet  ankles would swell   didn’ elevate them. He could feel  heart racing uncontrollably, unable  find  steady rhythm. Mr. Hicks’ doctors tried  half-dozen different medications,  nothing really helped.
+
+It wasn’ until 2023, some 10 years after  original diagnosis, that  local cardiologist raised  possibility  cardiac amyloidosis,  little-known form  heart failure.
+
+Over  past 50 years, heart failure  become    fastest-growing cardiac killers. It  long considered  disease  aging, caused  gradual  unavoidable changes   heart. But doctors   discovering that about 15 percent  cases  caused   rogue protein called amyloid, perhaps best known   role  Alzheimer’. While  type tangles neurons   brain, others infiltrate  heart, making  muscle stiff  less able  pump blood.
+
+-----
+https://www.nytimes.com/2025/08/04/well/eat/avoiding-ultraprocessed-foods-might-double-weight-loss.html
+This kind  “crossover” study design  strong because   show  each diet affected each participant, rather than averaging  responses across  group, said Brenda Davy,  professor  nutrition  Virginia Tech,    involved   study.
+
+Most   participants lost weight  both diets. But  average, they lost more weight during   months   minimally processed diet — about four pounds compared with just  pounds   ultraprocessed diet. Dr. Dicken   colleagues estimated that   weight loss  continued over  year, even   naturally slows with time,  could have added   nine  13 percent  body weight   minimally processed diet, compared with just four  five percent   ultraprocessed diet.
+
+The participants also lost more than twice  much body    minimally processed diet than they    ultraprocessed diet.
+
+Fewer calories  bite,  fewer food cravings
+
+It  somewhat surprising —  encouraging — that people lost weight   ultraprocessed diet, said Kevin Hall,  nutrition scientist   coauthor   study. This  likely because  study’ ultraprocessed diet  more nutritious than  typical diets   participants,  said. But participants still lost more weight   minimally processed diet —  finding that aligns with those  previous studies.
+
+That   because minimally processed foods tend  have fewer calories  bite, said Filippa Juul,  nutritional epidemiologist  SUNY Downstate Health Sciences University    involved   study. And those foods generally have  harder texture that requires more chewing,  people   more slowly  consume fewer calories before feeling full,  said.
+
+-----
+https://www.nytimes.com/2025/08/04/weather/wildfire-smoke-air-quality-toronto-new-york.html
+The worst smoke concentrations    smallest towns  Canada, nearest  wildfires,   creating hazardous  quality that could  harmful  people breathing  .
+
+Farther away from  fires,  strong haze  sinking   surface this morning, creating unhealthy  quality from Milwaukee  Buffalo, including other major cities like Detroit  Toronto.
+
+-----
+https://abcnews.go.com/US/wireStory/arkansas-man-sentenced-life-parole-2024-mass-shooting-124353317
+An Arkansas   shot  killed four people   grocery store  been sentenced  life  prison without parole
+
+Arkansas  sentenced  life without parole  2024 mass shooting  grocery store
+
+FILE - Damage   seen   front window   enforcement officers work  scene   shooting   Mad Butcher grocery store  Fordyce, Ark., June 21, 2024. (Colin Murphey/Arkansas Democrat-Gazette  AP, File)
+
+FILE - Damage   seen   front window   enforcement officers work  scene   shooting   Mad Butcher grocery store  Fordyce, Ark., June 21, 2024. (Colin Murphey/Arkansas Democrat-Gazette  AP, File)
+
+FILE - Damage   seen   front window   enforcement officers work  scene   shooting   Mad Butcher grocery store  Fordyce, Ark., June 21, 2024. (Colin Murphey/Arkansas Democrat-Gazette  AP, File)
+
+FILE - Damage   seen   front window   enforcement officers work  scene   shooting   Mad Butcher grocery store  Fordyce, Ark., June 21, 2024. (Colin Murphey/Arkansas Democrat-Gazette  AP, File)
+
+FORDYCE, Ark. -- An Arkansas   killed four people  injured 11 others last year   mass shooting   grocery store  sentenced Monday  life  prison without parole.
+
+A state judge sentenced Travis Eugene Posey  four life sentences  each count  capital murder. Posey  also sentenced  220 years  prison  11 counts  attempted capital murder.
+
+Posey pleaded guilty last month   shooting, which occurred last summer   Mad Butcher grocery store  Fordyce,  city  about 3,200 people located 65 miles (104 kilometers) south  Little Rock.
+
+Judge Spencer Singleton handed down  sentence after testimony from family members  victims   shooting during  hearing  Fordyce.
+
+Posey  been held without bond since  shooting  previously pleaded  guilty   same charges.
+
+Prosecutors  police have  publicly identified  motive  Posey,   shot  injured  officers  exchanged fire with . Police have said    appear  have  personal connection     victims.
+
+-----
+https://abcnews.go.com/International/wireStory/stella-rimington-britains-female-mi5-spy-chief-dies-124353990
+Stella Rimington,  first female chief  Britain' MI5,  died     90
+
+FILE - In this Dec. 14, 2004 file photo,  former head   British Intelligence service Stella Rimington poses   office  London. (AP Photo/Dave Caulkin, File)
+
+FILE - In this Dec. 14, 2004 file photo,  former head   British Intelligence service Stella Rimington poses   office  London. (AP Photo/Dave Caulkin, File)
+
+FILE - In this Dec. 14, 2004 file photo,  former head   British Intelligence service Stella Rimington poses   office  London. (AP Photo/Dave Caulkin, File)
+
+FILE - In this Dec. 14, 2004 file photo,  former head   British Intelligence service Stella Rimington poses   office  London. (AP Photo/Dave Caulkin, File)
+
+LONDON -- Stella Rimington,  first female chief  Britain’ MI5 intelligence agency  later  successful thriller writer,  died,  family said Monday. She  90.
+
+The first woman  head  U.K. intelligence agency, Rimington   inspiration  Judi Dench’ portrayal  MI6 chief M  seven James Bond films.
+
+Her family said   statement that Rimington died  Sunday “surrounded   beloved family  dogs  determinedly held    life  loved until  last breath.”
+
+MI5’ current director-general, Ken McCallum, said that “  first avowed female head   intelligence agency   world, Dame Stella broke through long-standing barriers    visible example   importance  diversity  leadership.”
+
+Born  London  1935, Rimington studied English  Edinburgh University  later worked   archivist. She  living  India with  diplomat husband   -1960s when   recruited  MI5, Britain’ domestic security service,   part-time clerk  typist   New Delhi office.
+
+She joined  agency full-time after moving back  London  1969  rose through  ranks, overcoming rules that kept  most prestigious roles, such  recruiting  running agents,   only.
+
+She worked  each  MI5’ operational branches — counterespionage, counterterrorism  counter-subversion —   time when MI5’ work included sniffing  Soviet spies, infiltrating Northern Ireland militant groups , controversially, spying  leftists, trade union leaders  other alleged subversives.
+
+Rimington acknowledged  2001 that  organization “ have been   over-enthusiastic”  some   snooping  domestic targets during  Cold War.
+
+Rimington  appointed MI5 director-general  1992,  first head   organization   named  public,   tenure   secretive organization become slightly more open.
+
+Dench’ first appearance  M,  role formerly played  ,   “GoldenEye”  1995. The film’ producers said  casting  inspired  Rimington’ appointment.
+
+After stepping down  1996, Rimington  made  dame,  female equivalent   knight,  Queen Elizabeth II.
+
+Rimington later published  memoir, “Open Secret” —   displeasure   government —   series   thrillers featuring fictional MI5 officer Liz Carlyle.
+
+“The Devil’ Bargain,” published  2022, introduced   heroine, CIA officer Manon Tyler.
+
+Other women followed   intelligence jobs. Eliza Manningham-Buller  MI5 between 2002  2007. Anne Keast-Butler became head  electronic  cyber-intelligence agency GCHQ  2023.Blaise Metreweli  named  June   first female head   overseas intelligence agency, MI6.
+
+Rimington   husband, John Rimington, separated   1980s,  moved back  together during  COVID-19 lockdown  2020.
+
+“It’  good recipe  marriage, I’ ,”  said. “Split , live separately,  return   later.”
+
+She  survived   husband,  daughters  five grandchildren.
+
+-----
+https://abcnews.go.com/Politics/wireStory/texas-dispute-highlights-nations-long-history-partisan-gerrymandering-124352085
+A spat over congressional redistricting  Texas marks  latest episode   long national history  gerrymandering
+
+FILE - Evan Milligan, center, plaintiff  Merrill . Milligan,  Alabama redistricting case, speaks with reporters following oral arguments   Supreme Court  Washington, Oct. 4, 2022. (AP Photo/Patrick Semansky, File)
+
+FILE - Evan Milligan, center, plaintiff  Merrill . Milligan,  Alabama redistricting case, speaks with reporters following oral arguments   Supreme Court  Washington, Oct. 4, 2022. (AP Photo/Patrick Semansky, File)
+
+FILE - Evan Milligan, center, plaintiff  Merrill . Milligan,  Alabama redistricting case, speaks with reporters following oral arguments   Supreme Court  Washington, Oct. 4, 2022. (AP Photo/Patrick Semansky, File)
+
+FILE - Evan Milligan, center, plaintiff  Merrill . Milligan,  Alabama redistricting case, speaks with reporters following oral arguments   Supreme Court  Washington, Oct. 4, 2022. (AP Photo/Patrick Semansky, File)
+
+When Democratic lawmakers fled Texas    prevent  Republican- Legislature from redrawing  state' congressional districts,  marked  latest episode   long national history  gerrymandering.
+
+The word “gerrymander"  coined  America more than 200 years    unflattering means  describing political manipulation  legislative -making.
+
+The word  stood  test  time,  part, because American politics  remained fiercely competitive.
+
+In many states, like Texas,  state legislature  responsible  drawing congressional districts, subject   approval  veto   governor. District maps must  redrawn every 10 years, after each census,  balance  population  districts.
+
+But  some states, nothing prevents legislatures from conducting redistricting more often.
+
+In  effort  limit gerrymandering, some states have entrusted redistricting  special commissions composed  citizens  bipartisan panels  politicians. Democratic officials  some states with commissions   talking  trying  sidestep them  counter Republican redistricting  Texas.
+
+If  political party controls both  legislature  governor’ office —   such  large legislative majority that   override vetoes —   effectively draw districts   advantage.
+
+One common method  gerrymandering    majority party  draw maps that pack voters  support  opposing party into   districts, thus allowing  majority party    greater number  surrounding districts.
+
+Another common method    majority party  dilute  power   opposing party’ voters  spreading them among multiple districts.
+
+The term dates  1812, when Massachusetts Gov. Elbridge Gerry signed  bill redrawing state Senate districts  benefit  Democratic-Republican Party. Some thought  oddly shaped district looked like  salamander. A newspaper illustration dubbed  “The Gerry-mander” —  term that later came  describe  district drawn  political advantage. Gerry lost -election  governor  1812   election that same year  vice president with President James Madison.
+
+Not under  U.S. Constitution. The Supreme Court,   2019 case originating from North Carolina, ruled that federal courts have  authority  decide whether partisan gerrymandering goes  . Chief Justice John Roberts wrote: “The Constitution supplies  objective measure  assessing whether  districting  treats  political party fairly.”
+
+The Supreme Court noted that partisan gerrymandering claims could continue   decided  state courts under their  constitutions  laws. But some state courts, including North Carolina' highest court, have ruled that they also have  authority  decide partisan gerrymandering claims.
+
+Yes. Though ' difficult  challenge legislative districts  political grounds,  Supreme Court  upheld challenges  racial grounds. In  2023 case from Alabama,  high court said  congressional districts drawn   state' Republican- Legislature likely violated  Voting Rights Act  diluting  voting strength  Black residents. The court   similar claim proceed  Louisiana. Both states subsequently redrew their districts.
+
+Statisticians  political scientists have developed  variety  ways    quantify  partisan advantage that   attributable  gerrymandering.
+
+Republicans,  control redistricting  more states than Democrats, used  2010 census data  create  strong gerrymander. An Associated Press analysis  that decade' redistricting found that Republicans enjoyed  greater political advantage  more states than either party    past 50 years.
+
+But Democrats responded  match Republican gerrymandering after  2020 census. The adoption  redistricting commissions also limited gerrymandering  some states. An AP analysis   2022 elections —  first under  maps — found that Republicans  just  more U.S. House seat than would have been expected based   average share   vote they received nationwide. That     most politically balanced outcomes  years.
+
+-----
+https://abcnews.go.com/Politics/wireStory/mitch-mcconnells-legacy-fire-kentucky-race-replace-senate-124352875
+Republican Nate Morris warmed   recent crowd  party faithful  gushing about President Donald Trump  recounting   life’ journey
+
+Mitch McConnell' legacy comes under fire  Kentucky race  replace    Senate
+
+Tech entrepreneur Nate Morris,  candidate  United States Senate, talks with reporters   annual Fancy Farm picnic Saturday, Aug. 2, 2025,  Fancy Farm, Ky. (AP Photo/Mark Humphrey)
+
+Tech entrepreneur Nate Morris,  candidate  United States Senate, talks with reporters   annual Fancy Farm picnic Saturday, Aug. 2, 2025,  Fancy Farm, Ky. (AP Photo/Mark Humphrey)
+
+Tech entrepreneur Nate Morris,  candidate  United States Senate, talks with reporters   annual Fancy Farm picnic Saturday, Aug. 2, 2025,  Fancy Farm, Ky. (AP Photo/Mark Humphrey)
+
+Tech entrepreneur Nate Morris,  candidate  United States Senate, talks with reporters   annual Fancy Farm picnic Saturday, Aug. 2, 2025,  Fancy Farm, Ky. (AP Photo/Mark Humphrey)
+
+CALVERT CITY, Ky. -- Republican Nate Morris  deftly warmed   crowd  party faithful, gushing about President Donald Trump  recounting   life’ journey — from hardscrabble childhood  wealthy entrepreneur — when  turned  attention     wants  replace, Sen. Mitch McConnell.
+
+That' when things  feisty. While bashing Kentucky' longest-serving senator   GOP dinner     Saturday' Fancy Farm picnic,  tradition-laden stop   state' political circuit, Morris     midsentence   party activist   crowd,  noted that McConnell ' seeking reelection  pointedly asked Morris: “What   running ?”
+
+Morris touted  hard line stance  immigration  defended Trump' tariffs   boon  American manufacturing. But  didn' retreat from  harsh critique  McConnell.
+
+“We’ seen 40 years  doing   same ," Morris said. "And, , ’    ballot,   legacy    ballot. Do  want 40 more years  that? I ’ think  .”
+
+The pushback from  county GOP chairman revealed  political risks  attacking  83-year- McConnell   twilight   career. Towering over Kentucky politics  decades, McConnell  regarded   master strategist behind  GOP' rise  power   state long dominated  Democrats. The state Republican headquarters bears McConnell' name. As  longest-serving Senate party leader  U.S. history, McConnell guided Republican policymaking  helped forge  conservative Supreme Court. Back home,  appropriating skills showered Kentucky with federal funding.
+
+Now,  blunt-force style  campaigning — which undercut  many foes —  being used against .
+
+Morris  running against  other prominent Republicans — U.S. Rep. Andy Barr  former state Attorney General Daniel Cameron —  McConnell' seat. The outcome will  decided   spring primary next year. Kentucky hasn’ elected  Democrat   Senate since Wendell Ford  1992.
+
+All three Republican hopefuls lavish praise  Trump —  hopes  landing  endorsement —  also have ties  McConnell,  mentored generations  aspirational Republicans. Cameron  Barr have chided McConnell  times,  ' been mild compared  Morris' attacks. Morris interned  McConnell  glosses over that connection.
+
+At events surrounding  Fancy Farm picnic,  event long known  caustic zingers that   always relished, McConnell showed  sign  backing down.
+
+“Surely this ’ true,  I’ heard that    candidates running   office wants   different,” McConnell told  Republican crowd that included Morris   -picnic breakfast  Mayfield. “Now, I’ wondering  ’ want   different from  longest-serving Senate leader  American history. I’ wondering  ’ want   different  supporting President Trump.”
+
+McConnell received multiple standing ovations. Morris stayed seated.
+
+McConnell  consistently voted  Trump' policies more often than Kentucky' other Republican senator, Rand Paul, according   Congressional Quarterly voting analysis. McConnell recently supported Trump' signature   spending measure. Paul opposed , saying  would drive  debt.
+
+Yet Morris  taken  McConnell,   famously   --down relationship with Trump.
+
+McConnell teamed with Trump   conservatives   federal bench  pass  cuts during  president' first term. McConnell also guided  Senate —  Trump — through  impeachment trials that ended  acquittals. But  relationship  severed after McConnell blamed Trump  “disgraceful” acts   Jan. 6, 2021, Capitol attack  Trump' supporters.
+
+McConnell endorsed Trump  2024,    biography  Michael Tackett  The Associated Press, released shortly before  election, McConnell described   “ despicable human being.”
+
+Morris,  started  waste management technology company, says  senator  been insufficiently loyal  Trump  allowed festering issues like immigration   national debt  grow worse during  years  Senate leadership.
+
+Morris wants  tether  opponents  McConnell while running  anti-establishment themes that  campaign thinks will appeal  legions  Trump supporters   Bluegrass State.
+
+“Let’ face , folks, career politicians have  this country   cliff,” Morris said.
+
+Morris' rivals    anti-McConnell attacks   angry, backward-looking message. Cameron called   diversionary tactic  obscure what  said  Morris' lack  both  message  credibility   supporter  Trump' MAGA movement.
+
+"He ’ talk about  actual record. So    choose  pick   83-year-,” Cameron said.
+
+At Fancy Farm, where candidates hurl insults   another against  backdrop  bingo games  barbecue feasts, Morris took  swipe  McConnell' health.
+
+“I have  serious question:  here  honestly tell  that ’  good thing  have  senior citizen  freezes  national television during  press conferences   U.S. senator?” Morris said. "It seems,  , maybe just maybe, Mitch’ time  leave  Senate   long time ."
+
+McConnell   customary front- seat  much   event  wasn' there  Morris' remarks. He typically leaves before   speeches  delivered  exited before  would- successors spoke.
+
+McConnell complimented Trump   speech, singling  Trump' bombing  Iranian nuclear sites.
+
+“He turned Iran' nuclear program into  pile  rocks,” McConnell,  steadfast advocate   muscular U.S. foreign policy, said  cheers.
+
+At  GOP dinner  night before  Calvert City, where candidates typically  more politely received, party activist Frank Amaro confronted Morris   anti-McConnell barrage.
+
+“He keeps bashing Mitch McConnell like ’ running against Mitch McConnell,” Amaro,  county Republican chairman, said afterward. “Overall, ’ helped Kentucky   United States, especially  Supreme Court, more than  other U.S. senator  this country.”
+
+But Morris' blistering assessment  McConnell   mark with Trump supporter Patrick Marion,  applied  dreaded Republican--Name-Only label  McConnell.
+
+“Personally, I think Mitch  been  RINO    long,” Marion said later. “I ' think    true MAGA supporter  President Trump.”
+
+Afterward, Morris    mood  back .
+
+“He’  nastiest politician maybe   history  this state     history  this country,” Morris said  McConnell. "Look,  live   sword,     sword.”
+
+-----
+https://abcnews.go.com/Entertainment/wireStory/job-meat-processing-plant-country-music-stardom-bailey-124352865
+
+You are a Current Events UIL question writer. Using only the information below (do not add outside details), generate as many multiple-choice current events questions as possible at an advanced (“very very very hard”) difficulty level.
+Requirements:
+- Each question must have a concise, high-level stem that tests deep understanding, synthesis, or nuance from the information.
+- Provide exactly four answer choices labeled A–D, with one clearly correct answer and three highly plausible distractors.
+- Distractors must be subtle, drawing on related details or common misconceptions found in the text.
+- Do not introduce any facts or context not present in the source material.
+- For each article or segment separated by a “––––––––––––––––––––––––”, generate at least one and up to three questions based solely on that segment.
+- At the end, include an Answer Key listing each question’s number, correct answer letter, and:
+    - A brief explanation citing the specific text evidence supporting the answer.
+    - The associated URL that corresponds to the source of the question (use the one placed above each dashed info section).
+
+Formatting:
+- Do not include citations, summaries, or explanations under each question.
+- Place all explanations and source URLs in the Answer Key only.
+- Do not include any additional commentary beyond the questions and the formatted Answer Key.
+Info: 
+
+
+NEW YORK -- His   Cinderella story.
+
+Before   tours  country music award nominations, Bailey Zimmerman  growing    small town  Louisville, Illinois, working   local meat processing plant  laying  pipeline. Then,  2020,  decided  upload videos  himself singing  social media — Black Stone Cherry' “Stay,” , later,  original.
+
+He quickly garnered   base  TikTok. It wasn' overnight,    fast. Soon,  inked  deal with Warner Music Nashville  released  debut full-length, 2023' “Religiously. The Album.” It peaked  No. 7   -genre Billboard 200 chart   certified -times platinum   Recording Industry Association  America. Now comes Friday, when  follows   with  sophomore offering, “Different Night Same Rodeo.”
+
+“I ' know what I' doing,” Zimmerman, 25, tells The Associated Press through  smile. “I randomly  into music  2020, 2021,  I’ never sang before. I’ never wrote songs before.”
+
+After “Religiously. The Album.”  well — something  didn'  coming — Zimmerman found himself trying  recreate  while writing   second album. “It just didn' work,”  says. “I just found myself  really writing that great  songs because I’ trying  write other songs that have already been written.”
+
+So,  took  step back,  asked himself: “What  I trying   with  music? And what   whole goal  this next album?” The answer  simple: He wanted  tell stories from  life.
+
+“You didn' know what  were doing  first time. And  ' know what ' doing ,”  told himself. “So just write songs that  love    write songs that  feel like people  relate ,  know, stories from things I’ been through.”
+
+On “Different Night Same Rodeo,” those stories  told  -hearted ballads (“Hell  High Water”), good time stomps (“New  Country”)  varied collaborations, including with country star Luke Combs (“Backup Plan”),  rising  voice  Kid LAROI (“Lost”),  Diplo (“Ashes”). He' always been open  such eclectic collaborations, anchored   raspy, charismatic tone — Zimmerman' highest charting song  date  “All The Way,”  --country hybrid  features  with rapper BigXThaPlug.
+
+For  second album, Zimmerman wanted  make sure  worked with artists   true relationships with. For Combs,  knew  singer would  perfect   fiery “Backup Plan” —  just never thought ' meet . Then, Combs invited Zimmerman  perform   Hurricane Helene relief benefit “Concert  Carolina.” They   ,   rest  history. The Kid LAROI (“We' like  same person,” Zimmerman says)  Diplo (“Sometimes things just feel like God' plan,”  says) were partnerships that also happened organically.
+
+“When I collaborate, I just want     real friendship,”  says. “And I want   feel real, because  comes across  real when ’ .”
+
+For  artist  describes himself  “dealing with  little   impostor syndrome,”  seems  know,  least intuitively, what works  himself   fans.
+
+“The main reason I write music   people know they’  alone  that I’ been through  things that they’ been through, ,”  says. “I think that’ what I started  whole career ,  people relating   kind  ‘therapy writing,'”  says. “'Different Night Same Rodeo' — '  fluctuation  life. It’     downs,  mountains,  valleys,  ’ still   good vibe.”
+
+-----
+https://www.cnbc.com/2025/08/04/contentious-july-jobs-report-confirms-the-us-economy-is-slowing-sharply.html
+Caution tape hangs near  steps  Federal Hall across from  New York Stock Exchange  New York. Michael Nagle | Bloomberg | Getty Images
+
+Though   have been controversial,  July jobs report helped confirm  notion that  U.S. economic engine  sputtering. Nonfarm payrolls rose  just 73,000   month, below even  muted expectations. Heavy downward revisions   May  June count took  three-month average  gains down  just 35,000,  less than -third  pace   same period  year . Traditionally  lagging indicator when  comes  recessions,  weakness   growth points   economy that   slowing even more than some   traditional metrics  showing. "We    broad economic slowdown. Whether  translates   recession     question that I' asking ," said Luke Tilley, chief economist  Wilmington Trust. "The labor market  ,  ' hard  gauge what' going  happen." Wilmington   50% chance  U.S. slides into recession. Tilley cites concerns over  longer-term  from tariffs that could depress consumer spending, which drove 68%   economic activity   first quarter,  well  business investment  hiring. In fact,  said pressure from tariffs     reasons that  pass-through from President Donald Trump' levies hasn'  inflation  hard  many economists expected. "If consumers  shouldering  burden, they' spending more  imports  they will  back  recreational spending, airlines, Disney trips,  parks, hotels,   that,"  said. "We' seen that   data,  that'  there'  inflationary impact."
+
+Reasons  optimism
+
+To  sure,  growth picture   from dire  this point. Gross domestic product increased   3% annualized pace   second quarter, providing   face  picture   vibrant economy. However, when looked    first half, GDP averaged only about 1.2% growth, with consumer spending barely  1%. The primary reason    jump  Q2   reversal   import surge during  first quarter  companies sought   ahead  tariffs. In  first quarter, growth fell 0.5% amid  swell  imports, which subtract from  GDP calculation. If  July unemployment report portends what'  come,  picture  bound   gloomier. "The most likely outcome  still weaker economic growth   second half  2025  early 2026 compared  2024   first half  this year,   recession," Gus Faucher, chief economist  PNC, wrote following  jobs release Friday. "But given  revised read   labor market, recession risks  elevated,  higher tariffs make that risk even higher,"  added. "It  easy    very weak  growth  higher tariffs could cause consumers   back  their spending  businesses   back  their investment, pushing  economy into  recession." Goldman Sachs forecasts growth   just 1%   final  quarters   part  slower consumer spending  " sharp slowdown  real income growth that reflects weaker  growth, higher tariff-driven inflation,  reductions  transfer payments  [ fourth quarter] that were included   recent fiscal bill." "Friday' payrolls report brings payroll growth closer  line with  data indicators   gains   broader growth dataset, both  which have slowed significantly  recent months. Taken together,  economic data confirm  view that  US economy  growing   below-potential pace,"  firm said   note over  weekend.
+
+watch 
+
+Despite  cloudy outlook, White House officials insist  economy  sound  will only  better once President Donald Trump' One Big Beautiful Bill Act kicks . Trump himself pushed back hard against  July jobs report, firing Bureau  Labor Statistics Commissioner Erika McEntarfer  Friday   called  numbers "FAKED"  "RIGGED"   Truth Social post. However, White House economist Kevin Hassett  Monday told CNBC  revisions were concerning even   also touted broader economic strength. "There     really good reasons   super optimistic about second half   year. But absolutely that jobs number,   revision turns    true, does suggest that there' less momentum than  thought," said Hassett,  director   National Economic Council   thought    leading contender   vacant seat   Federal Reserve Board  Governors.
+
+Looking   Fed
+
+Trump administration officials have been calling   Fed    benchmark funds level that feeds into multiple other consumer interest rates. The Fed last week held  rate steady,  several officials made public comments since  report saying they still think  labor market  strong. However, further signs  economic weakness could change that. Housing data  been poor lately, reflecting  declining level  buyers along with rising prices  stubbornly high mortgage rates. "What   doing with  national average 30-year mortgage rate still close  7%   economy growing  1%?" veteran economist  strategist Jim Paulsen wrote   Substack post. "There  nothing 'healthy  solid' about these [economic] numbers, they   below  2% stall speed,  shout  help." Other economists echoed that sentiment. "To , today' jobs report  what entering  recession looks like," Josh Bivens,  chief economist   Economic Policy Institute,  left-leaning think tank, wrote after  Friday report. "The economy    precipice  recession. That'  clear takeaway from last week' economic data dump," Mark Zandi, chief economist  Moody' Analytics, posted Sunday  X. Monday bought more  news, with factory orders falling 4.8%, actually  touch less than  Dow Jones estimate though  worst reading since January 2024. Also,  Conference Board' employment trends index declined  July, hitting  lowest since October 2024.
+
+Markets have been resilient
+
+-----
+https://www.cnbc.com/2025/08/04/firefly-aerospace-ipo-range-space.html
+Firefly Aerospace CEO Jason Kim sits   interview   Firefly Aerospace mission operations center  Leander, Texas, U.S., July 9, 2025.
+
+Firefly Aerospace  lifted  share price range   upcoming initial public offering   move that would value  space technology company  more than $6 billion.
+
+The lunar lander  rocket maker said   filing Monday that  expects  price shares   upcoming IPO between $41  $43 apiece.
+
+Firefly'  target range would raise nearly $697 million       range. That'  from  previously expected $35  $39 price  share that Firefly announced   filing last week, which targeted  $5.5 billion valuation.
+
+Firefly announced plans   public last month  interest  space technology gains steam,  billionaire- companies such  Elon Musk' SpaceX rake  more funding.
+
+-----
+https://www.cnbc.com/2025/08/04/everything-is-about-to-get-expensive-small-businesses-may-raise-prices-to-cover-tariffs.html
+"Everything  about   really --- expensive," says Melanie Abrantes,  Oakland, California-based business owner  sells home décor. Abrantes    many CEOs  small  medium-sized consumer product businesses   U.S.   President Donald Trump' tariffs could force them  raise prices before     year. Last week, Trump updated tariff rates  dozens  countries, ranging from 10%  41% duties that  into effect starting Aug. 7. Goods that  considered  have been transshipped,  shipped through  intermediate country  disguise where they were originally made  avoid applicable duties, will   with  additional 40% rate. U.S. businesses that stocked   inventory earlier this year   starting   , they . When they reorder from their overseas manufacturers, they' need   steep import costs. "While inventory front-running  mitigated  need  raise goods prices,  will become increasingly difficult  businesses  absorb higher import duties  -tariff stockpiles dwindle," Wells Fargo economists wrote   July research report. "We expect core goods prices  pick  further   second half   year   result." Matt Hassett (   relation   economist Kevin Hassett) runs New York-based startup Loftie. He  five months' worth   smart alarm clocks  stock  April, when Trump first detailed  tariff plan,  says.
+
+Matt Hassett, founder  CEO  Loftie Loftie Inc.
+
+Come September, Hassett will need  import   batch from Loftie' manufacturer  China,  says. At  current 30% tariff rate,  says ' likely raise  price   popular $170 smart clock  $185,  increase  9%. "A   people think this [tariff] situation     right , because    business owners  inventory  hand," says Hassett. "It' only just starting  trickle down into actual [consumer goods] prices. I think there' been  false sense  ease about this." U.S. consumers will experience  overall average effective tariff rate  18.3%,  highest since 1934, according   estimates from The Budget Lab  Yale University. The tariffs  expected  cost U.S. households  average $2,400  2025,  nonpartisan research center said. Abrantes,  makes  sells items like bowls, planters  vases made from wood  cork, imports some   products  materials from Portugal. She says   already raised  prices   much  $50  some products  expects   need  raise them again before     year. She' considering simplifying  product line — selling fewer  less expensive items —   costs,  says. "I have  premium product that    very niche group  people," says Abrantes. "At     , consumers   going   splurging." Even small price hikes   uncertain economy  push -  middle-income consumers away from discretionary purchases  toward cheaper products,  2024 Boston Consulting Group found. Small businesses tend  operate with slim profit margins. If consumers pull back, swaths  those companies could close, says Todd McCracken, president  CEO   National Small Business Association advocacy group. "Retailers have been able  hold  line  pricing  ,    tariffs will impact merchandise   coming weeks," David French, executive vice president  government relations   National Retail Federation told CNBC  August 1. "We have heard directly from small retailers   concerned about their ability  stay  business   face  these unsustainable tariff rates." The "direct result  tariffs will  higher prices, decreased hiring, fewer capital expenditures  slower innovation," French said. The ripple effects could  substantial: Nearly half  working Americans  employed  small businesses, which represent 43.5%  America' gross domestic product (GDP), according   U.S. Chamber  Commerce. For months, businesses have been scrambling  figure   solution  their impending tariff charges. Trump  repeatedly suggested  simple : Move your manufacturing   U.S. But business owners  manufacturers  '  that easy. Compared  their overseas counterparts, American factories cannot  offer competitive prices  widespread production expertise. Building that ability could take  least three  five years —  longer — companies said  CNBC' April Supply Chain Survey. Kim Vaccarella   CEO  Secaucus, New Jersey-based beach tote maker Bogg Bag. She says  company manufactures  products abroad because domestic options ' provide  same quality.
+
+Kim Vaccarella, founder  CEO  Bogg Bag. CNBC Make It
+
+-----
+https://www.cnbc.com/2025/08/04/what-a-rate-cut-means-for-stocks-plus-a-bullish-call-on-ai-spending.html
+Every weekday,  CNBC Investing Club with Jim Cramer releases  Homestretch —  actionable afternoon update, just  time   last hour  trading  Wall Street. Markets: Wall Street  putting together  strong bounce-back session Monday after wrapping  last week   sour note thanks   weak jobs report. All three major benchmarks —  S & P 500 , tech-heavy Nasdaq  30-stock Dow — added more than 1%  afternoon trading. It'  broad-based rally, with 10   11 sectors   S & P 500   green. Energy   laggard, weighed down  large part  declines  shares  ExxonMobil  Chevron ,     largest constituents   sector. We took advantage   positive   lighten   shares  Abbott Laboratories ,  third sale since July 21. If    trading restrictions,  would' used some   cash raised  that sale   more Starbucks , consistent with what Jim said last week following  coffee chain' post-earnings decline. BLS drama: President Donald Trump  Monday  again posting  social media that last week'  July nonfarm payrolls miss   massive combined downward revisions  May  June were rigged. Those comments echoed  ones that came Friday   fired  head   Bureau  Labor Statistics. On CNBC Monday morning, National Economic Council Director Kevin Hassett,   Trump'  advisers,  asked directly   BLS numbers were rigged. Hassett pivoted. He acknowledged  longstanding problem  jobs data collection that -dated Trump  said, "All over  U.S. government, there have been people  have been resisting Trump everywhere they ." Hassett,   been talked about   possible Trump choice  Federal Reserve chairman, also said, "To make sure that  data   transparent   reliable  possible, ' going   highly qualified people  there that have  fresh start   fresh   eyes   problem." Ironically,  weak jobs numbers bolster Trump' case   Fed   interest rates. Jim Cramer said Monday that    here  opine  whether Trump  doing  right thing  . However, Jim said   here  help Club members make money. He concluded that  jobs numbers point   weakening economy  suggest  Fed should  wait  longer   rates. If  Fed cuts rates   September meeting,   market expects, Jim said  stock market should  , even ahead   move,  investors should make money. Keep  spending: The generative AI boom ' slowing down anytime soon, according  Morgan Stanley' analysis  capital expenditure (capex) plans. In  note  clients, analysts said  11 largest hyperscalers — including Club holdings Meta Platforms , Microsoft , Amazon  Apple —  projected  significantly increase their spending  cloud computing  other AI-related infrastructure into next year. Analysts expect  global capex from these companies  grow 56% year over year  2025  31%  2026. The estimates  based  second-quarter earnings reports from  aforementioned tech giants, along with those from Alphabet -owned Google, IBM , CoreWeave  Oracle , along with  Chinese tech firms Tencent , Alibaba ,  Baidu . Additionally, Morgan Stanley analysts said they wouldn'  surprised   2026 capex commitments "move materially higher"  this time next year    continued growth  AI model output  cloud providers still mentioning that demand  compute  outstripping supply. "This earnings season, most management teams highlighted  need  accelerate infrastructure deployment timelines/address tight supply  support increasingly complex cloud/AI workloads,  executives across MSFT, META, AMZN  GOOGL signaled: (1) greater confidence  generating  return  these investments;  (2)  willingness  sustain elevated levels  spending into 2026,"  analysts wrote. This   promising news   generative AI trade. As these hyperscalers pour billions into AI infrastructure,  signals that management teams  taking  technology —   demand   — even more seriously than before. We hope this means improved AI offerings from  portfolio companies, . Apple,  particular,   desperate need  , which    were pleased  hear CEO Tim Cook    conference call that  company  "significantly growing"  AI investments. Apple  comparatively spent much less  capex  recent years compared with  likes  Meta, Microsoft  Amazon. The iPhone maker    lackluster rollout   suite  AI tools called Apple Intelligence since last year. Buzzy  AI features could mean more upside  device sales  revenues   high-margin services unit. With Apple, "' actually trying figure  what they really want  ," Jim said during Monday' Morning Meeting. As  Microsoft, Amazon  Meta, ' been largely impressed  their AI plans. "The market wanted      [AI] spend because that' where  return ," Jim said. He continued, "You  think they spent  much money. That doesn' matter. People want      spend." It'  just Big Tech  their cloud customers that benefit from   AI outlays. Industrial stocks  Club holdings like Eaton , GE Vernova  Dover  benefit  their  ways from  continued construction  data centers   electricity infrastructure needed  fuel  power-hungry buildings. Earlier Monday,  published  -depth look   GE Vernova'  turbines became such   commodity   AI race. Up next: Club name Coterra Energy  among  companies reporting earnings after  close Monday, with  conference call   Tuesday morning. We' wait   call before publishing  earnings analysis, given management' comments, particularly   planned   problematic wells  part   Permian Basin, will help shape  thinking   results. Some other notable companies reporting Monday night include high-flying Palantir , obesity drug compounder Hims & Hers , Taser maker Axon Enterprise , -commerce marketplace MercadoLibre  -opoid pain medication maker Vertex Pharmaceuticals . On Tuesday morning, '  results from Club names DuPont  Eaton. Economic bellwether Caterpillar, private-equity giant Apollo Global Management  hotel operator Marriott International also    docket. It'  overall quiet week  economic data, though  Tuesday  Institute  Supply Management' monthly look  activity   U.S. services sector     10 .. ET. (See here   full list   stocks  Jim Cramer' Charitable Trust.) As  subscriber   CNBC Investing Club with Jim Cramer,  will receive  trade alert before Jim makes  trade. Jim waits 45 minutes after sending  trade alert before buying  selling  stock   charitable trust' portfolio. If Jim  talked about  stock  CNBC TV,  waits 72 hours after issuing  trade alert before executing  trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
+
+-----
