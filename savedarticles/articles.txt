@@ -44059,3 +44059,187 @@ As  young , Mr. Ahlberg held  series  solitary jobs, including digging graves. �
 “I became  gravedigger   process  elimination,”  said. “I  been  plumber’ mate,  soldier   postman.”
 
 -----
+
+==== 🕒 Run at 2025-08-05T23:28:28.536458 ====
+https://www.bbc.com/news/articles/cwy1epz58pyo?at_medium=RSS&at_campaign=rss
+The real reason weather forecasters (like ) often appear    wrong
+
+21 minutes  Share Save Carol Kirkwood Lead weather forecaster Share Save
+
+BBC
+
+Sometimes I'  walking around  supermarket,   shopper will approach    aisle. "I hosted  barbecue  Saturday   told    going  rain," they will . "And  didn'. Why     wrong?". Or  opposite: they planned     sunshine, only   disappointed  grey skies. Or  parent might    March what  weather might  like  their ' wedding -  September. Those people  always delightfully friendly,   conversations  part  what makes presenting  weather - which I' been doing   last three decades - such  . But they also shed light   strange fact. Over  career, forecasting  improved almost beyond recognition. We   predict  weather with much higher accuracy,   more granular detail, than when I began presenting    1990s.
+
+Despite great strides   accuracy  forecasting, there  still gaps  public trust
+
+Liz Bentley,  professor  meteorology  Reading University  chief executive   Royal Meteorological Society, says that  - forecast  correct over 90%   time. But despite those strides, there  still gaps  public trust. When YouGov asked British adults last summer whether they trusted  weather forecast,  substantial minority - 37% - said they didn' trust  "very much"  " ." (Reassuringly, 61% said they  trust forecasters like .) Jokes about  forecast  widespread. The 2012 Olympics opening ceremony included  clip   moment from 1987, when  weather forecaster Michael Fish told viewers   worry because there wouldn'   hurricane - only   storm   hours later. (As  happens, Michael  correct: hurricane-strength winds  strike southeast England that night,   wasn' technically  hurricane.) Still,  incident became  byword  forecaster error. So , with  wealth  knowledge   powerful forecasting technology,  some people still perceive  weather  incorrect? And   really   wrong   something more complicated  play around   share forecasts?
+
+Great accuracy -  great expectations
+
+Part   challenge  around expectations, which have risen   world  round--clock access  information. We  tweak  temperature   fridge  identify  problem    from  smartphones   fraction   second. So  '  find  whether ' going  rain   street  2pm  Sunday with 100% accuracy - surely,  easier feat?
+
+AFP  Getty Images In  summer months  particular, viewers  huge attention   weather forecast
+
+Another part   challenge   that wealth  information  boiled down  communicated. Meteorology produces  overwhelming amount  data; ' difficult  condense  into  snappy, TV  digital -friendly prediction. It means that even when   technically correct, some viewers might still   confused. But  answer also lies   tricky nature  meteorology. It'  delicate science,   tiny inaccuracy   data  skew things -  knock    shape.
+
+It' difficult  condense  masses  data into  snappy, digital -friendly predictions
+
+Every , across  British Isles, forecasters collect "observations" ( data)  things like temperature  wind speed, through  network  more than 200 "weather stations"    Met Office. The data  then plugged into mathematical models   powerful machines,  "supercomputers". Earlier this year  Met Office unveiled   supercomputer, switching   first time from  physical machine  cloud-based software. The  device will deliver "better forecasts  help scientists advance important climate research around  world",  Met Office says. But  with  science, there  weaknesses.
+
+Chaos Theory: when weather goes wrong
+
+The atmosphere  known   "chaotic system", meaning that  slight error - even  small  0.01C -   initial observations  produce  drastically different result. "It' called Chaos Theory," explains Prof Bentley. "Or  Butterfly Effect. The analogy  that   butterfly flaps  wings  Brazil,  could have  impact   atmosphere across northern Europe,  days later." There' also  particular challenge when predicting  weather over small geographic areas.
+
+A slight error   data - even  small  0.01C -   initial observations  produce  drastically different result
+
+In  1990s,  weather event needed   larger than about 100 miles (161km) before  could  fully observed - ,  UK-wide weather model used   Met Office   weather events  small  2 miles (3km), Prof Bentley says. But zooming  beyond that size remains difficult,  predicting weather like heavy  - which might affect only  1km space -  particularly tricky. And even with huge improvements   science, technology glitches still happen - though these  mercifully rare. Last autumn,  BBC Weather website briefly showed impossibly fast winds  over 13,000mph  London,  well  temperatures  404C  Nottingham. The BBC apologised  " issue with some   weather data from  forecast provider".
+
+The trouble with boiling down data
+
+The biggest challenge     synthesising this data   fits into  tight television segment. "There'  other science  tested, checked  judged   general public," says Scott Hosking,  director  environmental forecasting   Alan Turing Institute. "It'  complex  nuclear fusion physics,  most   ' experience that   ,    ' have  come  with    communicate that science   public."
+
+One cause  confusion  when different weather providers appear  show different forecasts - Carol Kirkwood explains  this happens
+
+It' also easy  forget that forecasting  just that - predicting. Over  years, ' gotten   better  this subtle   "communicating uncertainty". Meteorologists  produce "ensemble forecasts", where they might  50 different models,  with slight variations. If   those scenarios point   similar outcome, meteorologists   confident they'   right. If they produce different outcomes, then their confidence  much lower. This  ,   weather ,  might   10% chance  rain  your area.
+
+Time  rethink forecasts?
+
+Forecasters often think about this tricky issue  communication;   weather   more easily explained. Last week,  BBC announced   partnership with  Met Office. It came eight years after they officially ended their relationship (since 2018,  Dutch MeteoGroup  provided  BBC' forecasts). The  deal aims  combine expertise    organisations  "turn science into stories," explained Tim Davie,  BBC' director-general. Certainly, some think more creativity  needed  communicating  weather. Dr Hosking   Alan Turing Institute suggests forecasters could move away from giving  percentage chance  rain,  instead   "storyline approach". In this style, forecasters could  things like, "What ' seeing   similar  what     certain event   years ' - something within memory."
+
+Getty Images More creativity  needed  communicating  weather, according  some experts -   suggested  "storyline approach"
+
+This  partly   Met Office,  2015, decided  name storms. But Prof Bentley argues that numbers   powerful -  perhaps ' better   consumers with  hard data they need. In  US,  says,  weather forecast  percentages "everywhere"; American consumers  told  everything from chance  rain,   likely spread  temperature. "The public  comfortable [with ],"  says. "Because they'  that information given  them  often, they kind   ."
+
+The  weather super predictor
+
+Weather forecasting could soon change dramatically with  advent  Artificial Intelligence (AI). The   machine learning  predict  weather  developed rapidly  recent months. It' often said that forecasters have gained 24 hours  accuracy with each passing decade, meaning  Met Office   release  weather warning seven days  advance. But AI models designed  Google DeepMind  already correctly predicting  weather 15 days  advance, Dr Hosking says.
+
+Met Office The Met Office calculates  forecast using ultra-powerful machines known  'supercomputers' - like   pictured above, which  used from 2017 until earlier this year.
+
+Earlier this year,  team  researchers  Cambridge University released  fully AI-driven weather programme called Aardvark Weather. The results were written   Nature journal. Whilst traditional forecasting requires hours     powerful supercomputer, researchers , Aardvark   deployed   desktop computer  minutes. They claim this uses "thousands  times" less computing power,  that   predict  weather  more granular detail. They also claim  will improve forecasts  west Africa  other poor regions ( best traditional forecasting models  mostly designed  Europe   United States). "It could  transformational; ' super exciting," says Richard Turner, professor  machine learning  Cambridge University,      designers   model.
+
+In 1987, weather forecaster Michael Fish told viewers   worry because there wouldn'   hurricane - only   storm   hours later
+
+But Prof Bentley identifies  weakness  AI-driven weather models: they   with reams  historic data,  trained  spot patterns - which   view makes  very difficult  predict events that haven' happened . "With climate change, ' going    records,"  says. "We   41C   UK. But  AI  always looking backwards,  will never  41 because '    ." Prof Turner accepts that this   challenge with AI models like   says  team  working  remedies.
+
+The ' what' factor
+
+In  future, analysts think, forecasts will  into more depth. Rather than just predicting rain,  forecast will increasingly tell  what effect that rain will have -  your travel,   your garden plans. Prof Bentley calls this  " what" factor. "Do   something  [ weather ] that says, 'If ' planning  barbecue, then  might want     lunchtime because  chances  ' going   washed    afternoon'?" This chimes with  trend I' noticed from   career:  growing interest  understanding  science behind  weather.
+
+Carol Kirkwood  been  weather forecaster  30 years   observed  change  what viewers want
+
+Viewers   longer just interested  knowing whether there'   heatwave; they want  know . That'  reason  publish more content explaining  physics   aurora borealis,   climate change  leading  bigger hailstones. As  AI,  certainly could improve accuracy -  there'  risk, also, that viewers become deluged  information. Dr Hosking says that because AI  more nimble   tweak weather models more quickly, users will soon have access  frequently-changing forecasts. They  also have "much more localised" information,  says (perhaps giving data  just  your town,   your back garden, other analysts predict). This could lead   overwhelming amount  data  those using  , gluing users  their smartphones. And  that world,  will become even more important  human forecasters  communicate  weather   clear, understandable . But there  upsides  -  least  prospect  much longer-term, more accurate forecasts. Perhaps  , when  mother asks   predict weather   ' wedding  months from , I might  able  give  slightly better answer. Additional reporting: Luke Mintz
+
+-----
+https://www.pbs.org/newshour/politics/trump-administration-cannot-reallocate-billions-meant-for-disaster-mitigation-federal-judge-rules
+BOSTON (AP) — A federal judge  Tuesday blocked  Trump administration from reallocating $4 billion meant  help communities protect against natural disasters.
+
+U.S. District Judge Richard G. Stearns  Boston granted  preliminary injunction sought  20 Democrat- states while their lawsuit over  funding moves ahead.
+
+A spokesperson   Federal Emergency Management Agency   immediately respond   request  comment.
+
+WATCH: DHS Secretary Noem testifies   White House’ 2026 budget request
+
+Massachusetts Attorney General Andrea Campbell said   statement that  would continue fighting  make sure “communities  adequately prepare  natural disasters.”
+
+Massachusetts   other states that brought  lawsuit argued FEMA lacked  authority    Building Resilient Infrastructure  Communities program  redirect more than $4 billion   funding. The program aims  harden infrastructure around  country against potential storm damage.
+
+FEMA initially announced   ending  program,  later said   court filing that   evaluating .
+
+Noting money   program  allocated  Congress,  states’ lawsuit says  attempt  redirect  would  afoul   Constitution.
+
+A lawyer   government, Nicole O’Connor, argued   hearing  July that  funds   used both  disaster recovery  disaster prevention  that FEMA should have discretion    money   sees .
+
+In  ruling, Stearns said    convinced Congress  given FEMA  discretion  redirect  funds. The states  also shown that  “balance  hardship  public interest”   their favor.
+
+READ MORE: Why older rural Americans    hardest after floods  other disasters
+
+“There   inherent public interest  ensuring that  government follows  ,   potential hardship accruing   States from  funds being repurposed  great,” Stearns wrote. “The BRIC program  designed  protect against natural disasters  save lives.”
+
+The program  provided grants   range  disaster management projects, including strengthening electrical grids, constructing levees  flood protection  relocating vulnerable water treatment facilities. Many   projects   rural communities.
+
+FEMA said   news release  April that   “ending”  program,   agency’ acting chief, David Richardson, later said   court filing that FEMA  merely evaluating whether    revise .
+
+Stearns said  appeared FEMA  decided    program   “inching towards  fait accompli,” noting   cancelled  funding opportunities  told stakeholders they shouldn’ expect  unobligated funding.
+
+The states, including California, New York  Washington, argued that  threat  losing  funding alone   numerous projects  risk  being cancelled, delayed  downsized. And they warned ending  program would  highly imprudent.
+
+“By proactively fortifying  communities against disasters before they strike, rather than just responding afterward,  will reduce injuries, save lives, protect property, , ultimately, save money that would otherwise  spent  post-disaster costs,” they wrote   suit filed  July.
+
+FEMA said   court filing that  injunction      funds could hamper  ability  respond  major disasters.
+
+But Stearns said  administration could come back    release funding should  disaster  “unprecedented proportions” occur.
+
+-----
+https://www.pbs.org/newshour/show/news-wrap-texas-ag-attempts-to-expel-democrats-who-left-state-to-block-redistricting-vote
+In  news wrap Tuesday,  Texas Attorney General  ramping  pressure  Democrats  left  state  block  vote    congressional ,  central California wildfire exploded  size  nearly 130 square miles   House Oversight Committee subpoenaed  Justice Department  files related  convicted  offender Jeffrey Epstein.
+
+-----
+https://www.pbs.org/newshour/health/rfk-jr-pulls-funding-for-vaccines-being-developed-to-fight-respiratory-viruses
+WASHINGTON (AP) — The Department  Health  Human Services will cancel contracts  pull funding  some vaccines that  being developed  fight respiratory viruses like COVID-19   .
+
+READ MORE: The powerful technology behind  Pfizer  Moderna vaccines
+
+Robert F. Kennedy Jr.,  health secretary   longtime vaccine critic, announced   statement Tuesday that $500 million worth  vaccine development projects,  using mRNA technology, will  halted.
+
+The projects — 22  them —  being   some   nation’ leading pharmaceutical companies like Pfizer  Moderna  prevent , COVID-19  H5N1 infections.
+
+-----
+https://www.pbs.org/newshour/show/israeli-hostage-shown-in-hamas-video-is-starved-tortured-and-a-broken-man-cousin-says
+Geoff Bennett:
+
+This weekend, Hamas released  haunting video  24-year- Evyatar David,  Israeli hostage abducted from  Nova Music Festival during  October 7 terror attacks.
+
+In  video, which  undated, David appears  emaciated   pale,   father said  didn' recognize . David  filmed   Hamas captors    forced     grave   cramped underground tunnel. We   showing  video since David' family says '  victim   vile propaganda campaign. They' pleading  urgent international intervention.
+
+His cousin, Matan Eshet, joins   from Tel Aviv.
+
+Thank   being with . And I  deeply sorry   pain   anguish your family  enduring.
+
+I read that your family believes that Evyatar only    days left  live  that condition. Have  heard anything else about  health  condition since  release  that video?
+
+Matan Eshet, Cousin  Evyatar David: We have  heard anything  since  release   video.
+
+We only heard estimations being made  physicians  nutritionists saying  looks like  lost more than 50 percent   body weight, saying that   more days   saved,  talking about  condition that other hostages  came back that were with  said that  already  more than 150 days .
+
+-----
+https://www.pbs.org/newshour/show/bangladesh-faces-political-unrest-and-uncertainty-a-year-after-leaders-resignation
+One year ,  popular uprising  Bangladesh    deposal   long-serving prime minister. It came   country faces multiple long-term challenges related  climate change, public health  , political instability   threat  tariffs. In partnership with  Pulitzer Center, Fred  Sam Lazaro reports.
+
+-----
+https://www.pbs.org/newshour/show/the-devil-reached-toward-the-sky-documents-motivation-and-development-of-the-atomic-bomb
+The U.S. altered  course  history 80 years  when  dropped  atomic bomb  Japan. It   audacious move that ultimately      World War II. The motivation  secrecy surrounding  development   devastating consequences      focus    oral history from Garrett Graff. He  down with Amna Nawaz  discuss “The Devil Reached Toward  Sky.”
+
+-----
+https://feeds.texastribune.org/link/16799/17112107/texas-voter-id-mail-in-ballot-ruling
+The U.S. Fifth Circuit Court  Appeals found that  state’ voter ID requirements  mail- ballots   violate  Civil Rights Act.< height="1" ="https://feeds.texastribune./link/16799/17112107." width="1" />
+
+-----
+https://www.cnbc.com/2025/08/05/stock-market-today-live-updates.html
+Traders work   floor   New York Stock Exchange during afternoon trading  August 1, 2025  New York City.
+
+S&P 500 futures  near flat Tuesday night  investors analyzed  latest batch  corporate earnings.
+
+S&P 500 futures were little changed,  Dow Jones Industrial Average futures fell 13 points,  less than 0.1%. Nasdaq 100 futures ticked down 0.2%, weighed down   decline  Advanced Micro Devices .
+
+In extended trading, Snap shares tumbled 15% after revenue came  slightly below expectations, while AMD fell about 5% after posting adjusted earnings  share that missed estimates. On  other hand, Arista Networks rallied nearly 14%   stronger-than-expected report.
+
+Those moves follow  losing   Wall Street, marking  S&P 500 ' fifth down    last    Dow ' sixth negative session   past seven.
+
+Tech stocks lagged  Tuesday' session, with  Nasdaq Composite sliding nearly 0.7%. Small caps were able  buck  market downtrend, with  Russell 2000 climbing 0.6%.
+
+"We just need some digestion," said Keith Lerner, -chief investment officer  Truist Wealth,  CNBC' "Closing Bell." "Markets ' move   straight line. … But, overall, I still think  underlying trend  positive."
+
+Investors  Wednesday will monitor earnings reports slated from Disney , Uber  McDonald' before  bell, followed  Airbnb , DoorDash  Lyft after  market closes. While there'  economic data  note expected Wednesday, traders will follow speeches  Federal Reserve officials including Boston Fed President Susan Collins  San Francisco Fed President Mary Daly during  .
+
+-----
+https://www.cnbc.com/2025/08/05/how-much-it-costs-to-rent-a-1-bedroom-unit-across-10-major-cities-in-asia.html
+Finding  right place  rent    feel daunting  first-timers  even repeat real estate investors, considering  impact   have  your wallet. This  especially true   metropolitan areas, where property prices tend     higher side.
+
+Besides  popular "30% rule" which suggests that renters should spend  more than 30%  their before- income  housing, another common strategy   "3x annual income" rule — home-buyers should  their total mortgage  three times their annual household income.
+
+Based  2025 data from local property portals  government websites  each country, researchers   Global Property Guide compiled  list  median rental  purchase prices  homes across several major cities  Asia.
+
+The numbers listed below, updated  August,  based   median monthly asking price  rent    -bedroom residential dwelling within each respective city  2025, according  Global Property Guide:
+
+-----
