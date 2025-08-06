@@ -47111,3 +47111,345 @@ https://www.cnbc.com/2025/08/06/great-friend-to-tariff-king-the-changing-shades-
 In February, U.S. President Donald Trump  Indian Prime Minister Narendra Modi exchanged warm greetings  bear hugs ,  pledged  pursue  early trade agreement. Now,  months , that goodwill  soured. Trump labels India  "tariff king," threatens higher levies within 24 hours ,  accuses   fueling Russia'   Ukraine through  purchases . That shift raises questions: Will India yield  U.S. pressure,  push back  risk straining  -decade partnership ? Former Singapore diplomat Bilahari Kausikan told CNBC that India will always prioritize  national interests. "India  [] country with  deep sense  self   independent actor,"  said, adding  will "never play deputy   sheriff." On Wednesday, Trump vowed  "substantially" raise tariffs  Indian exports, following  25% hike  threats  penalties over Russian   arms purchases. That marks  stark reversal from earlier optimism, when Modi  Trump aimed  double bilateral trade  $500 billion  2030. Vice President JD Vance  agreed  terms   trade deal,  Commerce Minister Piyush Goyal  anticipated "preferential" tariffs just days before  hike. But Kausikan,   also former permanent secretary  Singapore' foreign service, said ' "absurd  think that just because New Delhi  shocked  Trump' tariffs,  insulting characterization   Indian economy  'dead'   flirtation with Pakistan, India will swing  China  Russia  U.S. expense." He  referring  Trump' post  social media , which called  economies  both India  Russia "dead." India leaned toward  Soviet Union during  Cold War,  after  USSR' collapse, India deepened relations with  U.S., especially under Presidents George W. Bush  Barack Obama. "What brought India   U.S. together   shared concern over China," Kausikan noted. "That concern ' going away." Today,   nations  elevated their partnership   "Comprehensive  Global Strategic Partnership" with cooperation  defense, technology,  clean energy . India  designated  "major defense partner"   U.S.  2016. Unraveling relationship? However, Evan Feigenbaum, Vice President  studies  Carnegie Endowment  International Peace, warned   commentary Monday that Trump' actions could unravel more than  decades  progress. Speaking  CNBC' " Squawk Box Asia ,"  said although there were points  disagreement  their bilateral relationship — such  India' ties with Russia   United States' ties with Pakistan — "they never  those third party relationships  concerns bleed back into  bilateral relationship  ways that were very debilitating." "All bets   ,"  added. India' External Affairs Ministry responded sharply  criticism over Russian  purchases Tuesday, calling  "unjustified  unreasonable." The ministry also pointed  that Western nations criticizing India  themselves continuing  trade with Russia. Feigenbaum said India sees that  "hypocritical"  "blame shifting," saying that  West' collective failure  stop     being pinned  India. He also noted growing unease from New Delhi over  United States' outreach  China. Former U.S. ambassador   U.N. Nikki Haley urged  administration   "burn  relationship with  strong ally like India," highlighting that China, which  Russia'   buyer, received  90- tariff pause  May. Deal   deal? Prospects   trade deal appear slim. Feigenbaum said Indian media,  public,   opposition  urging  government   show weakness. "Even  there'  deal,  trust  gone,"  said. Former Indian Finance Secretary Subhash Garg echoed that sentiment  CNBC' " Inside India " Tuesday: "Our positions   different that there  very little possibility   reconciliation." He suggested India should absorb  export   diversify  domestic  alternative markets. "If there   American demand, they will    [] American consumers   importers   tariff. Let them bear that." However, former Indian Labor Secretary Sumita Dawra expressed cautious optimism  CNBC  Wednesday. She said India hopes  "positive outcomes" from trade talks later  August. She said while tariffs  have  impact  exports, India' domestic demand  "very high,"  pointed  other trade agreements that  country  been making, such   India-U.K. free trade agreement   India-EU FTA, negotiations  which  expected  conclude later this year. "We' looking   fair, mutually beneficial deal," Dawra said. "I' sure  negotiators will   great ."
 
 -----
+
+==== 🕒 Run at 2025-08-06T09:03:29.080381 ====
+https://www.npr.org/2025/08/06/g-s1-81012/chatgpt-ai-college-students-chegg-study
+AI companies  targeting students. Here'  that' changing studying
+
+Ekaterina Goncharova/Moment RF/Getty Images
+
+Students  using ChatGPT more than ever —  ChatGPT knows .
+
+Last week, OpenAI launched "study mode"   chatbot, aimed directly   student market. It' meant  behave more like  tutor than  machine that spits  answers;  uses  Socratic method, builds quizzes  creates study plans. The same , Google announced  suite  study-oriented tools.
+
+So,  does generative AI compare  -school tools like textbooks  online homework helpers like Chegg  Quizlet? Do they still have  place?
+
+I first asked ChatGPT: "Would  recommend I     study tool? How   compare  textbooks  edtech companies?" The answer: "Yes, I  absolutely   useful study tool,   best results come from knowing   when    alongside textbooks  edtech platforms."
+
+Sponsor Message
+
+Then I talked  people running some  those platforms  some students   ( once used) them. As generative AI plants  stake  education, they'  doing what they   acclimate.
+
+How companies  adapting
+
+Chegg sells textbooks  offers  slate  digital services, such  generating flash cards  practice questions. In May,  company laid  about 250 employees,  22%   workforce, partly   students turning  generative AI,  confirmed  NPR. But rather than trying  expand  reach, ' zooming .
+
+"We were trying   everything  every student   -AI world," Chegg CEO Nathan Schultz says.
+
+Several generative AI platforms, including ChatGPT, have free plans. Chegg hopes  reach students  will  $19.99  month  tools that encourage long-term   goal setting.
+
+"If  think about  fitness world, those apps  those services tend   much more guided  getting   your goal," Schultz says. "They' giving , 'Every week ' going   this many miles  this many rides  this much work,'  that'  ' been designing  service."
+
+Chegg  also wrapping AI models into  platform. A  feature shows subscribers side--side panels with Chegg' answer   question next  answers from other platforms, including ChatGPT, Google Gemini  Claude.
+
+Macmillan Learning sells textbooks  ebooks,   offers quizzes  study guides. Like Chegg,   incorporated  AI tool into  paid plan  began rolling   late last year.
+
+Macmillan' tool doesn' give students straight- answers; instead,  guides them   solution through open-ended questions that expose flawed thinking (  Socratic method).
+
+Sponsor Message
+
+"It Socratically supports them  that they have that learning experience that they   … when they have    themselves   exam," says Tim Flem, Macmillan Learning' chief product officer.
+
+Flem claims Macmillan' AI tutor  more accurate than AI chatbots,   draws from  company' textbooks. The platform also reduces "content switching,"  says.
+
+"If ' switching between that   that ,  notice  ' always kind  like, 'Wait  minute, what    over here?'" Flem says. "So  AI tutor  right there next   problem that  student  working ."
+
+How students  adapting
+
+Some students  mixing  matching AI  traditional tools. Bryan Wheatley combined ChatGPT with Quizlet  Socratic (another AI tool)  study. A recent graduate  Prairie View A&M University  Texas,  initially approached ChatGPT with trepidation.
+
+toggle caption Grace Raver/NPR
+
+"Something that' really adaptive  kind  crazy   sense,"  says, though  went      outline essays   other tasks. He says ChatGPT  correct about half  time,         cross-referencing.
+
+He     66%  students  bachelor', master'  doctoral programs using ChatGPT regularly, according  July 2024 research from  Digital Education Council.
+
+The survey also found that over 50%  students believed  much reliance  AI would negatively impact their academic performance.
+
+Sally Simpson  trying  hold  line. The Georgetown University student, ' working   Ph.D.  German literature, does   generative AI. In  undergrad days,  used websites like Quizlet  SparkNotes  reinforce information  processed.
+
+Now,  sees undergraduates  generative AI  complete homework assignments  summarize bodies  work they didn' read. "It cheapens people' education,"  says. "I think '  important skill   able  read  article,  read  text,   only  able  summarize ,  think about  critically."
+
+toggle caption Grace Raver/NPR
+
+Dontrell Shoulders,  senior studying social work  Kentucky State University,   avid Quizlet user  still uses   study  tests. With Quizlet,    seek  answers. Generative AI doesn' provide much   challenge,  says.
+
+Sponsor Message
+
+"You' just putting something   computer, having  type  ,  just like, 'Here  ,'"  says. "Are  going  remember  after  just typed  ? You' ."
+
+How professors  adapting
+
+Amy Lawyer,  department chair  equine administration   University  Louisville' business school, says some students still  online study guides like Chegg  SparkNotes. "Students    point where they' going    resources available  them,"  says.
+
+Of those resources, ChatGPT    most significant impact   classroom. She uses  herself  editing  encourages  students    same. To stop them from plagiarizing  overusing AI chatbots, however, '  issuing more assignments that must  handwritten  completed  class.
+
+Ayelet Fishbach,  marketing  behavioral science professor   University  Chicago Booth School  Business, says students will always find shortcuts,  matter   technology evolves. "Cheating   been invented recently,"  says.
+
+"What  different   that  line seems,  many people, more blurry,"  says. "If before  knew  were cheating,   feel, 'Maybe I' still doing what I' supposed  , only I' being more efficient.' This  confusing  students,      support them."
+
+-----
+https://www.npr.org/2025/08/06/nx-s1-5479882/teen-forums-violent-extremist-grooming
+Nihilistic online networks groom minors  commit harm. Her     them
+
+toggle caption Joanna Kulesza  NPR
+
+The beginning  ninth grade  already shaping     bumpy transition  then-14-year- Elliott. His longtime friend group from preschool days  fractured. His parents were separating. And,   starting high school. With   smartphone, Elliott increasingly sought community online,  spaces where other users shared  musical interests. And   there that  eventually fell under  influence  predatory networks that would upend    family members' lives.
+
+NPR   using Elliott' full name because   still  minor   remains unclear whether individuals   have targeted  online continue their activities.
+
+Sponsor Message
+
+Dana, Elliott' mother, said that when  gave   iPhone,  took precautions that  thought would  sensible. She   parental controls  limit  much time  could spend online;    allowed  social media platforms;    barred from visiting certain websites. Still, between  smartphone   school-issued Chromebook,  said Elliott seemed  find ways around every restriction.
+
+Over time,  began  observe disturbing changes   ' personality.
+
+"[He ] feeling like  burden … isolating, withdrawing from things that  found pleasurable   past, talking   about … death,"  recalled. "And  also started  talk about very violent, gory things."
+
+It wasn' until Elliott  hospitalized,  early 2024, that Dana formed  more complete picture   strangers online  brought    point  extensive self-harm  repetitive thoughts  suicide. She came  understand that  actors were lurking   forums where   looking  community, whereas they were looking  vulnerable victims whom they could manipulate into harmful behaviors   purpose  winning clout within toxic online networks. And   finally then that Dana learned about some  these networks, such  764  CVLT (pronounced "cult"), which have been linked  random violent attacks, arson, child sexual abuse material, child sexploitation, bomb threats, plots  murder   least  deaths   U.S.  abroad.
+
+Sponsor Message
+
+"The whole time period that   into these things online,   like   taken hostage  brainwashed,"  said.
+
+Now, more than  year after Elliott  hospitalized, Dana finally feels ready  share  story  what  family went through,   hope that   help other parents understand some   dangers that children  encounter online. After months  intensive therapy,  said, Elliott  doing much better. He  relinquished  smartphone  favor   simple flip phone;  also  returned  hobbies, such  making music, that  previously been  important part   identity. Still, Dana acknowledges that  content     consume online, including images  videos  violent gore,  changed .
+
+"It'  form  coercive control. It' that drip, drip, drip. And  ' realize     until maybe '   ," said Dana. "And I think     ways,  still doesn' realize    . He  been desensitized     ways."
+
+A rapid spiral into darkness
+
+Prior  Elliott' dark online odyssey, Dana said,  didn' worry about  digital activities.
+
+"He  always managed  time online, [ ] time playing video games, really well   , because    many interests that weren' digital,"  said. "He plays music,  plays drums,  plays guitar,  sings,  draws,  writes,  reads."
+
+Nonetheless,    what  considered   common-sense safeguards when     iPhone,    occasional spot-checks   activity.
+
+But  said  social  familial shifts  Elliott' life   fall  2023 were destabilizing. A   black metal music,  started frequenting online forums where others shared  interest. But  those spaces, Dana said, there were also predators looking  vulnerable people. At first,  said, they seemed   friendly  supportive   . But eventually, they began  direct Elliott  dark online content, known  "gore" sites, that reshaped  perception   world around .
+
+Sponsor Message
+
+"They    follow these different accounts  view these different websites,   algorithms just help that process along," Dana said. "And  creates — where '  flooded with this content —  desensitizes   violence."
+
+The first signs that something  wrong were instances  self-harm. Dana said  started with small cuts   arms — something  initially attributed  Elliott' breakup with  girlfriend. Dana brought   with Elliott' therapist, whom   been seeing even before this began,  they worked   safety plan. Dana locked  items that Elliott could   harm himself.
+
+"So  went through with that,"  said. "But  seemed like somehow  kept finding other items  harm himself."
+
+Sometimes, Dana said,  would come    help after cutting himself, saying  felt like     control.
+
+At  same time, Dana  increasingly concerned about what  considered   extreme political opinions that Elliott  starting  express. He parroted  ideology  accelerationist extremists,  frame Western civilization  decadent  corrupt   promote  idea that total societal collapse  necessary  establish   fascist order. At times,  would talk about wanting  start " order." He went  tirades against LGBTQ+ people, which Dana said  shockingly   character.
+
+"We have,  know, trans, nonbinary, , lesbian people   family. Most   friend group  LGBTQIA,"  said. "So this  like, where  this coming from? [It ] completely   left field."
+
+She said   also upsetting  hear Elliott succumb   kind  nihilistic worldview that   never previously held.
+
+"He  talking   about there   meaning  anything. It  hopeless. Everything  meaningless. There   purpose,"  said. "And that , again, very unlike . He' always been very clear about having meaning  purpose."
+
+Sponsor Message
+
+Nihilistic violent extremism
+
+In March,  FBI issued  public service announcement warning  "violent online networks," such  764  CVLT, that target minors  other vulnerable individuals. It  also shared informational reels  Instagram  educate parents  educators about these groups  share warning signs that young people   under these networks' influence. The messaging attempts  convey  unusual breadth  activities  motives found within these networks, spanning from sexual gratification  building clout within these online spaces.
+
+The FBI  recently focused   relatively  motive within this area,  which   coined  term "nihilistic violent extremism."
+
+"The term Nihilistic Violent Extremism (NVE) refers  what  motivating some  these subjects  commit criminal acts,"  FBI wrote   statement  NPR. "They want   chaos  facilitate  destruction  society." The agency shared that   pursuing  least 250 investigations tied  violent online networks. The FBI   agree   interview with NPR.
+
+Since 2021, these networks have been linked  nearly 50 cases around  world, according  data from  Accelerationism Research Consortium,  well  information gathered  NPR. In  U.S., they have been linked   least 20 crimes, including school shootings   June arson spree  Wisconsin that allegedly involved  12-year- suspect.
+
+toggle caption Scott Olson/Getty Images
+
+An unknown number  suicides  also connected  these online communities. Reporting from The Washington Post  found instances where predators within these networks sought  boost their influence  encouraging victims  livestream their suicides,   then sharing those videos.
+
+Many criminal cases linked  these networks involve  grooming  minors, child sexual exploitation   production  distribution  child sexual abuse material. And  some instances,  crimes have crossed into terrorism. Brazilian police claim that they stopped  coordinated plan    multiple explosives   free Lady Gaga concert  Copacabana Beach  May. An adult   teenager were arrested  connection with  alleged plot. In Canada, also  May, authorities arrested  15-year- under suspicion  planning terrorism-related offenses.
+
+Sponsor Message
+
+"There   massive mixture  harms that  occurring  this ecosystem," said Matthew Kriner, executive director   Institute  Countering Digital Extremism   Accelerationism Research Consortium. "There  individuals   collaborating with  another across transnational lines, using   every ideological framework they   push people into harming others [] harming themselves."
+
+Kriner  testified   expert witness  federal cases against people accused  involvement with these networks. He said  digital spaces that participants  these networks   suffused with -Nazi  -Nazi satanic symbols  language. But  says that nihilistic terrorism   unique category.
+
+"They have  very clear, distinct differentiation between those  ecosystems there. They   communicate,"  said. "There might  some connectivity between individuals,   movement spaces, they   aligned." Notably, said Kriner, individuals   inculcated with  sense  nihilism   commit crimes  achieve  ideological goal. Instead,  violence  simply   sake  violence.
+
+While  crimes vary widely, Cynthia Miller-Idriss says there  consistency   manipulative tactics used   actors within these networks. Miller-Idriss   professor  American University  runs  Polarization & Extremism Research & Innovation Lab (PERIL).
+
+"When  think   would    vulnerable  this … they' already increasingly desensitized  violence,"  said. "And then  take kids   additionally vulnerable, where adults  using successful, manipulative tactics  make them think that they' connected, that they' cared  …  telling them then   their name  their skin  camera   something that demonstrates their loyalty. And then they  those videos  further exploit them."
+
+Perhaps most concerning,  researchers  online extremism,  that minors targeted  these spaces  often encouraged  victimize other children. As  result, said Kriner,  reach  these harms  mushroomed. Despite  welcome attention from  enforcement  recent months, they  that   unlikely  stem  spread  this activity. Instead, they  local, state  federal governments need  formulate  public health approach  prevent  mitigate  spread  these harms.
+
+Sponsor Message
+
+A crisis point
+
+By winter   freshman year, Dana  looking  help  Elliott. She  brought   spiraling depression  self-harm with  therapist, only   told that this  "normal" teenage behavior. His anti-LGBTQ+ rants made  suspicious that   been "-pilled" online, meaning   adopted  misogynistic worldview.
+
+"I felt like I needed  escalate outside   current care team because nobody  listening  . Nobody  taking this seriously,"  said.
+
+Dana started looking    therapist   . She also contacted  organization that helps guide people   violent extremist movements. But before those resources came together, Elliott' situation escalated.
+
+"My younger daughter  found that     possession   large hunting knife. [It] turned    ordered this  Etsy,"  said. "It  very long   been customized with  inscription 'Death.' It    hook. And  … presented    less than five minutes before I needed  leave  pick   from school."
+
+Dana said  mind started  race.
+
+"Does  have another weapon    school right ? Does  have  weapon  home? Is  going  hurt ... somebody else  himself? What  happening?"  remembered thinking.
+
+toggle caption Family photo
+
+Just then,  pediatrician' office called . It  getting back   about  recommendation    therapist. Dana told  office about  discovery  Elliott' knife. The office advised   pick     take  immediately   children' hospital   mental health evaluation. They also advised   reach    school resource officer  local police department  each have someone present   pickup,  case Elliott reacted poorly.
+
+Sponsor Message
+
+Dana said Elliott  surprised   questioned  police  pickup. They determined that   ,  that moment, dangerous  himself  others. She said  drive   hospital  very difficult.
+
+"He  crying,"  said. "He  very angry that   been called , [saying] that  were  being ridiculous  making     deal  nothing."
+
+But   hospital,  quickly became apparent that Elliott' condition  gotten very serious. Medical staff informed Dana that  upper body, including  torso  arms,  covered with cuts that   inflicted upon himself. Some  them,  staff said, were likely  leave permanent scars. Dana said most   marks  been made within  prior week.
+
+"Upside-down crosses, pentagrams. Certain symbols that were associated with  Order  Nine Angles,"  said, referring   satanic -Nazi terrorist group. "I later found  that some  these symbols  possibly have been callout signs  764. They encourage their victims  carve certain symbols  call  certain members."
+
+Dana said medical staff assessed that Elliott   moderate/high risk  suicide,  because  didn' intimate  plan  suicide,  staff wanted  send  home after treating  wounds. But Elliott' team   pediatrician' office  adamant that Dana  return home with  that night, citing concern that  might harm himself  others. Dana managed    transferred  another health facility   county that night.
+
+It wasn' until  next morning that Dana began  learn about  violent online networks that apparently were influencing  .
+
+"I received  call from  school violence department,  police officer there,  asked  some questions about what  happened," Dana said. "I just knew what   been talking about   self-harm that  . And  said right away, I suspect that your   being extorted   been contacted   group called 764."
+
+Sponsor Message
+
+The officer told Dana that  FBI would  getting involved  determine whether Elliott  been contacted directly  anyone   network. The concern  that    shared  address  other personal information,  whole family could   risk. Victims  these networks have,  times, been targets  hoax "swatting" calls, where someone fraudulently reports  crime   home location  order  draw  large  aggressive  enforcement presence there.
+
+Police also asked Dana  look through Elliott' phone   whether  found evidence  direct contact.
+
+"I spent approximately  hours going through  phone,  I still have nightmares about ,"  said. But having  look through Elliott' detailed activities  messages finally brought into focus  more complete picture   online activity.
+
+"He  spending about 12  14 hours   …  Reddit, YouTube, TikTok, Discord,"  said. But most disturbing, said Dana, were specific websites   frequenting   "gore" category. "I just pulled     these websites,  just looking    thumbnails   homepage, I  nightmares. I still have nightmares — ' over  year later — from seeing four  five thumbnails."
+
+Gore websites feature graphic depictions  real-world  AI-generated violence. Violent online networks encourage victims  view this content,  desensitize them  shocking  inhumane behavior. It    precursor  persuading them  mutilate themselves   hurt others.
+
+Also deeply troubling were  photos  found  Elliott' phone,  himself.
+
+"I     taken hundreds  pictures that were categorized  child self-harm sexual content,"  said. "So they started with, here' just  little scratch   . Here'  bigger scratch. Here' some  over  . And   ,   cuts  over  torso, thighs, arms. And   fully naked."
+
+Sponsor Message
+
+Dana said    enforcement representatives found evidence that there  very recently been some direct messaging with someone whom they could  identify. But they were unable  conclusively determine  extent  which that occurred. Elliott   fully disclosed what    , which Dana says    part   shame  feels about  whole episode.
+
+The FBI told Dana that Elliott needed inpatient care  30  60 days, primarily  "detox" from  harmful networks  which   immersed himself  many months. But Dana said  care facility  familiar with  harms   experienced   able  accommodate  prolonged stay. In  ,  says,  spent less than  weeks  inpatient care. After that,   partially hospitalized, sleeping  home  receiving seven hours  therapy each .
+
+Still,   convinced that   help      critical moment.
+
+toggle caption Joanna Kulesza  NPR
+
+"This  hard   about your  ,     target   good   bullying  school, oftentimes with  social media component,"  said. "And … I worry that   would have kept viewing this content,  police officer  very emphatic that  were probably days away from  very horrible outcome. Either,  know,  harming somebody else  himself,  definitely direct contact with  individual from  group."
+
+Elliott' progress since  received intensive help   been linear,  said. But  year after  hospitalization, Dana said  finally feels like that chapter  Elliott' teenage years  behind them. And   reached  point where  feels ready  speak more openly about what happened.
+
+"I feel like when I talk about , I     reactions. One , 'That  never happen   because  have parental controls,  screen time [limits],    would never  something like that,'"  said. "Or , 'I   idea that something like this could happen. Please tell  more. I want  learn.'"
+
+-----
+https://www.npr.org/2025/08/06/nx-s1-5482864/scotus-voting-rights-act-8th-circuit-vra
+60 years later, Voting Rights Act protections  minority voters face  threats
+
+toggle caption Yoichi Okamoto/Lyndon B. Johnson Library
+
+Otis Wilson  enough with talking  decided    court.
+
+His Louisiana town  St. Francisville, north  Baton Rouge,  long elected alderpersons  -large representatives   single, town-wide district. In places where elections  racially polarized, that kind  voting system  result   white majority' votes drowning   ballots  voters  color, courts have found.
+
+"I filed  lawsuit because    Blacks     council. And I tried  talk   council   mayor  work something ,   didn'," says Wilson,  -retired school  driver,    group  other Black voters   St. Francisville officials  1992.
+
+Sponsor Message
+
+Their lawsuit  among  hundreds  cases that private individuals  groups have brought  enforce protections against racial discrimination under  federal Voting Rights Act, which then-President Lyndon B. Johnson signed into  60 years  this week.
+
+After  long  complicated legal battle, St. Francisville ultimately agreed that  town  violated Section 2   Voting Rights Act  switched  alderperson elections with multiple districts.
+
+"It wouldn' have happened" without  pressure   lawsuit, says Wilson,  onetime candidate  alderperson   later elected   Democratic member   Louisiana parish' police jury,  local governing board. "If  didn'  further,  just wouldn' happen."
+
+The legal path that allowed Wilson  fight against  dilution    other Black voters' collective power   ballot , however,   ending soon,   novel legal argument makes     U.S. Supreme Court.
+
+Contrary  decades  precedent, Republican state officials   least 15 states contend that private individuals  groups   have  right    enforce Section 2 because they   explicitly named   landmark ' text. Only  head   Justice Department, they argue,  bring this kind  lawsuit.
+
+Sponsor Message
+
+The issue    heart   North Dakota legislative redistricting case that  brought   tribal nations. A federal appeals court ruled against  Native American voters,   case      full review soon   Supreme Court. The justices  also  preparing  take   broader question about  constitutionality  Section 2 protections, based   order last week  legal briefs   Louisiana congressional redistricting case originally filed  Black voters.
+
+At  time when  Justice Department under  Trump administration  backed  from voting rights lawsuits  department  brought when former President Joe Biden   office,  prospect  voters  color  longer being allowed  bring their  cases  supporters   Voting Rights Act concerned about  ' survival.
+
+"I think ' going   real terrible," Wilson says about  possibility  losing  private right  action under  . "It' just going   disastrous because   '  that, well,  just have  chance  fairness."
+
+An estimated 92%  Section 2 lawsuits have been brought  private individuals  groups since 1965
+
+While  Voting Rights Act  widely considered    most effective civil rights laws  U.S. history,  exact scope  Section 2 lawsuits  difficult  quantify, largely because many historical court records have    digitized  fully catalogued.
+
+Still, estimates back  what  long been known   legal world: Private individuals  groups,   Justice Department, have brought  overwhelming majority  Section 2 cases.
+
+"Private plaintiffs have been party  96.4%  Section 2 claims that produced published opinions since 1982,   sole litigants  86.7%  these decisions," writes Ellen Katz   2024 Michigan Law Review Online article summing  estimates   Voting Rights Initiative   University  Michigan Law School, which focused  cases filed after Congress last amended Section 2.
+
+Separately, going back  1965, Morgan Kousser,  professor emeritus   California Institute  Technology  historian   Voting Rights Act,  tallied more than 1,800 Section 2 lawsuits, including those that ended with settlements. Kousser estimates private individuals  groups,  their , have brought around 92%  Section 2 cases  total.
+
+"This could   underestimate. It' hard  find earlier cases, settlements  consent decrees," Kousser explains. "Certainly counting  settlements  well  looking   many  them   result  private lawsuits makes clearer what  stakes   destroying  private right  action."
+
+Sponsor Message
+
+How  Supreme Court ruling against  private right  action under Section 2  have  "domino effect"
+
+So ,  8th U.S. Circuit Court  Appeals, whose rulings apply  seven mainly Midwestern states,   country' only federal appeals circuit that  found  private right  action under Section 2.
+
+While  Supreme Court ,  , paused  8th Circuit panel' ruling   North Dakota redistricting case, some conservative justices have expressed openness  ending  private right  action  Section 2. If  majority rules that , presidential administrations could effectively decide when  Voting Rights Act  enforced. Franita Tolson,  election  expert  dean   University  Southern California Gould School  Law, sees that  "basically subjecting  protections     political whim."
+
+"This case   cloud over this anniversary because essentially what  means  that  depends   wins  election  order  make sure voters  protected," Tolson says. "And that  certainly  what Congress intended  passing  Voting Rights Act  1965  subsequently amending   many times."
+
+In  report released before    amended with bipartisan support  1982,  Senate Judiciary Committee echoed  similar House committee report  underscoring " existence   private right  action under Section 2,   been clearly intended  Congress since 1965."
+
+The 8th Circuit panel   North Dakota case maintained, however, that because this kind  explicit language       text   Voting Rights Act, Section 2 "does  unambiguously confer  individual right" that private individuals  groups  enforce  suing.
+
+It    setting  what Tolson fears will   "domino effect"   sections    that survived  Supreme Court' 2013 decision  Shelby County . Holder, which effectively dismantled  Section 5 protections  minority voters  places with  history  racial discrimination.
+
+Sponsor Message
+
+"If there   private right  action under Section 2   Voting Rights Act,  Voting Rights Act  basically dead," Tolson says. "I would consider   final nail   coffin. Given Shelby County  what this decision could potentially , there '  much left   Voting Rights Act — words   page."
+
+Last week,  separate 8th Circuit panel ruled that private individuals  groups   circuit' seven states also have  right    enforce  ' Section 208 protections  voters with  disability  limited language proficiency. The decision  expected   appealed   immigrant advocacy group Arkansas United.
+
+This year, Democrats  both  House  Senate have reintroduced  John Lewis Voting Rights Advancement Act  part  ensure that  "aggrieved person"   right  bring  lawsuit under  . But with Republicans  control  both Congress   White House,  bills   expected  become .
+
+Native American voters  North Dakota  Black voters  Alabama  waiting  clarity from  courts
+
+toggle caption Jack Dura/AP
+
+Amid  court rulings  legal discussions, Jamie Azure, chair   Turtle Mountain Band  Chippewa Indians,  trying  stay focused  what drove  tribal nation  partner with  Spirit Lake Tribe   North Dakota' secretary  state.
+
+"We just want that proper representation. We want   able  choose  represents ," Azure says.
+
+In court,   tribal nations  successfully fought    state legislative   replace  drawn  Republican lawmakers. The previous ,  federal judge found, violated Section 2  diluting  collective power  Native American voters   state.
+
+Now having  appeal   Supreme Court  ensure their right  bring this lawsuit   first place, Azure says  remains undeterred  mindful    Civil Rights Movement helped pave this legal path  tribal nations today  fight  their voting rights.
+
+Sponsor Message
+
+"Without those sacrifices made  those trails being blazed, nothing ' doing today would  possible," Azure says. "Who would have ever thought that     growing  that I would     figureheads leading  charge going   Supreme Court? It' very surreal."
+
+Evan Milligan  been  that position before.
+
+As  lead plaintiff   Section 2 congressional redistricting lawsuit that Black voters brought against Alabama, Milligan' name  become shorthand   2023 Supreme Court decision  which  majority  justices,   unexpected move, upheld  court' past rulings  Section 2  sided against  southern state.
+
+toggle caption Patrick Semansky/AP
+
+But Republican officials  Alabama  preparing  once again appeal  case   high court. And   friend---court brief   North Dakota case last month,  state' attorney general, Steve Marshall, argued against  private right  action under Section 2.
+
+Milligan tells NPR that while  disagrees "wholeheartedly,"  thinks '  "smart strategy" that  compares  football.
+
+"We look   numbers  Section 2 voting rights lawsuits,   I'   football team that' opposing that  I , 'Wow, this play here  killing ,' well, then,  course, I would attack  play," explains Milligan,   senior fellow with  Western States Center,  civil rights organization that advocates  inclusive democracy.
+
+But  problem facing Republican state officials arguing against  private right  action under Section 2, Milligan notes,  that they' "asking federal judges  discount  ignore congressional legislation  years  legal decisions that these same courts have made."
+
+Spokespeople   offices   Alabama  North Dakota state attorneys general   respond  NPR' requests  comment.
+
+With  many fronts   battle over  Voting Rights Act, Azure   Turtle Mountain tribe says  hopes that their lawsuit  least sends  message   nation — that their vote matters.
+
+Sponsor Message
+
+"Sometimes that' hard  tell people because '   many generations  distrust with  federal government, with  state government,  even with  tribal governments. But ' trying   transparent. We' trying  show people what   ," Azure says. "And I really hope that      , that message also gets    everybody —  people elected into power should   able    systems  exclude certain types  voters from having  impact."
+
+Edited  Benjamin Swasey
+
+-----
