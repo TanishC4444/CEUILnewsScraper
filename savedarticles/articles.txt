@@ -53948,3 +53948,187 @@ ___
 The Associated Press Health  Science Department receives support from  Howard Hughes Medical Institute’ Department  Science Education   Robert Wood Johnson Foundation. The AP  solely responsible   content.
 
 -----
+
+==== 🕒 Run at 2025-08-06T18:43:00.684435 ====
+https://www.pbs.org/newshour/health/a-look-at-how-mrna-vaccines-work-as-rfk-jr-cancels-government-funded-research
+WASHINGTON (AP) — So-called mRNA vaccines saved millions  lives during  COVID-19 pandemic —   scientists  using that Nobel Prize-winning technology    develop vaccines  treatments against  long list  diseases including cancer  cystic fibrosis.
+
+But this week, U.S. Health Secretary Robert F. Kennedy Jr.,  longtime vaccine critic, canceled $500 million  government-funded research projects  create  mRNA vaccines against respiratory illnesses that might trigger another health emergency.
+
+That dismays infectious disease experts  note that mRNA allows faster production  shots than older vaccine-production methods, buying precious time  another pandemic were  emerge.
+
+Using older technology  target  pandemic  strain would take 18 months  “make enough vaccine  vaccinate only about -fourth   world,” said Michael Osterholm   University  Minnesota,  expert  pandemic preparation. But using mRNA technology “could change that dramatically, such that      first year,  could vaccinate  world.”
+
+How mRNA technology works
+
+Traditionally, making vaccines required growing viruses  pieces  viruses called proteins — often  giant vats  cells , like most  shots,  chicken eggs —  then purifying them. Injecting  small dose   vaccine trains  body   recognize when  real infection hits  ’ ready  fight back.
+
+But that technology takes  long time. Using mRNA   faster process.
+
+The “” stands  messenger, meaning mRNA carries instructions   bodies  make proteins. Scientists figured    harness that natural process  making mRNA   .
+
+READ MORE: RFK Jr. pulls funding  vaccines being developed  fight respiratory viruses
+
+They take  snippet  that genetic code that carries instructions  making  protein they want  vaccine  target. Injecting that snippet instructs  body  become   mini-vaccine factory, making enough copies   protein   immune system  recognize  react.
+
+The COVID-19 vaccines aren’ perfect
+
+Years  research show protection from COVID-19 vaccines — both  types made with mRNA   type made with traditional technology — does wane over time. The vaccinations provide  strongest protection against severe infection  death, even  people still become infected.
+
+But that’  common feature with both  coronavirus   because both viruses continually mutate. That’  reason ’ told     vaccine every year — using vaccines made with traditional methods,  mRNA.
+
+Today’ COVID-19 vaccines made with mRNA  Pfizer  Moderna   updated more quickly each year than traditional types,  advantage that   multiple companies developing other vaccines using  technology.
+
+Traditional vaccines aren’  only   mRNA
+
+Osterholm counts about 15 infectious disease vaccines that could benefit from mRNA technology,  that’   only potential. Many disease therapies take   proteins, making mRNA  potential technique  developing  treatments. Researchers already  testing  mRNA-based therapeutic vaccine  pancreatic cancer. Genetic diseases  another target, such   experimental inhaled therapy  cystic fibrosis.
+
+AP video journalist Nathan Ellgren contributed  this report.
+
+-----
+https://www.pbs.org/newshour/world/egypts-foreign-minister-says-the-wests-response-to-gaza-suffering-is-shameful
+ATHENS, Greece (AP) — Egypt’ foreign minister,   visit  Greece  Wednesday, described  international response   escalating humanitarian crisis  Gaza  shameful  urged powerful Western nations  increase pressure  Israel.
+
+“The international community should  ashamed   tragic situation unfolding  Gaza   devastating actions being carried   Israel,” Egyptian Foreign Minister Badr Abdelatty told reporters  Athens.
+
+“What  unfolding   human tragedy,   suffering witnessed   stain   conscience   international community,”  said.
+
+Widespread reports  hunger  Gaza have heightened international concern over  devastating consequences  Israeli military operations launched nearly  years , following deadly attacks  Hamas- militants inside Israel  Oct. 7, 2023.
+
+READ MORE: Dozens killed seeking   Gaza  Israel considers further military action
+
+The Egyptian minister described Israel’ military campaign   territory   “systematic genocide,”  reiterated  government’ position that  “firmly rejects  displacement   Palestinian people from their ancestral lands.”
+
+Abdelatty held  -hour meeting with Greek Foreign Minister Giorgos Gerapetritis  discuss  planned undersea electricity grid connector between   countries   ongoing dispute between Greece  Libya over  boundaries  offshore    exploration.
+
+Greece  Egypt  also  talks over  legal status   sixth-century Monastery  Saint Catherine  Egypt’ Sinai Desert.
+
+Gerapetritis said that   received assurances Wednesday  Cairo’ continued cooperation  both issues.
+
+-----
+https://www.nytimes.com/2025/08/06/business/uber-sexual-assault.html
+Uber received  report  sexual assault  sexual misconduct   United States almost every eight minutes  average between 2017  2022, sealed court records show,  level  more pervasive than what  company  disclosed.
+
+Publicly,  ride-sharing service proclaimed      safest options  travel, with aggressive media campaigns  polished reports   website about  rarity  serious attacks.
+
+Inside Uber, teams  data scientists  safety experts spent years studying  problem. The company tested tools that proved effective  making trips safer, including sophisticated matching algorithms, mandatory video recording  pairing female passengers with female drivers.
+
+Still, Uber delayed    require  drivers  adopt some   most promising programs,    warn passengers about factors  linked  attacks, according  interviews with more than  dozen current  former employees, internal documents  court records. Hundreds   records have been under seal  part  large-scale sexual assault litigation against Uber.
+
+-----
+https://www.nytimes.com/2025/08/06/climate/california-earlier-fire-season.html
+The study rules   factors that might theoretically  behind  shift: buildups  vegetation  changes   number  fires ignited, either accidentally   purpose,  humans.
+
+The more important drivers,  researchers found,   effects  greenhouse warming, including earlier  faster snowmelt   warmer atmosphere that pulls more moisture   soil  vegetation.
+
+When blazes  going earlier   year, “there’ more time   environment   primed  large fires that  come later   season when ’ really ,” said Gavin D. Madakumbura,  postdoctoral climate researcher   University  California, Los Angeles,   study’ lead author. “The vegetation  more time   .”
+
+The findings suggest that,  nations continue  burn fossil fuels  heat   planet, Californians should expect peak fire activity  keep moving    calendar, though  much earlier      open question, Dr. Madakumbura said.
+
+-----
+https://www.nytimes.com/2025/08/06/world/africa/ghana-helicopter-crash-defense-officials.html
+Ghana’ ministers  defense  environment died after  military helicopter crashed, killing  eight people  board,  government spokesman   armed forces said  Wednesday.
+
+Among  dead were Edward Omane Boamah,  minister  defense;  Ibrahim Murtala Mohammed,  minister  environment, science  technology, Julius Debrah,  government’ chief  staff, said   televised news conference  Wednesday.
+
+“I have  unpleasant duty, suddenly,  announce  national tragedy involving  crash   military helicopter this morning,” Mr. Debrah said. It   immediately clear   helicopter crashed.
+
+The deaths were announced hours after Ghana’ armed forces said   post  social media that  helicopter traveling from Accra,  capital,   mining community   Ashanti region  gone “  radar.” The post said efforts were being made  reestablish contact.
+
+-----
+https://www.nytimes.com/2025/08/06/world/asia/india-floods-disaster-recovery-complications.html
+Harsh rains, collapsed roads  uprooted electrical lines have complicated rescue efforts   Indian Himalayas, officials said Wednesday, after flash floods killed  least four people  left dozens missing   before.
+
+Confirming  precise death toll  take    week, officials said, warning that  number  casualties could rise substantially.
+
+On Wednesday, Pushkar Singh Dhami,  chief minister   northern state  Uttarakhand, told  Indian news outlet that  least 190 people  been rescued from  wreckage, after  muddy torrent  water ripped into  village  Dharali   before, bulldozing buildings  burying  area  .
+
+The town’ central marketplace  destroyed, according   district office managing  disaster relief,  roads were damaged  transportation  difficult. People   area were evacuated  shelter sites,  many families were anxiously waiting  find   fate  relatives caught   natural disaster,  office added.
+
+-----
+https://feeds.texastribune.org/link/16799/17112546/immigrants-imprisoned-trump-el-salvador-cecot
+For months,  families  Venezuelan  sent  CECOT   Trump administration awaited news about their loved ones. Now that  families have been reunited, they open  about  harm they experienced.< height="1" ="https://feeds.texastribune./link/16799/17112546." width="1" />
+
+-----
+https://abcnews.go.com/Business/wireStory/us-auctioning-seized-325m-russian-superyacht-8-state-124420385
+The United States  auctioning   $325 million luxury superyacht Amadea,  first sale   seized Russian superyacht since  launch  Russia’ full-scale invasion  Ukraine
+
+FILE - The super yacht Amadea sails into  San Diego Bay June 27, 2022, seen from Coronado, Calif. The United States  auctioning   $325 million luxury superyacht Amadea,  first sale   seized Russian superyacht since  launch  Russia’ full-scale invasion  Ukraine. The auction comes  President Donald Trump pressures Russian President Vladimir Putin    . (AP Photo/Gregory Bull, File)
+
+FILE - The super yacht Amadea sails into  San Diego Bay June 27, 2022, seen from Coronado, Calif. The United States  auctioning   $325 million luxury superyacht Amadea,  first sale   seized Russian superyacht since  launch  Russia’ full-scale invasion  Ukraine. The auction comes  President Donald Trump pressures Russian President Vladimir Putin    . (AP Photo/Gregory Bull, File)
+
+FILE - The super yacht Amadea sails into  San Diego Bay June 27, 2022, seen from Coronado, Calif. The United States  auctioning   $325 million luxury superyacht Amadea,  first sale   seized Russian superyacht since  launch  Russia’ full-scale invasion  Ukraine. The auction comes  President Donald Trump pressures Russian President Vladimir Putin    . (AP Photo/Gregory Bull, File)
+
+FILE - The super yacht Amadea sails into  San Diego Bay June 27, 2022, seen from Coronado, Calif. The United States  auctioning   $325 million luxury superyacht Amadea,  first sale   seized Russian superyacht since  launch  Russia’ full-scale invasion  Ukraine. The auction comes  President Donald Trump pressures Russian President Vladimir Putin    . (AP Photo/Gregory Bull, File)
+
+WASHINGTON -- The United States  auctioning   $325 million luxury superyacht Amadea,  first sale   seized Russian superyacht since  launch  Russia' full-scale invasion  Ukraine.
+
+The auction, which closes Sept. 10, comes  President Donald Trump seeks  increase pressure  Russian President Vladimir Putin    . The U.S.  said ’ working with allies   pressure  Russian oligarchs, some  whom  close  Putin  have  their superyachts seized,    compel   stop  .
+
+The 348-foot-long (106-meter-long) yacht, seized three years   currently docked  San Diego,  custom built   German company Lürssen  2017. Designed  François Zuretti,  yacht features  interior with extensive marble work, eight state rooms,  beauty salon,  ,  ,  helipad,  swimming pool   elevator. It accommodates 16 guests  36 crew members.
+
+Determining  real ownership   Amadea  been  issue  contention because   opaque trail  trusts  shell companies. The superyacht  registered   Cayman Islands   owned  Millemarin Investments Ltd., also based   Cayman Islands.
+
+The U.S. contends that Suleiman Kerimov,  economist  former Russian politician,   sanctioned   U.S.  2018  alleged money laundering, owns  yacht. Meanwhile, Eduard Khudainatov,  former chairman  chief executive   state-controlled Russian    company Rosneft,    been sanctioned, claims   .
+
+U.S. prosecutors  Khudainatov   straw owner   yacht, intended  conceal  yacht’ true owner, Kerimov. Litigation over  true ownership   yacht  ongoing.
+
+A representative  Khudainatov said   emailed statement Wednesday that  planned sale   yacht  “improper  premature” since Khudainatov  appealing  forfeiture ruling.
+
+“We doubt  will attract  rational buyer  fair market price, because ownership ,  will,  challenged  courts outside  United States, exposing purchasers  years  costly, uncertain litigation,” said  representative, Adam Ford.
+
+The yacht  been virtually untouched since  National Maritime Services took custody    2022. To submit  sealed   , bidders must    10 million euro deposit,  equivalent  roughly $11.6 million,   considered.
+
+Ford said Khudainatov would  after  proceeds from  sale   yacht, estimated   worth $325 million.
+
+“Should  government press ahead simply  staunch  mounting costs   imposing   American taxpayer,  will pursue  sale proceeds,   shortfall from fair market value, once  prevail  court," Ford said.
+
+A U.S.  package  Ukraine signed into   May 2024 gave  U.S.  ability  seize Russian state assets located   U.S.   them   benefit  Kyiv, which  attacked  Russia  February 2022.
+
+-----
+https://abcnews.go.com/Business/wireStory/claires-piercing-millions-teens-ears-files-chapter-11-124420474
+Mall-based teen retailer Claire’, known  helping  usher teens into   rite  passage _  piercing _   struggling with   debt load  changing consumer tastes, filed  Chapter 11 bankruptcy protection
+
+Claire', known  piercing millions  teens' ears, again files  Chapter 11
+
+NEW YORK -- Mall-based teen accessories retailer Claire', known  helping  usher  millions  teens into  important rite  passage —  piercing —   struggling with   debt load  changing consumer tastes,  filed  Chapter 11 bankruptcy protection.
+
+Claire’ Holdings LLC  certain   U.S.  Gibraltar-based subsidiaries — collectively Claire’ U.S.,  operator  Claire’  Icing stores across  United States, made  filing   U.S. Bankruptcy Court  Delaware  Wednesday. That marked  second time since 2018    similar reason: high debt load   shift among teens heading online away from physical stores.
+
+Claire' Chapter 11 filing follows  bankruptcies  other teen retailers including Forever 21, which filed  March  bankruptcy protection   second time  eventually closed down  U.S. business  traffic  U.S. shopping malls fades  competition from online retailers like Amazon, Temu  Shein intensifies.
+
+Claire', based  Hoffman Estates, Illinois  founded  1974, said that  stores  North America will remain open  will continue  serve customers, while  explores  strategic alternatives. Claire' operates more than 2,750 Claire’ stores  17 countries throughout North America  Europe  190 Icing stores  North America.
+
+In  court filing, Claire' said  assets  liabilities range between $1 billion  $10 billion.
+
+“This decision  difficult,   necessary ,” Chris Cramer, CEO  Claire’, said   press release issued Wednesday. “Increased competition, consumer spending trends   ongoing shift away from brick--mortar retail,  combination with  current debt obligations  macroeconomic factors, necessitate this course  action  Claire’   stakeholders.”
+
+Like many retailers, Claire'  also struggling with higher costs tied  President Donald Trump' tariff plans, analysts said.
+
+Cramer said that  company remains  “active discussions” with potential strategic  financial partners. He noted that  company remains committed  serving  customers  partnering with  suppliers  landlords  other regions. Claire’ also intends  continue paying employees' wages  benefits,   will seek approval   cash collateral  support  operations.
+
+Neil Saunders, managing director  GlobalData,  research firm, noted   note published Wednesday Claire' bankruptcy filing comes  “ real surprise.”
+
+“The chain  been swamped   cocktail  problems, both internal  external, that made  impossible  stay afloat,”  wrote.
+
+Saunders noted that internally, Claire' struggled with high debt levels that made  operations unstable  said  cash crunch left  with little choice   reorganize through bankruptcy.
+
+He also noted that tariffs have pushed costs higher,   believed that Claire’     position  manage this latest challenge effectively.
+
+Competition  also become sharper  more intense over recent years, with retailers like jewelry chain Lovisa offering younger shoppers  more sophisticated assortment   prices. He also cited  growing competition with online players like Amazon.
+
+“Reinventing will   tall order   present environment,”  added.
+
+-----
+https://www.cnbc.com/2025/08/06/apple-is-latest-company-to-offer-olive-branch-to-trump-how-to-invest-around-this.html
+(PRO Views  exclusive  PRO subscribers, giving them insight   news    direct from  real investing .) Tim Seymour acknowledges ' hard  navigate  different trade headlines hitting each ,  investors should realize most  these -called deals   "real" news  focus   company fundamentals instead. The founder  Seymour Asset Management   buyer  Apple (AAPL) today,   because CEO Tim Cook  giving President Donald Trump  $100 million peace offering with  promise  manufacture more   products  U.S. shores. AAPL 1D mountain Apple, 1- The stock  rocking   news ,   explains  this video above, Seymour  buying because  Apple' amazing second quarter where revenue increased  10%  operating margins overseas expanded   third-straight period. Seymour discusses  next catalyst  Apple shares. In general,  said investors should   swayed  these headlines that  sometimes boost  knock certain stocks depending  whether  companies  playing along with Trump' trade narrative  . Tim  I also discuss: Whether Nvidia  winning  trade gamesmanship with Trump Implications  India'  50% tariff rate The U.K.'  friendly relationship with Trump   best stocks   there The history   Grateful Dead  Golden Gate park Disclosure: Seymour   portfolio manager, -advisor   Amplify International Enhanced Dividend (IDVO) .
+
+-----
+https://www.cnbc.com/2025/08/06/what-is-wrong-with-chip-stocks-this-earnings-season.html
+AMD shares tumbled Tuesday despite solid revenue guidance  AI chip optimism, becoming  latest semiconductor casualty   market where solid execution simply ' enough. This earnings season  been brutal  chip stocks: Texas Instruments , ON Semiconductor , Qualcomm ,  Arm  posted results that looked good  paper,  were  with steep sell-offs  investors demanded accelerating growth  guidance that clears  ever higher . SOXX 1M mountain iShares Semiconductor ETF, 1 month Even Lattice Semiconductor wasn' spared. Management outlined  confident AI roadmap  said  product sales could could   high teens   percentage  total revenue  2025 - implying 70% year-over-year growth. But  numbers merely matched expectations  that  reason enough  sell. We' reached  point where 70% growth ' good enough. The message  clear: guidance matters more than headline beats. Especially  AI, where expectations have soared  valuation premiums demand more than just "good". AMD,  over 40% this year, faced that reality. After such  , decent numbers ' move  needle. Only blowouts . SOXX YTD mountain iShares Semiconductor ETF, YTD With  PHLX Semiconductor index posting back--back weekly losses   first time since March, chip investors  only rewarding  stocks that  deliver  most dramatic guidance surprises. With chip stocks  nearly 60%   group  their lows  April during  global trade  scare,  also means maybe share prices  this sector    ahead  themselves. The next test will  Nvidia' earnings  Aug. 27.
+
+-----
+https://www.cnbc.com/2025/08/06/eli-lilly-earnings-are-coming-thursday-what-top-analysts-expect.html
+Many  Wall Street expect that Novo Nordisk ' loss  been Eli Lilly ' gain,  this will  good news   Zepbound maker' second-quarter results. Novo Nordisk' stock  cratered about 47% since  start   year,  doubts emerged about  outlook   GLP-1 drugs, Ozempic  diabetes  Wegovy  obesity. The company  said  business  been hurt  competition from compounding pharmacies, which  making knock- versions   semaglutide,  active ingredient  both brands. This prompted Novo    annual forecast  oust  CEO. Lilly' business appears   holding  much better, according  analysts. They anticipate  proof will    quarterly results  outlook. What' more, several analysts expect other catalysts, including next-generation drugs,  help propel Lilly shares higher. 'Potential materiality' So  this year, Lilly' stock  logged  roughly 3% decline, underperforming  market. However, catalysts could come  soon  Thursday, analysts . "We note that LLY' upcoming 2Q call  scheduled  8:30am ET  Aug 7th,  opposed  company' standard 10am ET time slot  earnings calls after  market opens, suggesting potential materiality  topline trial results alongside earnings," Goldman Sachs analyst Asad Haider wrote   July 28 research note. He said  report  " most highly anticipated near-term event" across  pharmaceutical coverage. In addition   financial outlook, investors  eager  hear more about orforglipron ,  company' experimental GLP-1 pill. In June,   American Diabetes Association conference, Lilly revealed  drug helped patients with type 2 diabetes   late-stage trial lose weight without serious side effects . The readout   phase 3 data  patients with obesity should  released soon. Wegovy' 'favored status' Analysts  also eager  hear management' thoughts  CVS Health ' policy  giving favored status  Wegovy over Lilly' Zepbound. The policy went into effect  July  means CVS Health' pharmacy benefit manager Caremark will prioritize Wegovy   list  covered drugs. It   potential    headwind  Lilly. However, patients  seek exemptions  remain   weight loss drug     pocket  their    Lilly Direct,  company' direct--consumer website. Also, there   possibility Lilly will strike  deal   back  CVS Caremark' list  covered medications, analysts said. According  Bernstein analyst Courtney Breen,  first  weeks   switch showed that patients changing from Zepbound  Wegovy  eclipsed   number  patients starting  drug with   prescription. On average, analysts surveyed  LSEG expect Lilly will earn $5.57  share   second quarter  revenue  $14.71 billion. If Lilly hits that revenue estimate,  will have achieved 30% growth year over year. Here' what else they' saying ahead   report. LLY YTD mountain Eli Lilly shares year  date. Citigroup: Buy rating, $1,190 price target Citi analyst Geoff Meacham said Lilly remains    favorite stocks,   placed  90- catalyst watch    July 30. His $1,190 price target implies 55% upside from Tuesday' close. "GLP-1 script data from IQVIA give  continued confidence  achievability  Lilly' 2025 revenue guidance ($58B-$61B). Notably, Zepbound scripts remain robust (+45% /)  overall share increased  65.5%, representing  gain  ~600bps  market share. We think this  particularly noteworthy given vials from LillyDirect  represent ~20%  TRx [total prescriptions]  highlight increasing potential   consumer angle  GLP-1 sales … driving uptake going forward (2Q25e $3.1B; +$99M . BBG cons). [Type 2 diabetes drug] Mounjaro scripts rose 16.3% /   captures 42.2% share (2Q25e $4.5B; +$18M . cons); though slower growth than Zepbound, this  expected given  more entrenched nature   type 2 diabetes market. … Top  mind  investors will  orforglipron' phase 3 ATTAIN readouts  obesity (Jul/Aug). Weight loss  12-15%   efficacy   continuation   squeaky-clean safety profile that    ADA  ACHIEVE … will  paramount." Morgan Stanley: Overweight, $1,135 In early July, Morgan Stanley analyst Terence Flynn tweaked  price target, increasing   $1,135 from $1,133. The target suggests 48% upside. "In  view  magnitude  potential Mounjaro+Zepbound 2Q beat will dictate  LLY handles 2025 revenue guidance  $58-$61bn (MS $62.3bn . Cons $59.8bn),   expect  raise       minimum. LLY could also release Orfor Ph3 obesity / SURPASS-CVOT data  conjunction with earnings. … Interim Ph3 data  LLY' Kisunla  preclinical Alzheimer' (potentially later this year) could   -risking event  treating earlier   disease course  expand  opportunity   category,  well  provide lateral read-through  BIIB/Eisai' Leqembi (where Ph3  also ongoing)" Bernstein: Outperform, $1,100 Bernstein, Wells Fargo  JPMorgan  have  $1,100 price target  Lilly' stock, which suggests  could rise nearly 44% from Tuesday' close. "We again   potential   meet  beat … , driven  Mounjaro & Zepbound performance. Given most   street follow scripts closely   US,  upside here arises from additional unexpected pricing (rebate adjustments), underreporting  IQVIA ( possibility),  -US performance (  lower visibility). … Despite  potential   -line beat (  potential  modest 1.2% beat above consensus  14.6B),  ' anticipate LLY will  rushing  increase guidance, given last years back half challenges   uncertainty  Q3 that remains  CVS caremark (although initial signs look strong)." Wells Fargo: Overweight, $1,100 "NVO lowering their guidance  Ozempic  Wegovy headwinds could  limited  NVO itself,  they cite continued compounding, competition,  slower market expansion. We believe LLY guidance   raised  strong underlying trends. … Therefore,  would  buyers  LLY   weakness since  expect  strong 2Q   catalyst-rich 2H'25." JPMorgan: Overweight, $1,100 "Overall,   expecting  solid 2Q  LLY with upside  Mounjaro/Zepbound (based  strong TRx growth trends),   estimate total sales     $14.8bn (+$370mm  cons). On  EPS line,   slightly below consensus ($5.49, -$0.06)   expect  continued opex ramp  support  growing late stage pipeline  [direct- consumer] initiatives. Looking forward,  expect some moderation  Zepbound growth   CVS formulary change takes effect  July 1  expect  product  still grow TRx  3Q  accelerate  4Q. And   year,  estimates  near  high    company' 2025 guidance  both topline ($60.8bn sales, +$1.3bn  cons)   bottomline ($22.09 EPS, +$0.07  cons)   would   surprised   LLY raise guidance  some point  2025 (although  company  take  more conservative approach   timing/magnitude   increases given 2024 guidance dynamics)." Goldman Sachs: Buy, $883 Haider' $883 price target  about 15% above where Lilly shares closed  Tuesday. " …  expect another revenue beat, driven   [foreign exchange] tailwind  strong TRx growth  Zepbound/Mounjaro where   consensus estimates have tracked higher into  print. ... Into  2Q earnings call,  also note significant investor discussion   magnitude  potential upward pressure   company' FY25 revenue guidance where  expect management could tighten  range  $58-$61bn   year  bumping   - (based  1H trends, GS/consensus estimates  $60bn/$60.6bn  2025). These trends   well-understood with investor focus higher  trying  triangulate  impact  3Q25 sales  Zepbound/Mounjaro from  CVS formulary change  favor  Novo that took effect  July 1st."
+
+-----
