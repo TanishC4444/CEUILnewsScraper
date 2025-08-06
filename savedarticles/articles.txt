@@ -45481,3 +45481,654 @@ ___
 The Associated Press Health  Science Department receives support from  Howard Hughes Medical Institute’ Department  Science Education   Robert Wood Johnson Foundation. The AP  solely responsible   content.
 
 -----
+
+==== 🕒 Run at 2025-08-06T04:52:12.621216 ====
+https://www.bbc.com/news/articles/c7vln1966r4o?at_medium=RSS&at_campaign=rss
+UN official says Israel expanding Gaza operations would risk 'catastrophic consequences'
+
+Just  Share Save Yolande Knell Middle East correspondent Yang Tian BBC News Share Save
+
+Watch: UN official says Netanyahu' reported Gaza expansion plans risk "catastrophic consequences"
+
+A  UN official  warned there would  "catastrophic consequences"  Israel expands  military operations  Gaza, after reports Israel' Prime Minister, Benjamin Netanyahu,  pushing   total reoccupation   strip. Assistant Secretary General Miroslav Jenča told  meeting   UN Security Council such  move would  "deeply alarming"  true,  could endanger  lives  more Palestinians,  well  Israeli hostages held  Hamas. Israeli media reported that Netanyahu plans  meet with  security cabinet this week. "The   been cast. We' going   full conquest   Gaza Strip -  defeating Hamas,"  senior Israeli official  quoted  saying.
+
+The security cabinet, which    meet Thursday, would need  approve such  action. It  been suggested that  plan could   negotiating tactic  pressure Hamas after  recent breakdown  ceasefire talks   attempt  shore  support from Netanyahu' -right coalition partners. Israel  been facing mounting international pressure over  humanitarian crisis  Gaza amid images  reports  Palestinians suffering from starvation  malnutrition. In  remarks, Jenča warned against  expansion  Israel' military operations. "This would risk catastrophic consequences  millions  Palestinians  could further endanger  lives   remaining hostages  Gaza,"  said. He added that under international , Gaza "  must remain  integral part   future Palestinian state". Israel' military said  already  operational control  75%  Gaza,    plan would propose occupying  entire region - including areas where more than  million Palestinians  live. The proposals have proved divisive  Israel, with reports that  army chief  other military leaders oppose  strategy. The unnamed Israeli official responded  saying: "If that doesn' work   chief  staff,  should resign."
+
+-----
+https://www.bbc.com/news/articles/c4gm921x424o?at_medium=RSS&at_campaign=rss
+Chinese nationals charged with exporting Nvidia AI chips  China
+
+The case shows that smuggling  chips "  nonstarter,"  Nvidia spokesperson said.
+
+Court documents seen   BBC allege  shipments included Nvidia' H100 graphics processing units (GPUs), which have become   focus  US export controls aimed  stopping China purchasing  cutting-edge technology.
+
+The DOJ alleged that over  last three years ALX Solutions,  company  said    Chuan Geng  Shiwei Yang, exported  chips from  US  China without  required licences.
+
+Two Chinese nationals have been arrested  charged with illegally shipping millions  dollars' worth  powerful AI chips  China,  US Department  Justice (DOJ) said  Tuesday.
+
+Nvidia sells products  well-known partners  help  ensure that  sales comply with US export control rules,  added.
+
+"Even relatively small exporters  shipments  subject  thorough review  scrutiny,   diverted products would have  service, support  updates."
+
+According  court documents, California-based ALX Solutions  three known employees: Mr Geng handled  firm' finances, Ms Yang   secretary, while  chief executive   named   documents.
+
+The DOJ said  three individuals exercised "full decision-making authority  shipment coordination"   firm.
+
+Mr Geng   permanent resident  California,  Ms Yang,   "illegal alien"   overstayed  visa,  DOJ statement said.
+
+Business records showed  company sent goods several times from  US  shipping firms  Singapore  Malaysia between October 2022  July 2025,  DOJ said, noting that both countries  used  transit hubs  "conceal illegal shipments"  China.
+
+ALX never received payments from these shipping firms  would instead  paid  other companies based  Hong Kong  China. These included  $1m (£750,000) payment from  China-based firm  January 2024, said  DOJ.
+
+Last December, ALX sent  shipment with export-restricted computing chips - including Nvidia' H100  GeForce RTX 4090 GPUs - which  checked  US customs, according  court documents.
+
+"Neither ALX Solutions  Geng  Yang applied   obtained  license from  Commerce Department,"  documents said.
+
+In  2023 invoice valued  more than $28.4m, ALX allegedly declared  Super Micro Computer,  supplier  Nvidia chips, that  devices were ordered   Singapore-based customer.
+
+But  US export control officer  Singapore could  verify that  chips arrived   country   company named   exist   listed location,  court document said.
+
+"It appears that ALX Solutions shipped  Nvidia products  different  users."
+
+Super Micro   immediately respond   request  comment from  BBC  said   statement   Reuters news agency that   "firmly committed  compliance with  US export control regulations."
+
+It added that  would  comment   ongoing legal case  would cooperate with authorities   such proceedings.
+
+Ms Yang  arrested  Saturday while Mr Geng surrendered himself   authorities soon after,  DOJ said.
+
+The pair appeared  federal court  Los Angeles  Monday,  DOJ said. If found guilty they could face   20 years  prison.
+
+ALX Solutions does  appear  have  website, according  court documents. A website  ALX-Cloud, which specialises  cloud computing services, states that    subsidiary   company.
+
+The BBC  unable  immediately locate lawyers  Mr Geng  Ms Yang   contacted ALX-Cloud  request  statement.
+
+Additional reporting  Peter Hoskins
+
+-----
+https://www.bbc.com/news/articles/ce35q2ly1w5o?at_medium=RSS&at_campaign=rss
+WhatsApp deletes over 6.8m accounts linked  scams, Meta says
+
+The crackdown targets  increasingly common tactic  which criminals hijack WhatsApp accounts   users  group chats promoting fake investment schemes  other scams.
+
+Meta made  announcement  WhatsApp rolled   anti-scam measures  alert users  potential fraudulent activity, such   user being added   group chat  someone   their contacts list.
+
+Many were tied  scam centres   organised criminals  South East Asia,  often used forced labour  their operations, according   social media giant.
+
+WhatsApp  taken down 6.8 million accounts linked  scammers targeting people around  world   first half  this year,  parent company Meta says.
+
+Meta said WhatsApp "proactively detected  took down accounts before scam centres were able  operationalise them."
+
+In  case, WhatsApp worked with Meta  ChatGPT-developer OpenAI  disrupt scams linked   Cambodian criminal group that offered cash  likes  social media posts  promote  fake rent--scooter pyramid scheme.
+
+It said scammers  used ChatGPT  create  instructions issued  potential victims.
+
+Typically, fraudsters would first contact potential targets with  text message before moving  conversation  social media  private messaging apps, said Meta.
+
+These scams were usually completed  payment  cryptocurrency platforms,  added.
+
+"There  always  catch   should    flag  everyone:  have   upfront   promised returns  earnings."
+
+Scam centres that cheat people   billions  dollars  known  operate from South East Asian countries like Myanmar, Cambodia  Thailand.
+
+These centres  also known  recruit people   then forced  carry   scams.
+
+Authorities   region have urged people   wary  potential fraud   anti-scam measures such  WhatsApp' -step verification feature  help protect their accounts from being hijacked.
+
+In Singapore,  example, users have also been told  police   wary   unusual requests they receive  messaging apps.
+
+-----
+https://www.npr.org/2025/08/06/nx-s1-5493561/nfl-and-espn-reach-nonbinding-agreement-for-sale-of-nfl-network-and-other-media-assets
+NFL  ESPN reach nonbinding agreement  sale  NFL Network  other media assets
+
+toggle caption Kamil Krzaczynski/AP
+
+Ever since  NFL announced   looking  sell NFL Network  other media assets, ESPN  been seen     favorites  make  deal.
+
+Nearly five years later,  framework  finally  place.
+
+The NFL announced Tuesday night that   entered into  nonbinding agreement with ESPN. Under  terms, ESPN will acquire NFL Network, NFL Fantasy   rights  distribute  RedZone channel  cable  satellite operators   league will   10% equity stake  ESPN.
+
+The league  ESPN still have  negotiate  final agreement   approval from NFL owners. The agreement will also have  undergo regulatory approvals.
+
+Sponsor Message
+
+"Sometimes great things take  long time     point where ' right. And  both feel that    this stage," NFL Commissioner Roger Goodell said   call with The Associated Press.
+
+Along with  sale  NFL Network,  NFL  ESPN will have  second nonbinding agreement where  NFL will license  ESPN certain NFL content  other intellectual property that   used  NFL Network  other assets that have been purchased.
+
+"We have been talking about   earnest   last  years. But interestingly enough,  started talking about this over  decade   nothing really ended  happening. And   back   when I came back  Disney after  retirement," Disney CEO Bob Iger said   call with  AP.
+
+What ESPN gets
+
+ESPN  expected  launch  direct--consumer service before    September. The service would give cord-cutters access   ESPN programs  networks  $29.99  month. The addition  more NFL programming increases  value.
+
+Many viewers will receive  service  free  part  their subscription  cable, satellite  most streaming services.
+
+"When I came back  Disney  assessed essentially  future  ESPN,  became clear that ESPN   launch  bigger  more robust  digital  direct--consumer product,  only   sake  ESPN' business,    sports ," Iger said. "And obviously, when  start thinking about high-quality sports content, your eyes immediately head   direction   NFL because there' really nothing more valuable  more popular than that."
+
+NFL Network — which  nearly 50 million subscribers — would  owned  operated  ESPN  would  included  ESPN' direct--consumer product.
+
+Sponsor Message
+
+The NFL RedZone channel would  distributed  ESPN  cable  satellite operators. However,  NFL will continue  , operate  produce  channel  well  retain  rights  distribute  channel digitally. ESPN would also  rights   RedZone brand, meaning RedZone channels  college football  basketball  other sports could  coming   future.
+
+NFL Fantasy Football would merge with ESPN Fantasy Football, giving ESPN  official fantasy football game   league.
+
+NFL Network will still  seven games  season. Four  ESPN' games, including some that   overlapping windows  Monday nights, would move  NFL Network. ESPN will license three additional games that will  carried  NFL Network.
+
+What  NFL receives ( retains)
+
+The league gets  10% equity stake  ESPN. Aidan O'Connor,  senior vice president   Prosek Partners marketing firm, estimates  value  that would  $2.2 billion  $2.5 billion.
+
+ESPN  currently 80% owned  ABC Inc.   indirect subsidiary  The Walt Disney Company. The other 20%  owned  Hearst. Once  deal  official  approved,  breakdown  ESPN will  72% ABC Inc., 18% Hearst  10% NFL.
+
+This '  first time  league    equity stake   digital  communications business. It  that   past with Sirius Satellite Radio  SportsLine. The NFL could also have equity   newly formed "Paramount Skydance Corporation," which owns CBS,    league' partnership with Skydance.
+
+"This       partner  operating  business that  built,   grew," said Hans Schroeder,  NFL' executive vice president  media distribution. "It' also   little   again with some   dynamics here,  ' continue  balance that   really ' length  where ' think about   manage  work across    partners."
+
+Sponsor Message
+
+The league will continue    operate NFL Films, NFL+, NFL.,  official websites   32 teams,  NFL Podcast Network   NFL FAST Channel ( free -supported streaming channel).
+
+"The moves align with  NFL' longstanding ambition  reach $25 billion  annual revenue  2027 —  target first   2010, when league revenue stood  approximately $8.5 billion," O'Connor said. "Financially,  move also signals  investors that ESPN  doubling down  differentiation  content stickiness  offering  scarce  premium product   crowded marketplace. Intentionally ceding equity   NFL transforms ESPN from  media licensee into  true platform partner — with  properties rivaling  league  terms  cultural significance, appointment viewing, audience reach,  monetization efficiency."
+
+No major changes 
+
+Viewers will likely    immediate impacts until next year once everything  approved.
+
+Besides ESPN,  biggest winner  this could  NFL Network, which  seen reductions  original programming  past couple years. "Total Access,"  network' flagship show since  launch  2003, ended  May 2024 amid  series  layoffs  cost-cutting moves. "Good Morning Football" also moved from New York, where   been since  start  2016,  Southern California last year.
+
+NFL Network moved   broadcast facility across  street from SoFi Stadium  Inglewood, California,  2021.
+
+"The thing that' exciting    that  have    into  network. I think ' been very effective  fans. We know '  good hands," Goodell said. "They' innovative, they recognize great production  know   produce . They will   fantastic   operating  network  taking   another level."
+
+-----
+https://www.npr.org/2025/08/05/nx-s1-5493550/rfk-jr-funding-mrna-vaccine-development
+RFK Jr. pulls $500 million  funding  mRNA vaccine contracts
+
+toggle caption Mark Schiefelbein/AP
+
+WASHINGTON — The Department  Health  Human Services will cancel contracts  pull funding  some vaccines that  being developed  fight respiratory viruses like COVID-19   .
+
+Robert F. Kennedy Jr. announced   statement Tuesday that 22 projects, totaling $500 million,  develop vaccines using mRNA technology will  halted.
+
+Kennedy' decision  terminate  projects   latest   string  decisions that have   longtime vaccine critic' doubts about shots into full effect   nation' health department. Kennedy  pulled back recommendations around  COVID-19 shots, fired  panel that makes vaccine recommendations,  refused  offer  vigorous endorsement  vaccinations   measles outbreak worsened.
+
+Sponsor Message
+
+The health secretary criticized mRNA vaccines   video   social media accounts, explaining  decision  cancel projects being    nation' leading pharmaceutical companies, including Pfizer  Moderna, that offer protection against viruses like  , COVID-19  H5N1.
+
+"To replace  troubled mRNA programs, ' prioritizing  development  safer, broader vaccine strategies, like whole-virus vaccines  novel platforms that ' collapse when viruses mutate," Kennedy said   video.
+
+Infectious disease experts   mRNA technology used  vaccines  safe,  they credit  development during  first Trump administration with slowing  2020 coronavirus pandemic. Future pandemics, they warned, will  harder  stop without  help  mRNA.
+
+"I ' think I' seen  more dangerous decision  public health   50 years   business," said Mike Osterholm,  University  Minnesota expert  infectious diseases  pandemic preparations.
+
+He noted mRNA technology offers potential advantages  rapid production, crucial   event    pandemic that requires   vaccine.
+
+The shelving   mRNA projects  short-sighted  concerns about  bird  pandemic continue  loom, said Dr. Paul Offit,  vaccine expert  Children' Hospital  Philadelphia.
+
+Sponsor Message
+
+"It' certainly saved millions  lives," Offit said   existing mRNA vaccines.
+
+Scientists  using mRNA  more than infectious disease vaccines, with researchers around  world exploring    cancer immunotherapies. At  White House earlier this year, billionaire tech entrepreneur Larry Ellison praised mRNA   potential  treat cancer.
+
+Traditionally, vaccines have required growing pieces  viruses, often  chicken eggs  giant vats  cells, then purifying that material. The mRNA approach starts with  snippet  genetic code that carries instructions  making proteins. Scientists pick  protein  target, inject that blueprint   body makes just enough  trigger immune protection — producing   vaccine dose.
+
+In  statement Tuesday, HHS said "other uses  mRNA technology within  department   impacted  this announcement."
+
+The mRNA technology  used  approved COVID-19  RSV shots,     been approved    shot. Moderna, which  studying  combination COVID-19   mRNA shot,  said  believed mRNA could speed  production   shots compared with traditional vaccines.
+
+The abandoned mRNA projects signal  "shift  vaccine development priorities,"  health department said   statement, adding that  will start "investing  better solutions."
+
+"Let   absolutely clear, HHS supports safe, effective vaccines  every American  wants them," Kennedy said   statement.
+
+Speaking hours later Tuesday   news conference  Anchorage, Alaska, alongside  state'  Republican U.S. senators, Kennedy said work  underway   alternative.
+
+He said  "universal vaccine" that mimics "natural immunity"   administration' focus.
+
+"It could  effective —  believe ' going   effective -- against  only coronaviruses,  also ,"  said.
+
+-----
+https://www.nytimes.com/2025/08/05/health/rfk-jr-vaccine-funding.html
+Health Secretary Robert F. Kennedy Jr.  canceled nearly $500 million  grants  contracts  developing mRNA vaccines,  Department  Health  Human Services announced  Tuesday.
+
+It   latest blow  research  this technology. In May,  Department  Health  Human Services revoked  nearly $600 million contract   drugmaker Moderna  develop  vaccine against bird .
+
+The  cancellations dismayed scientists, many  whom regard mRNA shots   best option  protecting Americans   pandemic.
+
+“This      science,” said Scott Hensley,  immunologist   University  Pennsylvania   been working  develop  mRNA vaccine against influenza.
+
+-----
+https://www.nytimes.com/2025/08/06/business/china-consumer-debt.html
+China   nation  savers. The Chinese government wants  people  spend more  save less. It also wants them  take  more debt,    sake  saving  economy from  four-year slump.
+
+The national financial regulator urged banks  March  expand consumer lending  offer more flexible repayment terms. Last month, policymakers promised  provide “innovative” financial services  boost consumption.
+
+Yet many Chinese consumers  wary. An alarming number  them  already defaulting  their debt.
+
+From 2021  2024, China’ total household savings grew 50 percent,  people scared     decline  housing values stuffed their money  banks. During  same period,  number  loans that households could  afford   back nearly doubled.
+
+-----
+https://www.nytimes.com/2025/08/06/us/elections/detroit-mayoral-election.html
+Twelve years have passed since Mike Duggan,  former hospital executive,  elected mayor  Detroit   improbable write- campaign.
+
+Mr. Duggan inherited  city facing  pileup  crises. Detroit  struggling  perform basic city services, losing residents   thousands     throes   country’ largest municipal bankruptcy.
+
+Three terms later,  Mr. Duggan runs  governor  Michigan instead  another term  City Hall,  will turn over  fundamentally different Detroit   successor.
+
+On Tuesday, with nine candidates   ballot, Detroit voters advanced Mary Sheffield,  City Council president,  Solomon Kinloch Jr.,  pastor   large church,   November general election, The Associated Press said. The race  officially nonpartisan,  both candidates  Democrats.
+
+-----
+https://abcnews.go.com/US/wireStory/4-people-die-crash-medical-transport-plane-navajo-124396653
+A small medical transport plane crashed  caught fire   Navajo Nation  northern Arizona, killing four people
+
+4 people   crash  medical transport plane  Navajo Nation  northern Arizona
+
+By JACQUES BILLEAUD Associated Press  LISA BAUMANN Associated Press
+
+This image released   Navajo Nation Police Department shows  medical transport plane after  crashed near  airport  Chinle, Ariz.,  Tuesday, Aug. 5, 2025. (Navajo Nation Police Department)
+
+This image released   Navajo Nation Police Department shows  medical transport plane after  crashed near  airport  Chinle, Ariz.,  Tuesday, Aug. 5, 2025. (Navajo Nation Police Department)
+
+This image released   Navajo Nation Police Department shows  medical transport plane after  crashed near  airport  Chinle, Ariz.,  Tuesday, Aug. 5, 2025. (Navajo Nation Police Department)
+
+This image released   Navajo Nation Police Department shows  medical transport plane after  crashed near  airport  Chinle, Ariz.,  Tuesday, Aug. 5, 2025. (Navajo Nation Police Department)
+
+A small medical transport plane crashed  caught fire Tuesday   Navajo Nation  northern Arizona, killing four people,  tribe said   statement.
+
+A Beechcraft King Air 300 from  CSI Aviation company left Albuquerque, New Mexico, with  pilots   health care providers, according   Federal Aviation Administration  CSI Aviation. It crashed   early afternoon near  airport  Chinle, about 300 miles (483 kilometers) northeast  Phoenix.
+
+“They were trying  land there  unfortunately something went wrong,” district Police Commander Emmett Yazzie said.
+
+The crew  planning pick   patient  needed critical care from  federal Indian Health Service hospital  Chinle, said Sharen Sandoval, director   Navajo Department  Emergency Management. She said  plan   return  Albuquerque. The patient' location  condition were  known Tuesday evening.
+
+Tribal authorities began receiving reports  12:44 ..  black smoke   airport, Sandoval said. The cause   crash wasn' known,  tribe said. The National Transportation Safety Board   FAA  investigating.
+
+CSI Aviation officials “with great sadness” confirmed  deaths   emailed statement  extended condolences   families, friends  loved ones   people killed. Their names haven' been released.
+
+The company  cooperating with  investigation, according   statement.
+
+Navajo Nation President Buu Nygren said   social media post that   heartbroken  learn   crash.
+
+“These were people  dedicated their lives  saving others,  their loss  felt deeply across  Navajo Nation,”  said.
+
+Medical transports   from  Navajo Nation  common because most hospitals  small    offer advanced  trauma care. The Chinle airport     handful  airports that  tribe owns  operates   vast 27,000 square-mile (70,000 square-kilometer) reservation that stretches into Arizona, New Mexico  Utah --  largest land base   Native American tribe.
+
+In January,  medical transport plane crashed  Philadelphia, killing eight people. The National Transportation Safety Board, which  investigating  crash,  said  voice recorder  that plane   working.
+
+___
+
+Associated Press journalists Hannah Schoenbaum  Salt Lake City  Felicia Fonseca  Flagstaff, Arizona, contributed  this report.
+
+-----
+https://abcnews.go.com/US/wireStory/judge-considers-floridas-alligator-alcatraz-detention-center-violates-124400701
+A federal judge  hearing arguments about  immigration detention center   Florida Everglades, known  “Alligator Alcatraz.”
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+MIAMI -- A federal judge  Wednesday  hearing arguments over whether  stop construction   immigration detention center built   middle   Florida Everglades  dubbed “Alligator Alcatraz” because  didn' follow environmental laws.
+
+Until  laws  followed, environmental groups   Miccosukee Tribe said U.S. District Judge Kathleen Williams should issue  preliminary injunction  halt operations  further construction. The suit claims  project threatens environmentally sensitive wetlands that  home  protected plants  animals  would reverse billions  dollars’ worth  environmental restoration.
+
+The lawsuit  Miami against federal  state authorities     legal challenges   South Florida detention center which  built more than  month    state  Florida   isolated airstrip owned  Miami-Dade County.
+
+A second lawsuit brought  civil rights groups says detainees’ constitutional rights  being violated since they  barred from meeting lawyers,  being held without  charges,   federal immigration court  canceled bond hearings. A hearing  that case  scheduled  Aug. 18.
+
+Under  55-year- federal environmental , federal agencies should have examined   detention center' construction would impact  environment, identified ways  minimize  impact  followed other procedural rules such  allowing public comment, according   environmental groups   tribe.
+
+It makes  difference that  detention center holding hundreds  detainees  built   state  Florida since federal agencies have authority over immigration,  suit said.
+
+“The construction   detention center   action that  necessarily subject  federal control  responsibility,” they said   recent court filing. “The State  Florida   authority  jurisdiction  enforce federal immigration .”
+
+Attorneys  federal  state agencies last week asked Williams  dismiss  transfer  injunction request, saying  lawsuit  filed   wrong jurisdiction. Even though  property  owned  Miami-Dade County, Florida’ southern district   wrong venue   lawsuit since  detention center  located  neighboring Collier County, which    state’ middle district, they said.
+
+Williams    rule  that argument.
+
+The lawsuits were being heard  Florida Republican Gov. Ron DeSantis ′ administration apparently  preparing  build  second immigration detention center   Florida National Guard training center  north Florida. At least  contract  been awarded  what’ labeled  state records   “North Detention Facility.”
+
+___
+
+Follow Mike Schneider   social platform Bluesky: @mikeysid.bsky.social
+
+-----
+https://abcnews.go.com/International/wireStory/trump-cracks-college-student-visas-countries-opportunity-124400698
+As part   crackdown  immigration, President Donald Trump’ administration  pressuring U.S. colleges  reduce their dependence  international enrollment while adding  layers  scrutiny  foreign students
+
+As Trump cracks down  college student visas, other countries  opportunity
+
+FILE - An Emirati student arrives   building   University  Wollongong  Dubai, United Arab Emirates, Dec. 28, 2009. (AP Photo/Kamran Jebreili, File)
+
+FILE - An Emirati student arrives   building   University  Wollongong  Dubai, United Arab Emirates, Dec. 28, 2009. (AP Photo/Kamran Jebreili, File)
+
+FILE - An Emirati student arrives   building   University  Wollongong  Dubai, United Arab Emirates, Dec. 28, 2009. (AP Photo/Kamran Jebreili, File)
+
+FILE - An Emirati student arrives   building   University  Wollongong  Dubai, United Arab Emirates, Dec. 28, 2009. (AP Photo/Kamran Jebreili, File)
+
+LONDON -- In China, wait times  U.S. visa interviews   long that some students have given . Universities  Hong Kong  fielding transfer inquiries from foreign students   U.S.,  international applications  British undergraduate programs have surged.
+
+President Donald Trump’ administration  been pressuring U.S. colleges  reduce their dependence  international enrollment while adding  layers  scrutiny  foreign students  part   crackdown  immigration.
+
+The U.S. government  sought  deport foreign students  participating  -Palestinian activism. In  spring,  abruptly revoked  legal status  thousands  international students, including some whose only brush with  enforcement   traffic ticket. After reversing course,  government paused  appointments  student visas while rolling   process  screening applicants’ social media accounts.
+
+The U.S. remains  first choice  many international students,  institutions elsewhere  recognizing opportunity   upheaval,  applicants  considering destinations they might have otherwise overlooked. The impact  U.S. universities —   nation' economy —   significant.
+
+New international enrollment   U.S. could drop  30%  40% this fall, according   analysis  visa  enrollment data  NAFSA,  agency that promotes international education.
+
+That would deprive  U.S. economy  $7 billion  spending, according   analysis. Many international students  full price,  their absence would also hurt college budgets.
+
+As  second most popular destination  international students, Britain  positioned  benefit.
+
+The country'  Labour government  vowed   migration,  officials have imposed time limits  post-study visas allowing graduates  stay  work. But admissions consultants   United Kingdom  still seen   most welcoming   traditional “ four” English-speaking destinations  higher education —  U.S., U.K., Canada  Australia.
+
+After declining last year,  number  international applications  undergraduate study   U.K. this fall grew  2.2%, official figures show. A record number  applications came from China,  10% compared with  previous year. Applications from  U.S. also reached nearly 8,000 students —  increase  14%   20-year high.
+
+Acceptances  international students  graduate programs   U.K. grew  estimated 10% from last year, driven  demand  business  management courses  particular, according  data from UniQuest, which works with many British universities  admissions.
+
+Data showing  extent   impact will   available until fall, said Mike Henniger, CEO  Illume Student Advisory Services,  consultancy that works with colleges   U.S., Canada  Europe. “But  American brand  taken  massive ,   U.K.    that  benefiting,"  said.
+
+Demand from Chinese students  risen rapidly  universities places  Hong Kong, Singapore  Malaysia, said Will Kwong, managing director  AAS Education,  consultancy  Hong Kong. Many Western universities have offshore campuses there that  more affordable than going   U.S.  U.K.
+
+“Opting  study  Asia  been  trend since  easing  COVID-19,” Kwong said. “But obviously ’ been exacerbated   change  administration   U.S.”
+
+Some Asian families have told   U.S.   longer their clear first choice because  political turbulence  visa difficulties, many  still waiting  U.S. visa interviews  will likely miss  start   fall term, Kwong said.
+
+Chinese college student Alisa,   studying data science, plans  attend  exchange program this fall   University  California, Berkeley. She hopes  pursue  master' degree   U.S.
+
+But   also looking into other options “just  I could still   school   extreme scenario occurs,” said Alisa,  spoke  condition  partial anonymity   fear  being targeted.
+
+Hong Kong will welcome  students   denied entry   U.S.,  city' leader John Lee  said. Last year,  Chinese territory decided  allow international students  work part-time.
+
+Hong Kong University said   received over 500 inquiries from students   U.S.   processing around 200 applications  transfer. At another school,  Hong Kong University  Science  Technology, international undergraduate applications have surged  40% from last year, said Alison Lloyd, associate provost  institutional data  research.
+
+Countries including  United Arab Emirates have invested heavily  attracting international students  partnering with universities elsewhere  host branch campuses. These arrangements could appeal  students  fear being denied access   U.S.
+
+Dubai, which  designs  becoming  global education , hosts dozens  international institutions’ satellite campuses. It  international student numbers grow   third  2024-2025.
+
+Lisa Johnson, principal  Dubai' private American Academy  Girls, said  mostly Emirati student body  increasingly looking away from  U.S.  college.
+
+“Every student wants  dreams    Harvard,”  said. “But  college options increase   United Arab Emirates, more  more students  staying."
+
+Kazakhstan  similar ambitions, said Daniel Palm,   helped U.S. universities   campuses abroad. Illinois Tech   University  Arizona  among colleges offering degree programs   Central Asian country, drawing students mostly from China  Russia.
+
+“All   sudden U.S. colleges  asking   provide diversity, provide access," Palm said, "because  have students  want  come   U.S.  '."
+
+___
+
+Associated Press writers Kanis Leung  Hong Kong; Albee Zhang  Washington, D.C.;  Gabe Levin  Dubai contributed.
+
+-----
+https://abcnews.go.com/Politics/wireStory/judge-considers-floridas-alligator-alcatraz-detention-center-violates-124400702
+A federal judge  hearing arguments about  immigration detention center   Florida Everglades, known  “Alligator Alcatraz.”
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+A protester stands outside  migrant detention dubbed "Alligator Alcatraz"   Dade-Collier Training  Transition Facility, Saturday, July 12, 2025,  Ochopee, Fla. (AP Photo/Alexandra Rodriguez)
+
+MIAMI -- A federal judge  Wednesday  hearing arguments over whether  stop construction   immigration detention center built   middle   Florida Everglades  dubbed “Alligator Alcatraz” because  didn' follow environmental laws.
+
+Until  laws  followed, environmental groups   Miccosukee Tribe said U.S. District Judge Kathleen Williams should issue  preliminary injunction  halt operations  further construction. The suit claims  project threatens environmentally sensitive wetlands that  home  protected plants  animals  would reverse billions  dollars’ worth  environmental restoration.
+
+The lawsuit  Miami against federal  state authorities     legal challenges   South Florida detention center which  built more than  month    state  Florida   isolated airstrip owned  Miami-Dade County.
+
+A second lawsuit brought  civil rights groups says detainees’ constitutional rights  being violated since they  barred from meeting lawyers,  being held without  charges,   federal immigration court  canceled bond hearings. A hearing  that case  scheduled  Aug. 18.
+
+Under  55-year- federal environmental , federal agencies should have examined   detention center' construction would impact  environment, identified ways  minimize  impact  followed other procedural rules such  allowing public comment, according   environmental groups   tribe.
+
+It makes  difference that  detention center holding hundreds  detainees  built   state  Florida since federal agencies have authority over immigration,  suit said.
+
+“The construction   detention center   action that  necessarily subject  federal control  responsibility,” they said   recent court filing. “The State  Florida   authority  jurisdiction  enforce federal immigration .”
+
+Attorneys  federal  state agencies last week asked Williams  dismiss  transfer  injunction request, saying  lawsuit  filed   wrong jurisdiction. Even though  property  owned  Miami-Dade County, Florida’ southern district   wrong venue   lawsuit since  detention center  located  neighboring Collier County, which    state’ middle district, they said.
+
+Williams    rule  that argument.
+
+The lawsuits were being heard  Florida Republican Gov. Ron DeSantis ′ administration apparently  preparing  build  second immigration detention center   Florida National Guard training center  north Florida. At least  contract  been awarded  what’ labeled  state records   “North Detention Facility.”
+
+___
+
+Follow Mike Schneider   social platform Bluesky: @mikeysid.bsky.social
+
+-----
+https://abcnews.go.com/Politics/wireStory/dozens-democrats-left-texas-republicans-punish-124353351
+
+You are a Current Events UIL question writer. Using only the information below (do not add outside details), generate as many multiple-choice current events questions as possible at an advanced (“very very very hard”) difficulty level.
+Requirements:
+- Each question must have a concise, high-level stem that tests deep understanding, synthesis, or nuance from the information.
+- Provide exactly four answer choices labeled A–D, with one clearly correct answer and three highly plausible distractors.
+- Distractors must be subtle, drawing on related details or common misconceptions found in the text.
+- Do not introduce any facts or context not present in the source material.
+- For each article or segment separated by a “––––––––––––––––––––––––”, generate at least one and up to three questions based solely on that segment.
+- At the end, include an Answer Key listing each question’s number, correct answer letter, and:
+    - A brief explanation citing the specific text evidence supporting the answer.
+    - The associated URL that corresponds to the source of the question (use the one placed above each dashed info section).
+
+Formatting:
+- Do not include citations, summaries, or explanations under each question.
+- Place all explanations and source URLs in the Answer Key only.
+- Do not include any additional commentary beyond the questions and the formatted Answer Key.
+Info: 
+
+
+Dozens  Democratic state lawmakers  Texas have scattered across  country   last-ditch effort  prevent Republicans from adopting U.S. House maps that President Donald Trump wants  place before  2026 midterm elections
+
+Why dozens  Democrats left Texas   Republicans  trying  punish them
+
+AUSTIN, Texas -- A walkout  Texas House Democrats  stalling redrawn political maps that President Donald Trump wants before  2026 elections  bolster Republican chances  keeping  U.S. House majority.
+
+Since leaving  state  Aug. 3  block  vote   Texas Capitol, dozens  Democrats have scattered  Chicago, New York  Boston  faced escalating threats from Republicans  have signed civil arrest warrants  mobilized state troopers.
+
+Trump said Tuesday  FBI “ have " help  bring back Texas Democrats,  have  said  long they  prepared  hold . But they' signaled  intention  quickly returning home.
+
+Here  some things  know:
+
+Trump wants  redraw  Texas congressional   hopes  adding five more GOP seats  Texas   midterm elections  boost  party' chance  preserving  slim U.S. House majority. Republicans currently hold 25   state’ 38 seats.
+
+As  minority party   state House  Senate, Democrats simply   have  votes  stop  plan under normal legislative procedures. The maps were passed   committee last week  swiftly scheduled   floor vote.
+
+Sizing  their limited power  options, Democrats chose  deny  quorum  their only chance    brakes  Trump' plan   rally national support.
+
+Many went  Illinois  New York.
+
+Illinois Gov. JB Pritzker  welcomed Democrats  Chicago. Pritzker,  potential 2028 presidential contender   been   Trump’ most outspoken critics during  president' second term,  been  quiet talks with Texas Democrats  weeks about offering support  they chose  leave  state.
+
+New York Gov. Kathy Hochul,   hosted Texas Democrats  Albany, said  fight over congressional lines  Texas  implications nationally.
+
+Meanwhile, California Gov. Gavin Newsom  said  state would move forward with partisan redistricting  Texas proceeds. California Democrats  considering redrawing  state' congressional   carve  five districts  give  party 48    52 seats.
+
+The governor said  would  this  calling  November special election   approval from voters  circumvent  state' independent commission responsible  redistricting.
+
+Republican Texas Gov. Greg Abbott  asked  state Supreme Court, which  entirely controlled  GOP justices,  remove  Democratic House leader from office through  untested legal argument that  absent legislators have effectively forfeited their seats. Democrats blasted  lawsuit   court   ruled.
+
+A lawmaker refusing  show    civil violation  legislative rules,  they   fined $500  every  they aren'   Capitol. In 2021,  Texas Supreme Court held that House leaders   authority  “physically compel  attendance”  missing members   Democrats were forcibly brought back   state after warrants were served that year   similar quorum break.
+
+Texas Democrats have fled  state before  attempts  thwart  Republican majority.
+
+They twice denied  GOP  quorum  2003  stop Republican efforts  redraw voting maps,   point leaving  Oklahoma  later  New Mexico. In 2021, Democrats left  state   final days   session over  elections bill   voting restrictions. They stayed away  38 days.
+
+Both efforts only delayed  Republican- measures that were ultimately passed once Democrats eventually returned  Austin.
+
+And while  current special session ends Aug. 20, Abbott   authority  keep calling lawmakers back   Capitol  30- special sessions  pass  redistricting bill   other item  believes should  addressed.
+
+The current special session agenda includes help  communities devastated    July Fourth floods that killed  least 136 people. As part  their walkout, Texas Democrats have accused Republicans  prioritizing  politics  redistricting over flood victims.
+
+Abbott  defended  redistricting plan   effort  redraw lines  better reflect voters  supported Trump   2024 election, when  easily  Texas. He said there  nothing illegal about drawing lines   basis  political makeup.
+
+“All  these districts that  being added  districts that were   Trump,"  said   interview with Fox News.
+
+___
+
+Associated Press writers Joey Cappelletti  Washington; Andrew DeMillo  Little Rock, Arkansas; Nadia Lathan  Austin, Texas;  Philip Marcelo  New York contributed  this report.
+
+-----
+https://www.cnbc.com/2025/08/05/openai-talks-with-investors-about-share-sale-at-500-billion-valuation.html
+Sam Altman, CEO  OpenAI attends  annual Allen  Co. Sun Valley Media  Technology Conference   Sun Valley Resort  Sun Valley, Idaho, U.S.,  July 8, 2025.
+
+OpenAI   talks with investors about  potential stock sale   valuation  roughly $500 billion, according   sources with knowledge   matter.
+
+The talks   early stages  would involve  secondary sale with shares sold  current  former employees, said  people,  asked    named because  discussions  confidential. Thrive Capital,  investor  OpenAI, could lead  potential round,  sources said.
+
+Bloomberg  first  report   latest talks.
+
+OpenAI' valuation  been   continuous upswing since  artificial intelligence startup launched ChatGPT  late 2022  quickly established itself   leader  generative AI. The company announced  $40 billion funding round  March   $300 billion,    largest amount ever raised   private tech company.
+
+Last week, OpenAI announced  most recent $8.3 billion tranche tied  that funding round.
+
+OpenAI released  open-weight language models  Tuesday   first time since  rolled  GPT-2  2019. The models   serve  lower-cost options that developers  researchers  easily   customize, OpenAI said.
+
+The company said earlier this week that ChatGPT  about   700 million weekly active users.
+
+OpenAI rival Anthropic, meanwhile,   talks  secure between $3 billion  $5 billion   funding   Iconiq Capital   potential $170 billion valuation,  from $61.5 billion  March.
+
+CNBC previously reported that OpenAI' annual recurring revenue  projected   $20 billion  year-,  from $10 billion  June.
+
+WATCH: OpenAI releases   open-weight AI models
+
+-----
+https://www.cnbc.com/2025/08/06/syria-will-be-hurt-further-by-trumps-41percent-tariff-rate-the-highest-on-earth.html
+U.S. President Donald Trump meets with Syrian President Ahmed -Sharaa  Riyadh, Saudi Arabia,  this handout released  May 14, 2025. Saudi Press Agency | Via Reuters
+
+In May, speaking   rapt crowd   Ritz-Carlton Riyadh, U.S. President Donald Trump stunned listeners  announcing  would  ordering  full lifting  U.S. sanctions  Syria, many  which  been  place  decades. "Now, ' their time  shine ... Good luck Syria," Trump said. Less than three months later,  Trump administration  Syria with  highest tariff rate   country   world: 41%. Syria  very little trade with  U.S. because  long-held sanctions,  some trade between   does exist. In 2023, Syria exported $11.3 million worth  goods   U.S., according   Observatory  Economic Complexity,  imported $1.29 million worth  American goods, technically giving  U.S.  trade deficit with  impoverished Middle Eastern country. Trump says  levies  administration imposes — which were based   widely criticized calculation applied  each country  April using trade deficit figures —  meant  address trade imbalances. He   commented specifically   case  Syria. But   faces  specter  rebuilding  devastated state after 13 years   under   government with  very shaky hold  power,  country needs   help   , regional analysts  —  further punishment. "After years  devastating civil ,  country   urgent need  substantial foreign direct investment  begin  long  difficult process  reconstruction  development," Giorgio Cafiero, CEO  risk consulting firm Gulf State Analytics, told CNBC. "While  recent lifting  many U.S., U.K.,  EU sanctions   welcome development  Damascus' economic ambitions, Washington' imposition  steep tariffs  threatens  restrict  potential  meaningful trade with  United States."
+
+A collapsed state
+
+Syria  been designated  state sponsor  terrorism   U.S. government since 1979. U.S. sanctions were imposed   country  2004  again  2011, after  regime  then-President Bashar Assad launched  brutal crackdown  anti-government uprisings. In  roughly 14 years since,  country  been devastated  civil , sectarian violence  brutal terrorist attacks, with  Islamic State taking over parts   country  2014   subsequent Western- bombing campaign  eradicate  extremist group.
+
+A drone view shows Damascus city, after fighters   ruling Syrian body ousted Syria' Bashar -Assad, Syria, December 13, 2024. Yosri Aljamal | Reuters
+
+The toppling   Assad regime during  shock offensive  anti-Assad militia groups  December 2024 stunned  global community  brought about  prospect    beginning   devastated country. Syria'  President Ahmed -Sharaa —  former -Qaeda member  describes himself  reformed — currently leads  country' transitional government. Syria remained under myriad international sanctions,  those imposed   U.S. were  most severe,  they applied  third parties  well, deterring other countries  groups from transacting with  country. Most recently, since Trump' official lifting  sanctions  June, Syria  hosted delegations from several countries including  U.S.  wealthy Gulf states pledging support  investment  reconstruction. At  same time, ' been beset  outbursts  sectarian violence  different parts   country  volleys  Israeli bombings. More than -thirds  Syria' electricity grid  -functional, according   organizations, with major cities like Aleppo  Damascus facing blackouts  more than 20 hours  . In many rural  conflict-ridden areas, there   power  . "This '  economy that  struggling  much  '  economy that seems   almost constantly over  last  months,   verge  collapse, unless very active steps  taken  order  buttress   give   chance  recover," said H.A. Hellyer,  senior fellow   Royal United Services Institute  London. "So  step that deviates from that, I think,  very dangerous." Qatar recently announced  project  which  development fund will purchase   provide   Syria — transported  Azerbaijan  Turkey —  support more than 5 million people, with  expectation  improving daily power supply   much  40%. Fahad Al-Sulaiti,  director general  Qatar Fund  Development, described  Damascus will need  lean heavily   from Qatar, Saudi Arabia,   United Nations — particularly  that tariffs will harm  possibility  developing beneficial trade ties with  U.S. He also said Qatar   close contact with  U.S. government  enable support  Syria. "We work very closely with  partners   United States. That'  from   ...  work very close with  Treasury Department ... ' taking with them  create  good economic system," Al-Sulaiti told CNBC.
+
+A 'leash'  Syria'  government?
+
+Economic observers note that  41% tariff itself will have little actual impact  Syria' devastated economy, since bilateral trade between   countries   negligible. "But  symbolism behind this decision carries  greater weight than  trade figures suggest," Cafiero said. "The fact that Syria  singled    highest tariffs — even after  easing  most sanctions — sends  clear  calculated message from  Trump administration: Washington  willing  loosen  economic grip   post-regime change Syria,  only under conditions defined   White House."
+
+watch 
+
+-----
+https://www.cnbc.com/2025/08/06/trump-threatens-federal-control-of-dc-following-attack-on-administration-staffer-known-as-big-balls.html
+U.S. President Donald Trump gestures before boarding Air Force One   returns  Washington, D.C.,  Lossiemouth, Scotland, Britain, July 29, 2025.
+
+President Donald Trump threatened Tuesday  have  federal government take control  Washington, D.C., after  assault   well-known original staffer   Department  Government Efficiency   nation' capital over  weekend.
+
+Edward Coristine, also known   online name, "Big Balls,"   woman characterized   police report   significant other were  victims   unarmed attempted carjacking early Sunday.
+
+Washington Metropolitan Police  Tuesday announced  arrests   15-year- suspects from Maryland.
+
+In  social media post that   mention Coristine  name, Trump described crime  Washington  being "totally   control."
+
+"Local 'youths'  gang members, some only 14, 15,  16-years-,  randomly attacking, mugging, maiming,  shooting innocent Citizens,   same time knowing that they will  almost immediately released," Trump wrote  Truth Social, saying minors  young  14 should  tried  adults.
+
+"If D.C. doesn'    together,  quickly,  will have  choice   take Federal control   City,   this City   should  ,   criminals  notice that they'  going   away with  anymore,"  added.
+
+Former DOGE head Elon Musk posted  screenshot  Trump' Truth Social post  X  echoed  call  have  federal government take control  Washington.
+
+Musk also referred   unnamed DOGE staffer   post.
+
+"A  days ,  gang  about  dozen young  tried  assault  woman     night  DC," Musk wrote  X. "A @Doge team member  what  happening,   defend    severely beaten   point  concussion,   saved ."
+
+The police report said  vehicle belonged  Coristine.
+
+The report added that police officers  about 10 "juveniles" surrounding    assaulting Coristine, which prompted  officers     their vehicle       juveniles, whom police arrested,  flee. Police said that   interview, Coristine said  pushed  woman identified   significant other into    "turned  deal with  suspects,"   turn assaulted .
+
+Police said  case  under investigation   Carjacking Task Force, with multiple suspects outstanding.
+
+Jeanine Pirro,  U.S. attorney  Washington, posted  video  X  Tuesday saying   just  with Trump  discuss "crime   nation' capital."
+
+"Our     guns   street, drugs   street, take care  those individuals   threatening, carjacking other people,  make this city safe  clean again. And that' just what ' going  . And   '  into , ' going  have  deal with ," Pirro said.
+
+She   mention Coristine   video.
+
+Despite Trump' claims  "  control" violence   city, violent crime  down 26% from last year, according  preliminary police figures. At  same time,  alleged attack  Coristine comes about  month after  21-year- congressional intern  caught  crossfire  fatally shot  Washington.
+
+Trump  previously expressed  desire  "clean "  nation' capital   threatened  federal takeover   city, which already  limited ability  self-govern. Congress   ability  rescind those powers     president' discretion.
+
+-----
+https://www.cnbc.com/2025/08/06/rbi-india-central-bank-repo-interest-rates-amid-trump-tariff-threats.html
+India' central bank kept  policy rate steady  5.5% Wednesday   face  rising tariff threats from U.S. President Donald Trump.
+
+The move   line with expectations from economists polled  Reuters,  comes after  Reserve Bank  India delivered  outsized   50 basis points   last meeting  June.
+
+RBI Governor Sanjay Malhotra,   monetary policy statement, said  decision  unanimous. He noted that while global trade challenges lingered, geopolitical uncertainties have "somewhat abated."
+
+The Nifty 50 index fell 0.18% after  decision, while  Sensex dipped marginally. The rupee strengthened marginally  trade  87.72 against  dollar.
+
+The RBI' latest move comes  India navigates rising tensions with  U.S. over  trade ties with Russia. On Monday, Trump criticized India  purchasing Russian   weapons, threatening higher tariffs   unspecified "penalty."
+
+During  last meeting, RBI Governor Sanjay Malhotra said that given  50-basis-point , there  limited room  monetary policy  support growth,   such,  RBI would switch  stance  "neutral" from "accommodative."
+
+This means that  Monetary Policy Committee, which   RBI'  decision-making body, will carefully assess  "incoming data   evolving outlook  chart   future course  monetary policy," Malhotra said.
+
+Analysts  Bank  America said   July 28 note that  RBI "took away  punchbowl from  markets"  delivering  early, aggressive . They expect  central bank  pause  ,  further policy support will only  deployed  there   major shift   macroeconomic outlook.
+
+However,  BofA analysts left  door open   possible rate  later this year — likely   fourth quarter  2025 — once  GDP growth outlook becomes clearer.
+
+India' latest inflation reading still looks supportive   rate , with  headline inflation rate  June hitting  fresh -year   2.1%.
+
+Meanwhile, India' economy expanded   faster-than-expected annual rate  7.4%   quarter ended March, sharply higher than  6.7% growth forecast  economists   Reuters poll.
+
+That quarter marked    India' 2024-25 fiscal year, which registered  overall economic growth  6.5%,  line with  government' estimate.
+
+— This  breaking news, please check back  updates.
+
+-----
+https://www.cnbc.com/2025/08/06/mcdonalds-mcd-q2-2025-earnings.html
+A corporate logo  McDonald' hangs above  door   restaurant  Broadway  New York City  June 11, 2025.
+
+McDonald'  expected  report  second-quarter earnings before  bell  Wednesday.
+
+Here' what Wall Street analysts surveyed  LSEG  expecting  company  report:
+
+Earnings  share: $3.15 expected
+
+$3.15 expected Revenue: $6.7 billion expected
+
+Last quarter, McDonald' U.S. restaurants posted their steepest same-store sales decline since  onset   Covid-19 pandemic. Executives blamed  drop  -  middle-income diners,  have been feeling more pressure  their wallets this year.
+
+But thanks  buzzy promotions, analysts  more optimistic about this quarter, projecting that domestic same-store sales will increase 2.4%, according  StreetAccount estimates. The burger chain launched McCrispy Chicken Strips during  quarter,   - meal with  Minecraft movie    collectibles only  weeks into  promotion.
+
+For  full year, McDonald'  said  plans  open 2,200 locations   spend between $3 billion  $3.2 billion  capital expenditures. The company  projecting that  restaurant openings will boost  systemwide sales growth  slightly more than 2%.
+
+Shares  McDonald' have risen roughly 3% this year. The fast-food giant   market   nearly $220 billion.
+
+This story  developing. Please check back  updates.
+
+-----
+https://www.cnbc.com/2025/08/06/disney-dis-earnings-q3-2025.html
+Disney reports  fiscal third-quarter earnings before  bell  Wednesday,  Wall Street will  looking  updates   state   streaming, TV  movies businesses,  well   theme parks.
+
+Here  what Wall Street expects Disney  report  Wednesday, according  LSEG
+
+Earnings  share: $1.47 expected
+
+$1.47 expected Revenue: $23.73 billion expected
+
+Once again,  streaming business will   focus.
+
+Investors  anticipating further updates   company' ESPN direct--consumer streaming service. ESPN  said  will launch   this fall,     give  firm date.
+
+The streaming service, which will  named simply ESPN, will house    content from  network' traditional TV channel  more. It will cost $29.99  month.
+
+The move comes  more consumers exit  traditional  TV bundle  switch  streaming. On Tuesday, Fox Corp . announced   direct--consumer streaming , Fox One, would launch  August 21  cost $19.99  month.
+
+During Disney' last earnings report  May,  company upped some   fiscal 2025 guidance  said  expected  modest rise  customers  streaming service Disney+.
+
+Disney said   time  flagship service  126 million global subscribers, exceeding analyst expectations   period. Disney  previously reported that  streaming business  reached profitability,  metric that  outranked  importance  subscriber growth  media companies.
+
+Disney also announced  May that  reached  deal  bring  theme park  resort  Abu Dhabi —  seventh theme park resort   company continues  expand internationally.
+
+Disney' experiences business, which includes parks, cruises  resorts  well  consumer products, reported 6% year-over-year revenue growth last quarter. Domestic theme park revenue   9%, while international park revenue dipped 5%.
+
+This story  developing. Please check back  updates.
+
+-----
