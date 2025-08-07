@@ -64664,3 +64664,169 @@ Instead  outright refusing  answer users' questions  they  potentially risky, GP
 "GPT-5  been trained  recognize when  task '  finished, avoid speculation   explain limitations more clearly, which reduces unsupported claims compared  prior models," said Michelle Pokrass,  post-training lead  OpenAI.
 
 -----
+
+==== 🕒 Run at 2025-08-07T17:41:24.448943 ====
+https://www.bbc.com/news/articles/cgjylqlvq5xo?at_medium=RSS&at_campaign=rss
+David Lammy  host JD Vance  country residence
+
+46 minutes  Share Save Jennifer McKiernan • @_JennyMcKiernan Political reporter, BBC News Share Save
+
+Reuters David Lammy (left) meets Vance regularly   role  foreign secretary
+
+Foreign secretary David Lammy   host US Vice President JD Vance   official country residence Chevening House,  Kent,  Friday. "The vice president  foreign secretary will discuss  variety  topics pertaining   US-UK relationship,"  White House said   statement. Vance   family    UK   private family holiday. They  expected  spend most  their break   Cotswolds   also reported   planning  visit  Hampton Court Palace. UK foreign secretaries have traditionally     Chevening,  Grade 1 listed mansion, with gardens that include  lake   maze.
+
+Getty Images Chevening House dates back nearly 400 years       grounds
+
+Lammy  Vance have been meeting regularly  official trips since  foreign secretary started   role last year,  they  reported  have bonded over their shared Christian faith. The foreign secretary attended mass  Vance' Washington residence   official visit  March    reported   repaying  favour  allowing  family  stay   grace  favour mansion. Speaking  BBC Breakfast last summer, Lammy said: "Let  just   JD Vance that I'     several occasions,  share  similar working-class backgrounds with addiction issues   family. "We' written books  that, ' talked about that,  ' both Christians. So I think I  find common ground with JD Vance." The   expected  hold  bilateral meeting before being joined  their families  Chevening. The vice president' UK visit comes   weeks after Donald Trump travelled  Scotland,   private visit   golf courses. Trump  Prime Minister Sir Keir Starmer  well  EU chief Ursula   Leyen, agreeing  trade deal with  bloc,  will return   full state visit  September.
+
+-----
+https://www.bbc.com/news/videos/cgjy814d367o?at_medium=RSS&at_campaign=rss
+The BBC' Damian Grammaticas explains  controversy surrounding China' mega-embassy plan.
+
+Beijing' plans   sprawling  embassy have sparked fears  location - near London' financial district - could pose  espionage risk.
+
+Deputy Prime Minister Angela Rayner   given China  weeks  explain certain aspects  their plans.
+
+-----
+https://www.bbc.com/news/articles/cy5prvgw0r1o?at_medium=RSS&at_campaign=rss
+OpenAI claims GPT-5 model boosts ChatGPT  'PhD level'
+
+25 minutes  Share Save Share Save
+
+Getty Images
+
+ChatGPT-maker OpenAI  unveiled  long-awaited latest version   artificial intelligence (AI) chatbot, GPT-5, saying   provide PhD-level expertise. Billed  "smarter, faster,  more useful," OpenAI -founder  chief executive Sam Altman lauded  company'  model  ushering      ChatGPT. "I think having something like GPT-5 would  pretty much unimaginable   previous time  human history,"  said ahead  Thursday' launch. GPT-5' release  claims   "PhD-level" abilities  areas such  coding  writing come  tech firms continue  compete  have  most advanced AI chatbot.
+
+Elon Musk recently made similar claims    AI chatbot, Grok, which  been plugged into X (formerly Twitter). During  launch  Grok' latest iteration last month, Musk said   "better than PhD level  everything"  called   world' "smartest AI". Meanwhile, Altman said OpenAI'  model would suffer from fewer hallucinations -  phenomenon whereby large language models make  answers-   less deceptive. OpenAI  also pitching GPT-5  coders   proficient assistant, following  trend among major American AI developers, including Anthropic whose Claude Code targets  same market.
+
+What  GPT-5 ?
+
+OpenAI  highlighted GPT-5' ability  create software   entirety  demonstrate better reasoning capabilities - with answers that show workings, logic  inference. The company claims   been trained   more honest, provide users with more accurate responses  says that, overall,  feels more human. According  Altman,  model  "significantly better" than  predecessors. "GPT-3 sort  felt   like talking   high school student... 4 felt like ' kind  talking   college student,"  said   briefing ahead  Thursday' launch. "GPT-5   first time that  really feels like talking   expert   topic, like  PhD-level expert." For Prof Carissa Véliz   Institute  Ethics  AI, however, GPT-5' launch     significant   marketing  suggest. "These systems,  impressive  they , haven' been able   really profitable,"  said, also noting that they  only mimic - rather than truly emulate - human reasoning abilities. "There   fear that  need  keep   hype,  else  bubble might burst,    might  that ' mostly marketing." The BBC' AI Correspondent Marc Cieslak gained exclusive access  GPT-5 before ' official launch. "Apart from minor cosmetic differences  experience  similar  using  older chatbot: give  tasks    questions  typing  text prompt. It'  powered  what' called  reasoning model which essentially means  thinks harder about solving problems,  this seems more like  evolution than revolution   tech." The company will roll   model   users from Thursday. In  coming days  will become   clearer whether  really   good  Sam Altman claims  .
+
+Clash with other AI firm
+
+Anthropic recently revoked OpenAI' access   application programming interface (API), claiming  company  violating  terms  service  using  coding tools ahead  GPT-5' launch. An OpenAI spokesperson said   "industry standard"  evaluate other AI systems  assess their  progress  safety. "While  respect Anthropic' decision     API access, ' disappointing considering  API remains available  them," they added. With  free tier    model,  company   signalling  potential move away from  proprietary models that have previously dominated  offerings.
+
+ChatGPT changes
+
+-----
+https://www.pbs.org/newshour/politics/vance-visiting-indiana-as-trump-urges-gop-led-states-to-redistrict
+Vice President JD Vance visits Indiana  Thursday  discuss redistricting with Republican leaders  President Donald Trump ramps  pressure  GOP states  redraw congressional boundaries  give  party more winnable seats   2026 midterm elections.
+
+Vance  scheduled  hold private meetings with Gov. Mike Braun  others before attending  GOP fundraiser Thursday night   solidly Republican state. Braun told reporters Tuesday  expects  discuss several matters with  vice president — including redistricting —  said  commitments have been made.
+
+“It looks like ’ going  happen across many Republican states,” Braun said.
+
+Vance’ visit comes after Texas Democrats successfully stalled  vote there this week   redrawn congressional , part     secure five more GOP-leaning congressional seats   expense  Democrats before  midterms. The White House’ goal   give Republicans  easier path  maintaining control   House.
+
+Indiana  staunchly Republican,  opponents   redistricting attempt  planning  make their objections known Thursday with protests   news conference    Democratic members   state’ congressional delegation.
+
+WATCH: How politicians  picking their voters with partisan redistricting
+
+Braun would have  call  special session   chooses  start  redistricting process,  lawmakers have  sole power  draw   maps.
+
+Braun’ office   responded  multiple emailed requests seeking more details about Vance’ visit.
+
+Republican U.S. representatives outnumber Democrats  Indiana 7-2, limiting  possibilities  squeezing  another seat. The constitutionality   move would also almost certainly  challenged  court.
+
+Indiana lawmakers have been wary   national spotlight  recent years, especially after  special session  2022 resulted  lawmakers enacting  strict   abortions. Braun   staunch ally  Trump   state with  strong base  loyalists   president.
+
+But Indiana  also home  Mike Pence,  former vice president   past governor whose more measured approach  partisan politics still holds sway among many state lawmakers.
+
+The GOP would likely target Indiana’ 1st Congressional District,  longtime Democratic stronghold that encompasses Gary  other cities near Chicago   state’ northwest corner. The seat held  third-term Democratic U.S. Rep. Frank Mrvan  been seen   possible pickup  recent years  manufacturing union jobs have left  area, said Laura Merrifield Wilson,  professor  political science   University  Indianapolis.
+
+Lawmakers  Indiana redrew  borders   district   slightly more favorable towards Republicans   2022 election,    entirely split  . The  maps were  challenged  court after they were approved  2021,  even  Democrats  allies   opposed  changes that also gave  boost   GOP   suburbs north  Indianapolis.
+
+Mrvan  reelection  2022   respectable margin  easily retained  seat again  2024. In  statement Tuesday, Mrvan said  Trump administration knows  policies  “wildly unpopular.”
+
+“They know that their only hope  maintain control   pressure  Indiana General Assembly  violate  Indiana Constitution  redistrict U.S. House  Representative() seats -decade,”  added.
+
+The more dramatic option would   zero   Indiana’ 7th Congressional District, composed entirely  Marion County   Democratic stronghold  Indianapolis.
+
+Indiana’ legislative leaders, House Speaker Todd Huston  Senate President Pro Tem Rodric Bray, held their same positions four years  when  Legislature finalized   maps. Both expressed approval   final product  said  borders fairly reflected  makeup   state.
+
+“I believe these maps reflect feedback from  public  will serve Hoosiers well   next decade,” Bray said   time.
+
+Both leaders have been quiet   possibility   special session. Bray  Huston’ offices   respond  multiple messages left over  phone  email Wednesday.
+
+Republicans hold  supermajority   Indiana House  Senate, meaning Democrats could  stop  special session  refusing  attend.
+
+Julia Vaughn, director  Common Cause Indiana, said  costly redistricting process will  look good  Republicans  tightened  belt   state budget this past legislative session   revenue forecasts. Common Cause     leading groups nationally opposing Trump’ push  redistrict.
+
+“I ’ think there    they could rationalize spending taxpayer dollars  come back  Indianapolis  redraw maps that were just drawn four years   purely partisan purposes,” Vaughn said.
+
+-----
+https://www.nytimes.com/2025/08/07/nyregion/cuomo-trump-mamdani-mayor.html
+“The   mayor    audition    jester   want-- king,” Mr. Mamdani said. “It     person  stands    values  this city,  fabric  this city   people  this city."
+
+Mr. Mamdani said    spoken  Mr. Trump  played down concerns that  election could   bigger target  New York City’ back, given  president’ virulent criticism  . He said  would fight Mr. Trump   costs   sought  harm New Yorkers,   open  collaboration  help  city.
+
+“If  president   administration  looking  work   benefit  New Yorkers, which  what  spent  much   campaign speaking about, that   different conversation,” Mr. Mamdani said.
+
+Mr. Cuomo  scheduled  hold  event Thursday afternoon.
+
+His meeting with business leaders  intended  make  case   , rather than Mayor Eric Adams   Republican candidate, Curtis Sliwa,   best positioned  defeat Mr. Mamdani  guide  city through  tumultuous . The former governor  leading Mr. Adams   polls,   said candidly that Mr. Mamdani,  race’ front-runner, will prevail  opposition   remains splintered.
+
+Among  attendees were  head  Pfizer  Tishman Speyer,  real estate giant.
+
+In  statement  Wednesday, Rich Azzopardi,  spokesman  Mr. Cuomo,   deny that  former governor   president  spoken,  sought   distance between them.
+
+-----
+https://www.nytimes.com/2025/08/07/technology/openai-chatgpt-gpt-5.html
+ChatGPT  getting another upgrade.
+
+On Thursday, OpenAI unveiled   flagship A.I. model, GPT-5,  began sharing  technology with  hundreds  millions  people   ChatGPT,  company’ online chatbot.
+
+During  briefing with journalists, OpenAI executives called GPT-5  “major upgrade” over  systems that previously powered ChatGPT, saying   technology  faster, more accurate  less likely  “hallucinate,”  make stuff .
+
+“It feels significantly better  obvious ways   subtle ways,” OpenAI’ chief executive, Sam Altman, said. “GPT-5   first time that  feels like talking   expert   topic —  Ph.D.-level expert.”
+
+Since launching  A.I. boom  late 2022 with  release  ChatGPT, OpenAI  consistently improved  technology that underpins  chatbot. This began with  release   company’ GPT-4 technology   spring  2023  continued through  series  A.I. models that could listen, look  talk  approximate   people reason through complex problems.
+
+-----
+https://www.nytimes.com/2025/08/07/business/media/sallie-bingham-dead.html
+Sallie Bingham,  author, playwright, philanthropist, feminist  political activist whose feud with  brother helped topple  Kentucky publishing  media dynasty into which   born, died  Wednesday   home  Santa Fe, N.M. She  88.
+
+Clara Bingham,  niece, said  cause   stroke.
+
+The family drama began  1918, when Ms. Bingham’ paternal grandfather, John Worth Bingham, bought  newspapers, The Louisville Courier-Journal  The Louisville Times. The money came from John Bingham’ second wife, Mary Lily Kenan Flagler,  widow     railroad tycoon. She died  1917, less than  year after  wedding,   decades there were suspicions that  elder Mr. Bingham, known   Judge,   hand   death.
+
+The newspapers,  next  Ms. Bingham’ father, Barry Bingham Sr., flourished   decades that followed. They  Pulitzer Prizes  became known  their liberal political positions. But   1980s,  newspaper industry   financial trouble.
+
+Ms. Bingham, meanwhile,  been living since college  New York City, where  made  career   writer, publishing  novel  numerous short stories. But  1977, after  second divorce,  went home  Louisville hoping  advance  playwriting career    theater there   improve family relations.
+
+-----
+https://www.nytimes.com/2025/08/07/weather/atlantic-hurricane-season-forecast-update-noaa.html
+This year’ Atlantic hurricane season  been relatively quiet  , with just four storms becoming strong enough  merit names,  none strong enough   hurricanes. But that   about  change.
+
+Experts   National Oceanic  Atmospheric Administration released  update  Thursday  their seasonal hurricane forecast, with  very slight adjustment down from their initial estimates  May. They said that  forecast remains  track   above-average season,  that they still expect   between five  nine hurricanes before  season ends  Nov. 30.
+
+“Many   factors  identified ahead   season  still  play,  conditions  largely tracking along with  May predictions,” said Matt Rosencrans,  lead hurricane season forecaster with NOAA.
+
+The announcement comes   weather pattern suddenly indicates  increase  storm activity across  Atlantic. Phil Klotzbach,  hurricane expert  Colorado State University, warned that “over  next  weeks,  could  entering  very active period.”
+
+-----
+https://www.cnbc.com/2025/08/07/trumps-approval-rating-still-negative-while-the-public-sours-further-on-democrats-cnbc-survey-shows.html
+US President Donald Trump speaks   Oval Office   White House  Washington, DC, US,  Wednesday, Aug. 6, 2025. Bonnie Cash | Bloomberg | Getty Images
+
+President Donald Trump' overall  economic approval ratings remain  negative territory despite  slight improvement   latest CNBC All-America Economic Survey. More troubling   president, however, could  that  survey shows positive approval  only   seven  issues, with  public holding negative views   handling  tariffs, inflation, taxes  federal spending. There also   modest rise   public' preference   Democrats  control Congress, rising   49%-44% advantage from 48%-46%  April. It   largest lead  Democrats since 2021. At  same time, favorability   Democratic party among registered voters sank    -32 percentage points, with 24% positive  56% negative. The -32 rating appeared    lowest rating  either party going back   least 1996.
+
+Zoom In Icon Arrows pointing outwards
+
+The public disapproves    Trump  doing  president   51%-46% margin,  from 51%-44%   April survey. The change  within  survey' +/-3.1 percentage point margin  error       approval rating. The president' economic approval rating remains negative with 45% approving  53% disapproving,  modest gain from 43%-55%  April. But '  second time    that  economic approval  worse than  overall approval,  reversal from  first term when  president  always stronger   economy. "What seemed   keeping President Trump' overall approval level from really dropping down   strong economy   credit that   from  public," said Jay Campbell, partner  Hart Research,  survey' Democratic pollster. "He cannot rely  that  this point." Overall,  survey  1,000 people nationwide conducted July 29-Aug 3 showed  series  conflicting political  economic crosscurrents, with individuals  demographic groups offering sometimes contradictory opinions.
+
+Zoom In Icon Arrows pointing outwards
+
+"Trump' approval  stable,   individual ratings  down  issue after issue, except  tariffs," said Micah Roberts, partner with Public Opinion Strategies, which conducted  poll  served   Republican pollster. "Economic optimism  higher,  there' been  relief  this data from inflation." For example, just 39%  Independents approve   president' handling   economy,  that drops  24%  inflation. Even Republicans  9 points lower  inflation than their economic approval rating. The president  underwater  inflation  23 points, with 37% approving  60% disapproving, unchanged from  last survey. The conflicts could   result   public simply having trouble keeping  with  breakneck changes   economy, immigration, taxation   political system issuing from  Trump administration.
+
+Party-line split  Trump
+
+But Republicans remain solidly behind  president  Democrats solidly against. Half  Independents disapprove   president, with 36% approving. Roberts added that  survey  "capturing  country that'   shifting moment across   these issues." Views   economy  equally conflicting. On  current state   economy, attitudes have improved, with 31% saying ' excellent  good  68% calling  just fair  poor. Those   best numbers since  early years   Biden administration   nation emerged from  pandemic,   11-point improvement from  CNBC survey  April. The move  driven largely  growing optimism among Republicans, with some improvement among Independents. But  outlook   economy barely budged, with 36% saying  will  better, 17% saying  will stay  same,  46% expecting    worse.
+
+Zoom In Icon Arrows pointing outwards CNBC aaes
+
+Republicans became   less optimistic  Independents somewhat less pessimistic. Views   stock market also improved with 46% saying '  good time  invest  42% saying '   time. The sharp improvement  +4 percentage points from -15 percentage points  come with  surge  stocks that followed  president backing   from sweeping reciprocal tariffs   passage   legislation. Even 36%  those with  investments think '  good time invest,  highest  record   group that  typically negative  stocks.
+
+Views  other matters
+
+-----
