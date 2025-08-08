@@ -68959,3 +68959,492 @@ The Japan Meteorological Agency predicted heavy rainfall  thunderstorms through 
 JMA official Shuichi Tachihara,   nationally televised news conference, warned that there   growing risk  disaster, urging residents   region  take early precautions.
 
 -----
+
+==== 🕒 Run at 2025-08-08T05:35:37.374977 ====
+https://www.bbc.com/news/articles/cwye2q00k51o?at_medium=RSS&at_campaign=rss
+Courts service 'covered ' IT  that caused evidence   missing
+
+33 minutes  Share Save Alys Harte BBC File  4 Investigates Share Save
+
+Getty Images
+
+The body running courts  England  Wales  been accused   cover-, after  leaked report found  took several years  react   IT  that caused evidence   missing,  overwritten  appear lost. Sources within HM Courts & Tribunals Service (HMCTS)  that   result, judges  civil, family  tribunal courts will have made rulings  cases when evidence  incomplete. The internal report, leaked   BBC, said HMCTS   know  full extent   data corruption, including whether     impacted cases,     undertaken  comprehensive investigation. It also found judges  lawyers   been informed,  HMCTS management decided  would  "more likely  cause more harm than good". HMCTS says  internal investigation found  evidence that " case outcomes were affected   result  these technical issues". However,  former head   High Court' family division, Sir James Munby, told  BBC  situation  "shocking"  " scandal".
+
+PA Media Sir James Munby,  former head   High Court' family division, describes  situation  "shocking"
+
+The   found  case-management software used  HMCTS,  Ministry  Justice (MoJ) agency which administers many courts  England  Wales,  tribunals across  UK. The software - known variously  Judicial Case Manager, MyHMCTS  CCD -  used  manage evidence  track cases before  courts. It  used  judges, lawyers, case workers  members   public. Documents seen   BBC show  caused data   obscured from view, meaning medical records, contact details  other evidence were sometimes  visible  part  case files used  court. The Social Security  Child Support (SSCS) Tribunal - which handles benefit appeals -  thought  have been most affected. Sources have told  BBC that bugs have also impacted case management software used  other courts - including those dealing with family, divorce, employment, civil money claims  probate. "These hearings often decide  fate  people' lives," Sir James Munby told  BBC. "An error could mean  difference between  child being removed from  unsafe environment   vulnerable person missing   benefits."
+
+'Culture  cover-'
+
+The BBC  spoken  several separate sources within HMCTS  liken  situation   Horizon Post Office scandal, where executives tried  suppress evidence   system' flaws. One says there  "general horror"   design   software, introduced  HMCTS  2018, which they claim  " designed properly  robustly"    long history  data loss. Another says there   general reluctance from senior management  "acknowledge  face  reality"   situation, despite repeated warnings from  agency' IT staff. "There   culture  cover-,"  told  BBC. "They'  worried about risk   public, they' worried about people finding  about  risk   public. It' terrifying  witness." When asked,  MoJ told  several organisations  been involved   design  development   software    supply  list.
+
+'Totally insufficient'
+
+The BBC  seen documents from  MoJ (obtained through Freedom  Information requests), including emails where  severity   SSCS issue  discussed. A briefing prepared   chief executive  HMCTS - dated March 2024 - reveals  risk  proceedings  initially categorised  "high" with  possibility  court outcomes being adversely affected assessed  "very likely", resulting  "severe reputational impact  HMCTS". However,  initial manual investigation   team within HMCTS reviewed only  subset   most recent three months' worth  cases heard   SSCS Tribunal, even though    thought  have been   system  several years.
+
+Getty Images HMCTS   agency   Ministry  Justice
+
+Out  609 cases identified  having potential issues, only 109 (17%) were selected  further investigation. Among those, just   said  have  "potentially significant impact". The briefing suggested standard court procedure would mean that staff would spot  anomalies  manually correct them. Subsequently,   decided  risk   cases    " further checks" were needed. Sources within HMCTS argue that  snapshot  three months' worth  data  "totally insufficient", given  nature   problem. Their concerns  shared   leading IT security expert, Prof Alan Woodward   University  Surrey,   worked   UK government  consults  issues including forensic computing. "[HMCTS] conducted their investigation   limited   cases",  says. "To  that they found  impact  these faults doesn' make sense  ."
+
+Leaked report
+
+Documents show  employee  HMCTS   concerned, they raised  formal whistleblower complaint, which prompted  further internal investigation. This     senior IT professional from  Prison Service  resulted   detailed report, distributed internally  November 2024. This   report that  been leaked   BBC. It     "establish  facts"  data loss  data corruption issues affecting  Social Security  Child Support Tribunal. Investigators interviewed 15 witnesses, including software engineers  developers,  reviewed internal documents, such  incident logs  diary entries. It found "large scale" data breaches that should have been addressed " soon  they were known". However,  report said that HMCTS  taken several years  react despite multiple warnings from senior technical staff, from 2019 onwards. Investigators concluded that because HMCTS   undertaken  comprehensive investigation,  full extent  data corruption  still unknown, including  case outcomes  been affected. The report added that data loss incidents continue   raised against  IT system used   civil, family  tribunal courts. The concerns raised   leaked report echo those raised  those speaking   BBC. Sources inside HMCTS express concerns that missing evidence  have gone undetected. "This  quite  frightening possibility,"  told  BBC, "That information gets lost, - notices,  there   miscarriage  justice. I think that     biggest worry."
+
+'Missing documents'
+
+In  family courts,  different IT flaw caused thousands  documents   missing, sources . In  instance,   claimed  fault caused more than 4,000 documents   missing from hundreds  public family  cases - including child protection cases. The BBC understands this   discovered  2023   have been present  some years. We have been told   since been resolved  that  investigation  carried   establish potential impact  case outcomes. We asked  MoJ   emergency child protection cases  been affected. It   respond  this question. In  statement,  HMCTS spokesperson told  BBC that "parties  judges involved  these cases always  access   documents they needed". It vowed  "press ahead" with digitisation, because   "vital"  bring courts  tribunals into  modern .
+
+-----
+https://www.bbc.com/news/articles/cyvn3qe0jpgo?at_medium=RSS&at_campaign=rss
+Is Perrier  pure   claims? The bottled water scandal gripping France
+
+36 minutes  Share Save Hugh Schofield Paris correspondent Reporting from Vergèze Share Save
+
+Getty Images Major brands like Perrier  under  spotlight after  scandal broke  France
+
+France' multi-billion euro mineral water companies  under  spotlight because  climate change  growing concerns about  industry' environmental impact. At issue  whether some world-famous brands, notably  iconic Perrier label,  even continue calling themselves "natural mineral water". A decision   Perrier case     coming months. It follows revelations   French media about illicit filtration systems that have been widely used   industry, apparently because  worries about water contamination, after years  drought linked  climate change.
+
+"This really   Water-gate," says Stéphane Mandard,    investigations  Le Monde newspaper. "It'  combination  industrial fraud  state collusion." "And  there   real Sword  Damocles hanging over  head  Perrier." According  hydrologist Emma Haziza, " commercial model    producers  worked very well. But   absolutely  sustainable   time  global climate change". "When  have  brands that feel they have  choice   treat their water – that means they know there   problem with  quality."
+
+Getty Images EU  says natural mineral water should  unaltered between  underground source   bottle
+
+The story   headlines  year   France after  investigation  Le Monde  Radio France revealed that  least  third  mineral water sold  France  been illegally treated, either with ultra-violet light, carbon filters  ultra-fine micro-meshes commonly used  screen  bacteria. The issue     public health. The treated water   definition safe  drink. The problem  that under EU , "natural mineral water" – which sells   huge premium over  water –  supposed   unaltered between  underground source   bottle. That   whole point  . If brands like Evian, Vichy  Perrier have been  successful  France  around  world,   thanks   appealing image  mountain-sides, rushing streams, purity  health-giving minerals. Admit filtering  water,   industry risks breaking  market spell. Consumers might begin   what they' been paying . Complicating matters  Perrier   parent company Nestlé –  well  President Emmanuel Macron' government –   charge that executives  ministers conspired  keep  affair quiet, covered  reports  contamination,  -wrote  rules  that Perrier could continue using micro-filtration. In their investigations, Le Monde  Radio France alleged that  government considered  mineral water industry  strategic that  agreed  suppress damaging information. A senate inquiry into  affair accused  government   "deliberate strategy"  "dissimulation". Responding   allegations,  government  asked  European Commission  rule  what level  micro-filtration  permissible  "natural mineral water". Aurelien Rousseau,   head  Prime Minister Élisabeth Borne' cabinet   time, admitted there  been  "error  appreciation"  insisted there  never  risk  public health.
+
+Getty Images A senate report concluded that France' government covered   water scandal "  highest level"
+
+Earlier this year,   senate hearing into  industry, Nestlé' CEO Laurent Freixe admitted that Perrier  indeed used illicit methods  treat  water. But  also  another admission: that  official hydrologists' report into  company' historic site   Gard department  southern France  recommended against renewing "natural mineral water" status   company' output. It raises  possibility that   first time   160-year history, Perrier water  soon   labelled  what people assume   . According   hydrologist Emma Haziza, " link  climate change  global warming  absolutely established". And  Perrier  feeling  impact ahead  other companies,   probably because  geographical location sets  apart. Far from  remote mountain landscape  might imagine, Perrier' water  pumped from deep aquifers   coastal plain between Nîmes  Montpellier,  short drive from  Mediterranean. The area  populous, heavily-farmed,  very . "There  been   climatic shift since 2017," says Haziza. "For five years there   succession  droughts, which were particularly badly felt   south."
+
+Emma Haziza says climate change  causing    problems   south  France
+
+"All  aquifers were affected. This means  just  upper water-table, which  where everyday  water comes from. We    that  deeper aquifers – which  companies thought were protected –  also being . "The unforeseen  taking place. We  moving from  period  which companies could draw water from  deep aquifers   sure they would  replenished,   period  which ' obvious  whole system cannot  ." The analysis made  Haziza  other hydrologists  that there    clear link between deeper  surface aquifers. Contaminants (farm chemicals  human waste) that drain   land   increasingly frequent flash floods,   make their  into  lower aquifers. At  same time,  effects  long-term drought  over-pumping mean these lower aquifers contain less volume,   contamination will  more concentrated,  experts . "We  foresee that what  happened first  Perrier' site will happen  other producers   years  come. That'   need  move away from  current model  consumption," says Haziza.
+
+Perrier hydrologist Jérémie Pralong insists their water  "100%" pure
+
+Last year   Perrier site, three million bottles    destroyed because   contamination. But  company insists that  problems  swiftly detected;   disputes  claim that contaminants  entering  deep aquifers. "We  pumping water from 130 metres underground, beneath layers  limestone," says Perrier hydrologist Jérémie Pralong. "We  100% convinced   purity   water. And  mineral make-  constant." Perrier says there   EU ruling that specifically bans micro-filtration. The relevant text simply says that nothing must  done  disinfect  alter  mineral make-   water. The argument  over  what measure  micro-filtration alteration begins. The original Perrier source  first tapped   local doctor   1860s,    under British management that  brand took  50 years later. St John Harmsworth – brother  newspaper magnates Lords Northcliffe  Rothermere – made Perrier  byword  mineral water across  British empire. According  company lore, Harmsworth took inspiration   bottles' bulbous shape from  Indian clubs  used  exercise following  crippling  accident. Today  bottling plant  Vergèze  still next  Harmsworth' residence   original source. The plant  been heavily automated. A rail track connects with  SNCF network  bring hundreds  millions  cans  bottles every year  Marseille  export.
+
+Perrier' bottling plant  still next   water' original source  Vergèze
+
+-----
+https://www.bbc.com/sport/football/articles/cly6459l03jo?at_medium=RSS&at_campaign=rss
+Liverpool will  confident  defending their Premier League title after  record-breaking summer  recruitment.
+
+The Reds,  their first season under  boss Arne Slot,   Premier League with four games  spare - finishing 10 points clear  Arsenal.
+
+Slot' side have spent £269m   this summer - including  club-record (incorrectly hyphenated) £100m deal  Bayer Leverkusen midfielder Florian Wirtz - which could rise  £116m.
+
+Eintracht Frankfurt striker Hugo Ekitike (initial £69m), Bournemouth left-back Milos Kerkez (£40m)  Leverkusen right-back Jeremie Frimpong (£29.5m)  their other major incomings, while Valencia goalkeeper Giorgi Mamardashvili  joined   £25m move agreed last year.
+
+But many  their title rivals have spent  this summer .
+
+BBC Sport   look   last season'  five teams have recruited this summer   anybody  catch Liverpool.
+
+-----
+https://www.bbc.com/sport/football/articles/cg7j03mlzzeo?at_medium=RSS&at_campaign=rss
+"I always describe myself  three ways. I   content creator, I   disability advocate   blind footballer."
+
+At    , Toby Addison  diagnosed with early onset  cone dystrophy  retinitis pigmentosa, which meant  eyesight would slowly deteriorate.
+
+Doctors predicted  would  blind   late teens,      16  lost  sight. He   stop playing football  didn' kick  ball  eight years. Now  plays blind football  England   2024 made  senior debut  San Diego.
+
+"When I  16 I started using  cane  screen readers  adapted  life  live without vision,"  23-year- from Chichester said. "I  '   attention  , I ' have  useable vision. I   light  tell ' daytime,  I wouldn'  able   anyone standing  front  .
+
+"I  introduced  blind football when I  21  from then I never looked back. That    into  content   reignited  love  playing football."
+
+In January 2022, Toby went  watch  comedy show   clip   went viral. There were  number  comments doubting Toby' condition   decided  make  video    responding   comments.
+
+More than  thousand videos later, Toby  still creating content  teams  with  partner Natalie,  edits  videos  "    makes  tick behind  scenes".
+
+Toby   combined social media following  more than 420,000  backed himself   application process   Last Pundit Standing.
+
+"It' going  sound arrogant,  I believed I would  selected,"  said. "I stand    certain . I   blind   plays blind football. You '  that very often. I thought ' , I fancy '.
+
+"It felt amazing   selected from such  large pool  applicants. It' about believing  yourself  I ' think  would find many from that 400 that would back themselves more than ."
+
+-----
+https://www.npr.org/2025/08/08/nx-s1-5495694/israel-gaza-military-escalation
+Israel announces plan  take over Gaza City  another escalation   
+
+toggle caption Jehad Alshrafi/AP
+
+Israel' Security Cabinet approved  proposal early Friday   military  expand    Gaza  take control  Gaza City,    last areas   territory   under full military occupation.
+
+The Security Cabinet' meeting  well into  night  Israel, concluding with  outline   military  eventually control    territory.
+
+The announcement from  prime minister' office comes some 23 months into    which Israeli airstrikes  attacks have killed  least 61,000 Palestinians,  third  them children, according  Gaza' Health Ministry.
+
+Gaza City — long  beating heart  Gaza —  been largely destroyed from airstrikes  raids throughout  . Still, ' home  several   territory' last partially-functioning hospitals,  church where Gaza' minority Christians  sheltering  where tens  thousands  displaced people have   tent encampments.
+
+Sponsor Message
+
+Prime Minister Benjamin Netanyahu' office stopped short  describing  takeover  Gaza City   occupation, though  U.N. says already nearly 90%  Gaza  under military control  -limits  Palestinians  deemed   zone. Gaza City, parts  central Gaza   stretch  sand along     only areas   occupied  Israeli ground forces.
+
+Israeli troops already operate  eastern Gaza City under cover  near-constant airstrikes. It' unclear   military plans  push further into densely populated areas —  where people might  forced  flee amid what U.N.-backed experts  hunger    unfolding famine   territory.
+
+In announcing  decision, Netanyahu' office said that  would  distributed  civilians outside  combat zones, without elaborating.
+
+Families  Israeli hostages still held  militants  Gaza  demanding  ceasefire, fearing military operations could lead  their deaths.
+
+Einav Zangauker, whose  Matan  being held hostage, said this week Netanyahu  promised   would strike  deal      free  hostages.
+
+"But  exploited  pain,  pain   families  this wounded nation —  sabotaged  deal,"  said. "He lied   —  lied    !"
+
+Public opinion  Israel  divided over whether    ,  this week tens  thousands  Israelis protested  Tel Aviv   ceasefire. Additionally, hundreds  former generals  security officials  Israel signed  open letter  President Trump, urging   bring         suffering. They said Hamas  longer poses  strategic threat  Israel after  group' deadly attack  Oct. 7, 2023.
+
+Sponsor Message
+
+Netanyahu, however,  also resisted mounting global pressure      dramatically boost  into Gaza.
+
+When asked this week about possible Israeli plans  militarily occupy   Gaza, Trump said  decision  "pretty much   Israel."
+
+The Security Cabinet, comprised  Israel'  leaders, adopted five aims before Israel ends  :  disarmament  Hamas,  release   roughly 50 hostages — less than half  whom  believed   alive — demilitarizing Gaza, Israeli security control  Gaza  establishing  civil administration that  neither Hamas   Palestinian Authority.
+
+The Security Cabinet' statement   give  details  what Israeli security control  Gaza would need  look like  Israel    ,    civil administration would  formed, what  role would    would  .
+
+The prime minister' office said  alternative plan  military operations  Gaza than   Netanyahu  presented  been rejected   Security Cabinet, which includes  -right ministers ' openly called   permanent expulsion  Palestinians from Gaza   rebuilding  Jewish settlements there.
+
+-----
+https://www.nytimes.com/2025/08/07/us/politics/trump-federal-reserve-stephen-miran.html
+President Trump  nominated   economic adviser, Stephen Miran,  serve   governor   Federal Reserve,  institution  president  repeatedly attacked  failing  acquiesce   demands  lower borrowing costs.
+
+The opportunity  reshape   ranks   central bank arose when Adriana Kugler, whose term   governor    expire  Jan. 31, unexpectedly announced last week that   stepping down early.
+
+As  governor, Mr. Miran would have  ability  vote  interest rates  well   range  other policy decisions. Those decisions have become more fraught  recent months,  officials have split over  right time  restart interest rate cuts.
+
+Mr. Trump made  clear  Thursday that Mr. Miran,   criticized  Fed   chair, Jerome H. Powell,   past, would serve   position temporarily  confirmed   Senate, although   possible that  could stay . The White House  planning    separate process  nominate someone  fill  seat starting  February.
+
+-----
+https://www.nytimes.com/2025/08/08/opinion/democrats-gaza-klobuchar-booker.html
+Amy Klobuchar,  senior senator from Minnesota, appeared last month   photograph with Benjamin Netanyahu. Wearing  tight-lipped smile alongside  bipartisan group  senators,  hardly seemed thrilled   there. But there  , posing with     wanted   crimes   International Criminal Court   been credibly accused  committing genocide  Gaza.
+
+The picture, snapped  alarm  growing over looming famine  Gaza  Israel pursued  pitiless military assault   enclave, struck    maddening   illustration   yawning gulf between  steadfast -Israel stance  leading Democratic politicians  their voters. It , sadly,    grisly course.
+
+Then last week Klobuchar  something that genuinely surprised : She voted  favor   pair  resolutions  forward  Senator Bernie Sanders  Vermont,  leading critic  Israel’ prosecution   , that would block  transfer   offensive weapons  Israel, including 1,000-pound bombs  automatic assault rifles.
+
+She  joined     votes  24 other Democrats   independents,  majority   Democratic caucus. Many were seeking  block weapons  Israel   first time. And  just  Democrats. The ranking members  crucial committees — Foreign Relations, Appropriations  Armed Services — voted  block  transfers  well. A number  notable moderates joined  vote, including    most vulnerable   2026 midterms, Georgia’ Jon Ossoff.
+
+-----
+https://abcnews.go.com/US/wireStory/california-rushes-plan-unscheduled-election-us-house-seats-124471806
+California Democrats  rushing  schedule  election  remake U.S. House districts  counter plans  boost Republican seats  Texas
+
+California rushes  plan  still unscheduled election  US House seats standoff with Texas
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+LOS ANGELES -- California Democrats' rush  schedule  emergency election  remake U.S. House districts  counter rival moves  Texas Republicans  created  dilemma  county officials   being urged  plan   election that hasn' been scheduled  might never happen.
+
+Orchestrating  election   state  nearly 23 million registered voters across 58 counties   time-consuming  costly endeavor under  circumstances,  Democratic Gov. Gavin Newsom   Democratic-dominated Legislature already have blown past deadlines intended  give local officials adequate time  organizing everything from printing mail ballots  multiple languages  lining  staff  securing locations  -person voting.
+
+Democrats  considering  political maps that could slash five Republican-held House seats   liberal-leaning state while bolstering Democratic incumbents  other battleground districts. If Democrats succeed, that could leave Republicans with four House seats   state among 52 overall.
+
+Those revised maps could  formally unveiled  soon  next week,  advance   Nov. 4 election.
+
+The office   state’ chief elections overseer, Secretary  State Shirley Weber,  Monday with local election officials  discuss planning   pending election. Though  election   been called, “staff around  state need  begin preparing   possibility   special election,” Weber spokesperson Jim Patrick said   email.
+
+Meanwhile, '  known   state will cover  cost   potential November election   counties — many cash-strapped — will  saddled with  bill. A 2021 special election  which Newsom beat back  recall attempt cost over $200 million  conduct.
+
+“We  going   under some tight time pressures,” said Orange County Registrar  Voters Bob Page, whose office  rapidly planning   proposed election.
+
+“We really ' lose   most  August  waiting”   Legislature   governor  , Page added. “It’  risk I have  take.”
+
+Los Angeles County Clerk Dean Logan,  oversees elections   county  nearly 10 million people, warned that “without upfront state funding   clearly defined calendar, counties  face challenges meeting  demands   election.”
+
+"Ensuring voters  served accurately, securely,  equitably must remain   priority,  that takes preparation,” Logan added   statement.
+
+Texas  California —   most populous U.S. states —   leading actors   back--forth push  remake  balance  power   U.S. House, kicked  when President Donald Trump called  Texas  redraw district lines with  GOP' fragile House majority imperiled   upcoming 2026 midterm elections.
+
+The party that controls  White House  typically punished  voters  midterm elections.
+
+“We  entitled  five more seats”  Texas, Trump insisted Tuesday   CNBC interview. He pointed  California’ existing maps, which  drawn   independent commission unlike  Texas maps crafted   partisan legislature: “They    .”
+
+Other states — including New York, Florida  Indiana — could  into  power struggle that’ emerging   national proxy   control  Congress.
+
+Newsom  said  would only move forward with  election  Texas succeeds  recasting   House maps. The Texas push   hold, after Democrats fled  state  prevent  legislative vote   Republican redistricting plan.
+
+In  online post, Page wrote that state rules require  governor  issue  proclamation calling  statewide election  least 148 days before  date   election — that would have been June 9. As part   action,  Legislature would have  waive that requirement this year.
+
+He warned   possible enforcement action   U.S. Justice Department  ballots  members   U.S. Military  overseas voters   issued  Sept. 20.
+
+Page said   waited   Legislature   governor  formally call  election, “ would   late    actually conduct  election.”
+
+If  goes through, “We  going  make this work,” Page added.
+
+-----
+https://abcnews.go.com/International/wireStory/husband-suspected-wife-poisoning-killed-3-relatives-toxic-124472809
+An Australian court  heard  husband suspected  wife  poisoning  over  year before  murdered three   relatives with toxic mushrooms
+
+Husband suspected wife  poisoning  before  killed 3 relatives with toxic mushrooms
+
+MELBOURNE, Australia -- The husband   woman convicted  killing three people with  meal laced with deadly mushrooms suspected  wife  been poisoning  more than  year before  fatal meal,  Australian court  heard.
+
+A judge  Friday lifted   order  pretrial evidence that triple murderer Erin Patterson, 50,  wanted kept secret while  attempts  overturn  convictions.
+
+The evidence included  suspicions  Patterson’ estranged husband Simon Patterson that   previously attempted  kill .
+
+Simon Patterson testified   -trial hearing that   declined  lunch invitation   fear.
+
+“I thought there’   risk that ’ poison   I attended,”  husband told  court months before  trial  testimony that   presented  jurors.
+
+Simon said while   stopped eating food prepared   wife, from whom   been estranged since 2015,  never thought others would   risk.
+
+Erin Patterson  convicted   Victoria state Supreme Court last month  murdering  parents-- Don  Gail Patterson,  Gail’ sister Heather Wilkinson   home  Leongatha with  lunch  beef Wellington pastries contained toxic death  mushrooms.
+
+She  also found guilty  attempting  murder Ian Wilkinson, Heather’ husband,  survived  meal  spent weeks  hospital.
+
+Erin Patterson  initially charged with attempting  murder  husband  inviting    lunch  July 2023. He  accepted  invitation then cancelled.
+
+She  also initially charged three counts  attempting  murder   three occasions around Victoria between November 2021  September 2022.
+
+Prosecutors dropped  charges relating   husband before  trial began  April.
+
+Simon Patterson testified before  trial that  suspected  wife  deliberately made  seriously  with dishes including penne bolognese pasta, chicken korma curry   vegetable curry wrap. No poisons were ever found.
+
+The three alleged poisonings occurred during family camping trips. Simon shared  poisoning suspicions with  doctor,  encouraged   create  spreadsheet listing what   eaten around  time  became sick.
+
+Justice Christopher Beale ruled  lawyers representing media  sought  overturn   order, ordering that  evidence that jurors   seen would  made public.
+
+Erin Patterson’ lawyers wanted   evidence that   deemed admissible   trial kept secret until  appeals court decided whether  overturn  convictions.
+
+Their reasons included that media interest   case  unprecedented. Defense lawyer Colin Mandy argued that reporting   suppressed evidence  well  references    books, podcasts   planned television mini-series would “leave  indelible impression   minds  potential jurors   event that there   retrial.”
+
+A hearing will begin  Aug. 25  determine what sentence  will . She faces  potential life sentence  each   murders  25 years  attempted murder.
+
+Prosecutor Jane Warren told Beale  Friday “ ”  victim impact statements would  presented  that - sentencing hearing.
+
+Once Erin Patterson  sentenced,  will have 28 days  lodge  appeal against  sentence,  convictions,  both.
+
+Her lawyers  they will appeal against  convictions.
+
+-----
+https://abcnews.go.com/International/wireStory/japanese-warships-visit-new-zealands-capital-time-90-124471629
+Japanese warships  Friday docked  New Zealand’ capital   first time  almost 90 years
+
+Japanese warships visit New Zealand' capital   first time  almost 90 years
+
+Two ships from  Japan Maritime Self-Defense Force, JS Ise  destroyer JS Suzunami sail into Wellington, New Zealand  begin  three- ceremonial port visit, Friday, Aug. 8, 2025. (Monique Ford/Stuff  AP)
+
+Two ships from  Japan Maritime Self-Defense Force, JS Ise  destroyer JS Suzunami sail into Wellington, New Zealand  begin  three- ceremonial port visit, Friday, Aug. 8, 2025. (Monique Ford/Stuff  AP)
+
+Two ships from  Japan Maritime Self-Defense Force, JS Ise  destroyer JS Suzunami sail into Wellington, New Zealand  begin  three- ceremonial port visit, Friday, Aug. 8, 2025. (Monique Ford/Stuff  AP)
+
+Two ships from  Japan Maritime Self-Defense Force, JS Ise  destroyer JS Suzunami sail into Wellington, New Zealand  begin  three- ceremonial port visit, Friday, Aug. 8, 2025. (Monique Ford/Stuff  AP)
+
+WELLINGTON, New Zealand -- Japanese warships docked  New Zealand ’ capital Friday   first time  almost 90 years amid efforts  Tokyo  deepen  strategic ties   South Pacific Ocean.
+
+Two destroyers with more than 500 crew  board sailed into Wellington harbor accompanied   New Zealand navy ship HMNZS Canterbury. The JS Ise  destroyer JS Suzunami were   Indo-Pacific deployment  arrived from Sydney, where Japan’ military took part this month   games involving New Zealand, Australia  other countries.
+
+The Wellington visit   ceremonial ,   came  Japan, whose only treaty ally   United States,  increasingly sought  deepen bilateral military cooperation amid ongoing regional tensions.
+
+“Our defense force  developing cooperative work,  only with New Zealand  Australia  also many Pacific Island countries,” Japan’ envoy  Wellington, Makoto Osawa, told reporters Friday. “Our main goal   free  open Indo-Pacific.”
+
+The ambassador’ remarks followed  announcement Tuesday  Australia’ government that Japanese firm Mitsubishi Heavy Industries       contract  build Australian warships, beating   German firm. While officials  Canberra said  Japanese proposal   best  cheapest, they also hailed    biggest defense industry agreement between  countries.
+
+New Zealand   sought  shore   strategic  military relations  Asia  part   foreign policy reset  recent years that  government says  turned more attention  Pacific cooperation  security. Officials  Wellington announced  July that work  started   defense logistics agreement with Japan, intended  make  easier   countries’ militaries  work together.
+
+Japanese naval vessels   often make visits   south   Pacific Ocean,   rich  strategically important waters  New Zealand, Australia  smaller Pacific Island countries  increasingly contested   world’ major powers, making   site   fierce battle  influence between Beijing  Western nations.
+
+Although remote, New Zealand  recently been drawn into more fraught questions  regional security. In February, live firing exercises  Chinese naval frigates   Tasman Sea between New Zealand  Australia drew alarm from those countries’ governments after flights were forced  divert  short notice.
+
+The last port visit  Wellington   Japanese naval vessel   1936, New Zealand’ military said. A Japanese ship visited New Zealand’ largest city, Auckland,  2016.
+
+-----
+https://abcnews.go.com/International/wireStory/bugs-popular-pets-nature-loving-japan-buzzing-lessons-124471808
+
+You are a Current Events UIL question writer. Using only the information below (do not add outside details), generate as many multiple-choice current events questions as possible at an advanced (“very very very hard”) difficulty level.
+Requirements:
+- Each question must have a concise, high-level stem that tests deep understanding, synthesis, or nuance from the information.
+- Provide exactly four answer choices labeled A–D, with one clearly correct answer and three highly plausible distractors.
+- Distractors must be subtle, drawing on related details or common misconceptions found in the text.
+- Do not introduce any facts or context not present in the source material.
+- For each article or segment separated by a “––––––––––––––––––––––––”, generate at least one and up to three questions based solely on that segment.
+- At the end, include an Answer Key listing each question’s number, correct answer letter, and:
+    - A brief explanation citing the specific text evidence supporting the answer.
+    - The associated URL that corresponds to the source of the question (use the one placed above each dashed info section).
+
+Formatting:
+- Do not include citations, summaries, or explanations under each question.
+- Place all explanations and source URLs in the Answer Key only.
+- Do not include any additional commentary beyond the questions and the formatted Answer Key.
+Info: 
+
+
+The   choice  Japan,  much  cuddly kitties  playful puppies,   humble 
+
+Toyoji Suzuki holds  beetle, known  Hercules,   exhibition devoted  insects  Tokyo, Thursday, July 31, 2025. (AP Photo/Yuri Kageyama)
+
+Toyoji Suzuki holds  beetle, known  Hercules,   exhibition devoted  insects  Tokyo, Thursday, July 31, 2025. (AP Photo/Yuri Kageyama)
+
+Toyoji Suzuki holds  beetle, known  Hercules,   exhibition devoted  insects  Tokyo, Thursday, July 31, 2025. (AP Photo/Yuri Kageyama)
+
+Toyoji Suzuki holds  beetle, known  Hercules,   exhibition devoted  insects  Tokyo, Thursday, July 31, 2025. (AP Photo/Yuri Kageyama)
+
+TOKYO -- The   choice  Japan,  much  cuddly kitties  playful puppies,   humble .
+
+The   been   part  Japanese culture from  Heian  classic “The Tale  Genji”  popular modern- manga  animation like “Mushishi,” featuring insect-like supernatural creatures.
+
+Japanese people appreciate  glitter  fireflies  loose   garden   gentle chirping  crickets kept   little cage. You  feed   pets watermelon,  special jelly  food  bugs  also available  stores. Naturally, bugs   sale  well, with  more esoteric ones selling  20,000  ($133).
+
+Here, crawly  buzzing critters   just relegated   scientific realm   entomologist working   taxidermy  pinned butterflies. Celebrities boast about their fascination with -hunting  their hobbies just like  Western movie star might talk about  yacht  golf score.
+
+The   companion   essential part  what’ observed, enjoyed  cared   everyday life, reflecting  deeply rooted celebration  humankind’ oneness with nature.
+
+“They   tiny. If  catch  study them, ’ sure  discover something ,” says Munetoshi Maruyama, professor  bioenvironmental sciences  Kyushu University, whose fascination with bugs began   child, like many Japanese.
+
+“They   beautiful  shape  form.”
+
+One thrill that comes from studying insects  discovering   species, simply because there  more than 1.2 million known kinds  insects,  more than mammals, which translates     undiscovered ones, said Maruyama,   discovered 250  insect species himself  shrugs that    relatively small number.
+
+Japan differs from much   West  encouraging interaction with bugs from childhood, with lots  books written  children,  well  classes  tours.
+
+“In Japan, kids love bugs. You  even      convenience store,”  said. “It’ fantastic that bugs  serve   doorway  science.”
+
+The fact some insects  through metamorphoses, transforming from  larva   butterfly,  instance, adds   excitement, allowing kids  observe  stages   life span, Maruyama said.
+
+Tracing  movement  bugs      study global warming, , while -called “social insects,” like bees  ants show intelligence   they communicate, remember routes  find their  back  their nests  burrow elaborate underground paths  colonies.
+
+Because bugs carry  important functions   ecosystem, such  pollinating crops  becoming food  birds  other wildlife, human life ’ ultimately sustainable   bugs were  disappear from earth.
+
+The love affair with bugs  clear   exhibit  Tokyo, aptly called “The Great Insect Exhibition,” running through    this month   Sky Tree Tower, where crowds  children gathered around trees inside indoor cages  they could observe  touch  various beetles.
+
+One kind  rhinoceros beetle known  Hercules, which originated   Caribbean    also found  Japan,  reputed    biggest beetle  record, although ’ just several inches  length. Its back coat   shiny khaki color, though such shades change depending   season. The other parts, like  horn  delicate  spiky legs,  dark.
+
+“We want  kids  feel  emotions    actually touching  insects here. That’ really positive   workings   child’ brain,” said Toyoji Suzuki,    event’ organizers,  insisted everyone, including adults, touch  bottom   beetles’ horns  wings  feel  surprisingly soft  fluffy they .
+
+Four-year- Asahi Yamauchi,     exhibit with  grandmother  getting  photo taken inside  special installation that made  look like   inside  beetle, loves bugs  much   loves dinosaurs   what  called  cute beetle     home.
+
+“My friend    I wanted ,”  said.
+
+___
+
+Yuri Kageyama   Threads: @yurikageyama
+
+-----
+https://abcnews.go.com/International/wireStory/capturing-romance-sunset-photo-shoots-istanbuls-golden-horn-124472816
+Capturing romance  sunset photo shoots  Istanbul’ Golden Horn
+
+ISTANBUL, Turkey -- Under Istanbul’  Galata Bridge, there’  nondescript concrete landing that juts  into  waters   Golden Horn.
+
+By , ’ easy  overlook. But  evening nears,  transforms into    city’ most sought-after stages  romance.
+
+Starting  spring  continuing through summer, soon--   newlywed couples flock  this unassuming spot  Eminonu district  immortalize their nuptials  radiant,  often highly choreographed, sunset photo shoots.
+
+The spot   popular,  dozen brides  grooms  often  seen posing side  side, each basking   sliver   sunset glow. At peak hours,  traffic   couples forms   stairs leading   waterside overlook, waiting  their turn.
+
+“There’  place  Istanbul  haven’ visited,  both love ,” said 22-year- Elif Yuksel, standing next   fiance, Semih Aydin. “That’   wanted   photographed somewhere  could  every corner  Istanbul.”
+
+The setting  casts  light just right during what’ known  “golden hour,”  coveted time  photographers  videographers  frame their shots against  backdrop   medieval Galata Tower   Ottoman imperial mosque, Suleymaniye,  city’ second largest.
+
+It’  fitting setting  newlyweds like Hasret Yilmaz Ucucu   husband, Halil Ibrahim Ucucu,   tied  knot shortly before their shoot.
+
+“I went   hairdresser   ready there. Then  husband came  picked     went   wedding ceremony. Afterward ( photographer) brought  here with great excitement,” said  24-year- bride.
+
+For many couples,  snapshots  more than keepsakes — they symbolize moments  time when love, tradition   centuries- city’ enduring splendor intertwine.
+
+“I’ been  London, I’ been  Barcelona. There’  place like Istanbul,” said Semih Aydin,   taking engagement pictures with  soon-- wife. "Let’ take beautiful photos, ’ make beautiful memories  show  children   future.’”
+
+-----
+https://abcnews.go.com/Politics/wireStory/california-rushes-plan-unscheduled-election-us-house-seats-124471807
+California Democrats  rushing  schedule  election  remake U.S. House districts  counter plans  boost Republican seats  Texas
+
+California rushes  plan  still unscheduled election  US House seats standoff with Texas
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+California Gov. Gavin Newsom calls      California  redraw ' voting districts during  news conference In Sacramento, Calif., Friday July 25, 2025. (AP Photo/Rich Pedroncelli)
+
+LOS ANGELES -- California Democrats' rush  schedule  emergency election  remake U.S. House districts  counter rival moves  Texas Republicans  created  dilemma  county officials   being urged  plan   election that hasn' been scheduled  might never happen.
+
+Orchestrating  election   state  nearly 23 million registered voters across 58 counties   time-consuming  costly endeavor under  circumstances,  Democratic Gov. Gavin Newsom   Democratic-dominated Legislature already have blown past deadlines intended  give local officials adequate time  organizing everything from printing mail ballots  multiple languages  lining  staff  securing locations  -person voting.
+
+Democrats  considering  political maps that could slash five Republican-held House seats   liberal-leaning state while bolstering Democratic incumbents  other battleground districts. If Democrats succeed, that could leave Republicans with four House seats   state among 52 overall.
+
+Those revised maps could  formally unveiled  soon  next week,  advance   Nov. 4 election.
+
+The office   state’ chief elections overseer, Secretary  State Shirley Weber,  Monday with local election officials  discuss planning   pending election. Though  election   been called, “staff around  state need  begin preparing   possibility   special election,” Weber spokesperson Jim Patrick said   email.
+
+Meanwhile, '  known   state will cover  cost   potential November election   counties — many cash-strapped — will  saddled with  bill. A 2021 special election  which Newsom beat back  recall attempt cost over $200 million  conduct.
+
+“We  going   under some tight time pressures,” said Orange County Registrar  Voters Bob Page, whose office  rapidly planning   proposed election.
+
+“We really ' lose   most  August  waiting”   Legislature   governor  , Page added. “It’  risk I have  take.”
+
+Los Angeles County Clerk Dean Logan,  oversees elections   county  nearly 10 million people, warned that “without upfront state funding   clearly defined calendar, counties  face challenges meeting  demands   election.”
+
+"Ensuring voters  served accurately, securely,  equitably must remain   priority,  that takes preparation,” Logan added   statement.
+
+Texas  California —   most populous U.S. states —   leading actors   back--forth push  remake  balance  power   U.S. House, kicked  when President Donald Trump called  Texas  redraw district lines with  GOP' fragile House majority imperiled   upcoming 2026 midterm elections.
+
+The party that controls  White House  typically punished  voters  midterm elections.
+
+“We  entitled  five more seats”  Texas, Trump insisted Tuesday   CNBC interview. He pointed  California’ existing maps, which  drawn   independent commission unlike  Texas maps crafted   partisan legislature: “They    .”
+
+Other states — including New York, Florida  Indiana — could  into  power struggle that’ emerging   national proxy   control  Congress.
+
+Newsom  said  would only move forward with  election  Texas succeeds  recasting   House maps. The Texas push   hold, after Democrats fled  state  prevent  legislative vote   Republican redistricting plan.
+
+In  online post, Page wrote that state rules require  governor  issue  proclamation calling  statewide election  least 148 days before  date   election — that would have been June 9. As part   action,  Legislature would have  waive that requirement this year.
+
+He warned   possible enforcement action   U.S. Justice Department  ballots  members   U.S. Military  overseas voters   issued  Sept. 20.
+
+Page said   waited   Legislature   governor  formally call  election, “ would   late    actually conduct  election.”
+
+If  goes through, “We  going  make this work,” Page added.
+
+-----
+https://www.cnbc.com/2025/08/08/climate-insurers-are-worried-the-world-could-soon-become-uninsurable-.html
+A firefighting helicopter flies near   home burns from  Mountain Fire  November 6, 2024  Camarillo, California. David Mcnew | Getty Images News | Getty Images
+
+Top insurers fear  climate crisis could soon outpace industry solutions, effectively threatening  make entire regions around  world uninsurable. Günther Thallinger,  board member  Allianz ,    world' biggest insurers, recently outlined   world  fast approaching temperature levels where insurers will  longer  able  offer cover  financial services, such  mortgages  investments. In  LinkedIn post published  late March, Thallinger made  case  rapid decarbonization, pointing  that entire asset classes were "degrading  real time"  extreme weather events take their toll. Perhaps most strikingly  ,  warned  worsening climate crisis appears    track  destroy capitalism. Insurance, which  regarded   invisible lubricant   global economy,   unique role  play  addressing climate-related risks. As professional risk managers, insurers routinely allow investors  take  calculated risks, protecting individuals  businesses against financial losses. Thallinger,   responsible  investment management  sustainability  Allianz, told CNBC that approximately -thirds  economic losses from natural catastrophes  currently uninsured, indicating  "major societal problem."
+
+We  clearly   pathway   2.7 degrees  3 degrees where adaptation  simply  doable anymore. This  just what  . Günther Thallinger Board member  Allianz
+
+The -called protection  means that  financial burden  these disasters often falls  individuals, businesses  governments, rather than insurance firms. "If this volume just grows even more,  simply have  societal situation that   bearable anymore because   just  much risk that   longer covered," Thallinger told CNBC  video call. "The logic   ours  mine. No, absolutely . There  many people   actually talking about   cannot insure certain assets. It' very, very difficult  deal with these assets   investor."
+
+The warning comes   time when  world   course   temperature increase   much  2.6-3.1 degrees Celsius this century, according   United Nations,  level that would trigger "catastrophic" consequences   planet. Scientists have repeatedly warned that global average temperatures must  kept below 1.5 degrees Celsius  avoid  worst  what  climate crisis   store. This threshold  recognized   crucial long-term target because -called tipping points become more likely beyond this level. Tipping points  lead  dramatic shifts  potentially irreversible changes  some  Earth' largest systems.
+
+Workers clean   after flood waters subsided  Liuzhou,  China' southwest Guangxi region  June 25, 2025. - | Afp | Getty Images
+
+"We  really talk about adaptation. How  build  infrastructure,  houses,  streets,  pipelines,  grids  such   that they  withstand certain forms  weather phenomena. This  something that    with  very, very easy economic case behind ," Thallinger said. Allianz estimates that  cost  economic losses from natural catastrophes  typically around 10 times higher than  cost  adaptation, noting that this provides  clear economic incentive  policymakers  invest  preventative measures. "If  continue, however, with  policies that  have  there,   clearly   pathway   2.7 degrees  3 degrees where adaptation  simply  doable anymore. This  just what  . We cannot protect Amsterdam from  level rise  three meters. This  just  doable," Thallinger said. It'  just Allianz' Thallinger fearing  worst. Zurich Insurance Group , Europe' fifth-largest insurer, said  April alongside  research paper assessing climate resilience that  outlook looks "alarmingly bleak." The Swiss insurer cited  Los Angeles wildfires   start   year   stark reminder that even  world' wealthiest economies  unprepared   impact  increasing climate risks. Zurich also found that global insured losses have grown   much faster rate than  global economy over  past three decades.
+
+On  inflation-adjusted basis, Zurich said that average insured losses rose  5.9%  year between 1994  2023, while global gross domestic product (GDP) increased  2.7% annually over  same period. The findings suggest that insured losses have more than doubled relative  global growth over  past 30 years. "If insured losses continue  grow  this rate, premiums  climate risk coverage will need  increase  reflect  additional risk," Zurich Insurance Group said   paper. "This  turn, will affect  level  protection that individuals  businesses  willing  able  purchase, with potential consequences   overall functioning   market."
+
+CAT bonds
+
+For insurers  reinsurers,  increase  severity  frequency  extreme weather events  coincided with astronomical growth   catastrophe bond market. First created   1990s, -called CAT bonds refer   type  financial instrument designed  raise money  insurers   event   natural disaster, such   hurricane  earthquake. Swiss Re,  leading global reinsurer, said   recent report that  CAT bond market  expanded   whopping 75% since    2020, noting that  trend that shows little sign  slowing down. For Allianz' Thallinger, however,  climate crisis threatens  push  long-standing relationship between more risk  more business  insurers  breaking point. At some stage, this could have implications  financial markets,  said.
+
+This photograph shows  small village  Blatten,   Bietschhorn mountain   Swiss Alps, destroyed   landslide after part   huge Birch Glacier collapsed  swallowed    river Lonza   before,  Blatten  May 29, 2025. Alexandre Agrusti | Afp | Getty Images
+
+Steve Evans, owner  editor--chief  specialist data provider Artemis., warned  insurance industry ' just keep bearing  brunt  economic losses from natural disasters. "Unless resilience  increased  protection    place, then  more disasters impact regions   more expensive their insurance  going  . And that could   terrible spiral   honest with ," Evans told CNBC  video call. "If  losses keep escalating,  just becomes uneconomic  insurers  reinsurers  even  capital markets. So, something    done  really bring together both resilience  protection."
+
+Loss prevention
+
+-----
+https://www.cnbc.com/2025/08/08/the-uk-government-wont-admit-it-but-tax-rises-are-coming.html
+People walk near  Elizabeth Tower, commonly referred   Big Ben, near  Houses  Parliament  Westminster, central London  April 18, 2017.
+
+The U.K. government  loathe  admit ,  economists  ' highly likely that  Treasury will have  hike taxes   fall     bung  black hole   public finances that   effectively created  itself.
+
+The National Institute  Economic  Social Research (NIESR)   latest economic think tank  warn that taxes would have  rise later this year  British Chancellor Rachel Reeves   meet  self-imposed "fiscal rules."
+
+These rules target both  balanced  budget surplus      decade — with  -called "stability rule" requiring that -- spending  funded   revenues rather than borrowing —  that debt,   proportion  GDP, should  falling     this parliament ( 2029-30),   "investment rule."
+
+"The Government    track  meet  'stability rule', with  forecast suggesting  current deficit  £41.2 billion   fiscal year 2029-30," NIESR said   economic outlook released Wednesday.
+
+"Substantial adjustments   Autumn Budget will  needed   Chancellor   remain compliant with  fiscal rules,"  added   report.
+
+With  government having fixed  spending plans   next couple  years   recent Spending Review, " only lever available   raise taxation   moderate  sustained ,"  think tank said   report titled " Chancellor' Trilemma."
+
+The 'trilemma' refers   bind Reeves finds herself  thanks    fiscal rules,   spending commitments made over  last year   Labour Party' manifesto promise   raise taxes  "working people."
+
+"Simply ,  Chancellor cannot simultaneously meet  fiscal rules, fulfil spending commitments,  uphold manifesto promises  avoid  rises  working people. At least   these will need   dropped –  faces  impossible trilemma," NIESR said.
+
+-----
