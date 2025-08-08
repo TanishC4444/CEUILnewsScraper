@@ -70298,3 +70298,37 @@ Talks  Malaysia  Thursday reaffirmed both sides’ commitment   ceasefire deal  
 The United States  China, which both played  active role  encouraging     fighting, separately hailed Thursday’ reaffirmation   ceasefire,  said they look forward  supporting  parties involved  securing  peace process.
 
 -----
+
+==== 🕒 Run at 2025-08-08T09:02:37.592885 ====
+https://www.bbc.com/news/articles/c5ylxv7wd33o?at_medium=RSS&at_campaign=rss
+Boy, 4, dies after being    outside hospital
+
+A four-year-   died after       outside QEQM hospital  Margate
+
+A four-year-   died after       outside  hospital  Kent.
+
+Police were called following  report   crash outside  Queen Elizabeth Queen Mother Hospital  Margate  about 16:00 BST  Thursday.
+
+The   taken inside  hospital  confirmed dead  short while later. His next    been informed.
+
+Kent Police said   reportedly left  hospital  foot before  crash happened.
+
+-----
+https://www.cnbc.com/2025/08/08/south-korea-to-launch-national-ai-model-in-race-with-us-and-china.html
+In this article .FKRX300 Follow your favorite stocks CREATE FREE ACCOUNT
+
+Ryu Young-sang, CEO  South Korean telecoms giant SK Telecom, told CNBC that AI  helping telecoms firms improve efficiency  their networks. Manaure Quintero | Afp | Getty Images
+
+South Korea  tasked some   biggest companies  promising startups  build  national foundational AI model using mainly domestic technology,   rare move  keep  country apace with  U.S.  China. The project will feature South Korean technologies from semiconductors  software,  Seoul looks  create  near self-sufficient AI industry  position itself   alternative  China   U.S. The Ministry  Science  ICT (MSIT)  Korea announced that five consortia have been selected  develop  models. One    SK Telecom,  telecommunications giant  Korea  includes gaming firm Krafton  chip startup Rebellions among other companies. There  other teams   some   country' other prominent firms including LG  Naver. "We  going through  important juncture  terms   technological development. So Korea,   national level,  focusing  ensuring that    technical foundation  have  competitiveness," Kim Taeyoon, head   foundation model office  SK Telecom  also leads  company' consortium, told CNBC. "Korea  many entities that would excel  creating   AI industry. And  could clearly   possibility that   very capable  creating  good AI stack," Kim added. A "stack" refers  various technologies that make   product  other technology.
+
+South Korea' forte
+
+The initiative aims  draw   strategic position  some  South Korea' firms   technology they develop that  crucial  AI. For example, SK Hynix makes high-bandwidth memory (HBM) which  critical  Nvidia' products. Samsung  also another major memory player. SK Telecom  been expanding  business into data centers. While Rebellions, which  part  SKT' consortium,  developing chips designed  handle AI workloads. Samsung, meanwhile,    chip manufacturing business, also known  foundry. "This means  country possesses  entire AI stack, from chips  cloud  AI models,  also benefits from  robust community  advanced AI researchers   actively publishing papers  securing patents," Nick Patience, practice lead  AI  The Futurum Group, told CNBC. Given  intricacies  technology supply chains,   country    alone. The consortia will still rely  graphics processing units (GPUs) from American firm Nvidia which have become  gold standard  training AI models. Meanwhile, SK Telecom will train  models  develops    Titan supercomputer, which  made   Nvidia GPUs,  well   AI data center  company  developing with Amazon .
+
+AI model roadmap
+
+SK Telecom      AI model game. The company launched  beta version   first chatbot based    large language model  2022 called "A." which  pronounced "A ." Since then,   developed more advanced versions   model  chatbot. SK Telecom' consortium plans  release  first model      year, Kim said. It will  initially focused   market  South Korea,  could  used globally. The model will  open-source, meaning  will free  developers    build , potentially with some licensing requirements. Any AI models coming   South Korea' project will face intense competition from players including OpenAI  Anthropic  well  many   strong open-source offerings   Chinese firms like Alibaba  DeepSeek. Creating  AI model '   problem, given SK Telecom  other companies' already-proven track record  doing . The bigger challenge will  putting forward models that  compete with those coming   frontier AI labs, which  pouring billions  dollars into research  development. Another issue will  getting traction among developers  build upon these models. That  what  made  success  other open-source models, like those from Alibaba. SK Telecom' Kim said  goal   create models that  rival these other companies. "Our first goal   create  very strong state--- open source model   already have  example  those open source models which     terms  performance with those large tech (players) like OpenAI  Anthropic," Kim told CNBC. He added that there will  models  different sizes that   used  different industries. An open-source national AI model could also provide benefits  giving businesses across  country access   latest technology without having  rely   tech giant from abroad. Meanwhile, South Korean AI models could  positioned   alternative  U.S.  Chinese-developed systems. "Beyond domestic benefits,  proven sovereign AI model presents significant export potential. Just  Korea excelled  memory chips, this could become  valuable product  other nations seeking alternatives  U.S.  Chinese systems, strengthening Korea' position   global AI landscape," Patience said.
+
+AI sovereignty
+
+-----
