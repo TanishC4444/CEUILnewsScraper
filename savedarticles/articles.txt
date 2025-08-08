@@ -72120,3 +72120,374 @@ watch
 Are 80% crashes  thing   past?
 
 -----
+
+==== 🕒 Run at 2025-08-08T13:00:05.996015 ====
+https://www.bbc.com/weather/articles/czjm4zl20wzo?at_medium=RSS&at_campaign=rss
+Yellow heat health alerts have been issued  parts  England with temperatures   climb above 30C (86F) next week.
+
+The alerts, issued   UK Health Security Agency, external, cover  regions apart from  north-east  north-west   valid from 12:00 BST  Monday until 18:00 BST  Wednesday.
+
+Warm  will  drawn  from  south thanks   interaction between high pressure drifting across  south   UK   area   pressure - containing remnants  Tropical Storm Dexter -   Atlantic.
+
+England  Wales will have  best   sunshine, although   scattered thunderstorms  likely. Northern Ireland  Scotland  expect outbreaks  rain  times.
+
+It marks   change  weather fortunes after Storm Floris battered parts   UK earlier this week.
+
+-----
+https://www.bbc.com/news/articles/crr27q9p7xwo?at_medium=RSS&at_campaign=rss
+Teenager  lost  legs  crash will 'never forgive' driver
+
+53 minutes  Share Save Ken Banks  Louise Hosie BBC Scotland News Share Save
+
+BBC Adam Golebiewski   double amputation after  crash last year
+
+A teenager  lost  lower legs   crash says  "will never forgive"  drink-driver   wheel. Young footballer Adam Golebiewski, 18,  been  passenger  Arran Paterson'   Macduff, Aberdeenshire,  September last year. Paterson, 19, admitted dangerous driving, being over  drink-drive limit  driving without insurance  Aberdeen Sheriff Court. Adam walked into court unaided  prosthetic legs following intensive rehabilitation. He said: "I want    enjoy life again  stay positive."
+
+He told BBC News  case  something     shoulders  that "life   over". Adam added: "I will never forgive that   what   done  . "I  still  same, I just ' have legs  more."
+
+Arran Paterson admitted dangerous driving while over  alcohol limit
+
+Apprentice builder Adam, from Banff,    three passengers    that crashed  Macduff' Union Road   early hours  Sunday 8 September. The  others were also badly hurt. Adam  taken  hospital where  legs were amputated below  knee. The goalkeeper with junior side Deveronside faced three months  rehabilitation  Woodend Hospital  Aberdeen. He celebrated  18th birthday during  period  hospital. Adam  able  walk again  crutches  said   "thankful  grateful"  home with  family  Christmas. In  interview with BBC Scotland News   time  said: "It' been three months  pain, being trapped  hospital."
+
+Adam walked into Aberdeen Sheriff Court alongside family  friends.
+
+Adam  able  walk without crutches  attend  court hearing, alongside family  friends. Paterson' defence solicitor Leonard Burkinshaw said  client  pleading guilty   three charges. He admitted causing serious injury  dangerous driving   excessive speed, losing control  colliding with  wall. Sheriff Graham Buchanan told Paterson  would defer sentence until next month   preparation  background reports. Bail  continued    disqualified from driving.
+
+-----
+https://www.npr.org/2025/08/08/nx-s1-5492314/ai-music-streaming-services-spotify
+AI-generated music  here  stay. Will streaming services like Spotify label ?
+
+toggle caption Jakub Porzycki/NurPhoto  Getty Images
+
+It sounds like  joke,    episode  Black Mirror.
+
+A band  four guys with shaggy hair released  albums' worth  generic psych-rock songs back--back. The songs ended   Spotify users' Discover Weekly feeds,  well   third-party playlists boasting hundreds  thousands  followers. Within   weeks,  band' music  garnered millions  streams — except  band wasn' real. It   "synthetic music project" created using artificial intelligence.
+
+The controversy surrounding The Velvet Sundown spun  almost  quickly   gained traction. A person falsely claiming   part   band spoke  media outlets, including Rolling Stone, about  AI usage —  then admitted  lying about  whole thing   attempt  troll journalists. Later,  official Velvet Sundown page updated  Spotify biography  acknowledge that   music  composed  voiced with AI.
+
+Sponsor Message
+
+"This '  trick – '  mirror," reads  statement. "An ongoing artistic provocation designed  challenge  boundaries  authorship, identity,   future  music itself     AI."
+
+Like every other technological advancement that  preceded , artificial intelligence  caused some panic —  fascination — over   might transform  music industry. Its practical uses   gamut from helping human artists restore audio quality (like  surviving members  The Beatles  with John Lennon'  vocal demos   Grammy-winning track "Now  Then")  full-blown deception à  The Velvet Sundown.
+
+Spotify   most popular streaming service globally, with 696 million users  more than 180 markets. In podcasts  interviews, Spotify CEO Daniel Ek  spoken about  optimism that AI will allow Spotify' algorithm  better match listeners with what they' looking , ideally delivering "that magical thing that  didn' even know that  liked — better than    yourself,"   told The New York Post  May. (In 2023, Spotify rolled   AI DJ that provides    recommendations  commentary. The platform also   AI tool  translating podcasts into different languages.)
+
+Ek  also made  clear that AI should help human creators,  replace them. But unlike other tech giants — including YouTube, Meta  TikTok — Spotify   currently taking steps  label AI-generated content. So  doesn'  world' largest streaming service alert users  what they' listening   generated through AI? And what issues does that raise  both artists  their fans?
+
+In response  questions about whether Spotify  considered implementing  detection  labeling system  music created with AI —  well  what challenges might arise from doing that —  Spotify spokesperson   confirm  deny  possibility.
+
+Sponsor Message
+
+"Spotify doesn' police  tools artists   their creative process. We believe artists  producers should   control,"  Spotify spokesperson told NPR   written statement. "Our platform policies focus   music  presented  listeners,   actively work  protect against deception, impersonation,  spam. Content that misleads listeners, infringes  artists' rights,  abuses  platform will  penalized  taken down."
+
+Generative AI  ghost artists
+
+In 2023, Spotify  other platforms removed  song that used AI  clone  voices  Drake  The Weeknd without  artists' permission after Universal Music Group invoked copyright violations. But The Velvet Sundown' profile  still active;   album  uploaded  July 14. Because  page   pretending    existing artist, '  technically violating  rules. But     songs came    user' Discover Weekly — Spotify' automated playlists that rack  millions  streams every week — there would also   warning that  voice they' listening  doesn' belong   real person.
+
+Liz Pelly,  journalist   author  Mood Machine: The Rise  Spotify   Costs   Perfect Playlist, says that transparency  been  major problem  streaming services  nearly  decade —  that users should   clearer understanding  what they' consuming  where ' coming from.
+
+"In order  users  these services  make informed decisions   order  encourage  greater sense  media literacy  streaming, I  think that ' really important that services  doing everything they   accurately label this material," Pelly says. "Whether '  track that    streaming service that  fully made using generative AI,  '  track that  being recommended   user because  some sort  preexisting commercial deal that allows  streaming service    lower royalty rate. "
+
+Sponsor Message
+
+Ek, Spotify' CEO,  commended AI  simplifying music production  lowering  barrier  entry into creation —  AI-generated music could also reduce licensing fees  overall payout costs  streaming services. Pelly says there' already  precedent  Spotify looking   cheapest content  serve users. In  reporting,  found that Spotify already relies  background music created  production companies  masse     playlists. The rise  AI-generated music,  says,   slippery slope  tech companies looking  boost streams   costs.
+
+In response  questions about this practice   financial implications,  Spotify spokesperson told NPR: "Spotify prioritizes listener satisfaction,  there   demand  music  suit certain occasions  activities, including mood  background music. This kind  content represents  very small portion   music available   platform. Like  other music  Spotify, this music  licensed  rightsholders,   terms  each agreement vary. Spotify doesn' dictate  artists present their work, including whether they publish their songs with real names, under  band name,   pseudonym."
+
+One platform  already doing 
+
+In June, Deezer rolled   first AI detection  tagging system   used   major music-streaming company. The platform, which  founded  Paris  2007,  been closely following technological developments that have allowed AI models  produce more  more realistic-sounding songs.
+
+Manuel Moussallam, head  research  Deezer, says  team spent    half years developing  tool. They also published  report acknowledging that  tool focuses primarily  waveform-based generators   only detect songs created  certain tools, meaning detection   bypassed.
+
+"We started seeing [AI] content   platform,   were wondering   corresponds  some kind   musical scene, like  niche genre," Moussallam explains. "Or  there were also some kind  generational effect — like  young people going  switch  this kind  music?"
+
+Sponsor Message
+
+So ,  says, that hasn' been  case. The tool  identified that approximately 20%   songs uploaded  Deezer   daily basis  AI-generated, totaling nearly 30,000 tracks  . But much  , Moussallam says,  essentially spam. Upon detection, Deezer removed AI-generated songs from automated  editorially curated playlists  order  gauge  many people were organically streaming this content. They found that approximately 70%   streams were fraudulent, meaning people created fake artists  used bots  generate fake streams  order  receive payouts. Upon detection, Deezer excludes fraudulent streams from royalty payments. The company estimates that revenue dilution linked  AI-generated music — meaning legitimate streams  real people listening  this content —  less than 1%.
+
+"The only thing that  didn' really find  some kind  emergence  organic, consensual consumption  this content," Moussallam says. "It' quite striking. We have  huge increase   amount  tracks that  AI-generated,  there   increase  real people streaming this content."
+
+Instead,  says, AI-generated content like The Velvet Sundown sees  spike  listenership when there' media attention,   quickly subsides when listeners move  from  novelty.
+
+Who' responsible?
+
+Hany Farid,  professor   University  California, Berkeley  studies digital forensics, says ' important  note that   AI usage  explicitly . There  many instances  which artists   artificial intelligence  boost  enhance their work —  both      music industry, transparency    AI usage.
+
+"When I    grocery store, I    kinds  food. Some    healthy  ; some    unhealthy. What  government  said    going  label food  tell   healthy  unhealthy  ,  much sugar,  much sodium,  much ," Farid says. "It'   value judgment. We'  saying what    ' . We' simply informing ."
+
+Sponsor Message
+
+Sticking with  grocery analogy, Farid says  responsibility  those labels doesn' fall   store —  falls  whoever  manufacturing  products. Similarly,  social media platforms,  says  burden  disclose AI usage should ideally    shoulders  whoever uploads  song  image. But because tech companies rely  user-generated content  sell  against —  because more content equals more  money — there aren' many incentives  enforce that disclosure from users    industry  self-police. Like with cigarette warnings  food labels, Farid says,  solution  come down  government regulation.
+
+"There' responsibility from  government   platforms,   creators,   consumers,   tech industry," Farid says. "For example,  could , somebody created music,  they used [ AI software tool]. Why ' that tool adding  watermark  there? There' responsibility   down  staff here."
+
+AI-generated models move  such  fast pace, Farid says, ' difficult  give people guidance    identify deepfakes  other AI-generated content. But when  comes  listening  music,   Pelly suggest going back   basics.
+
+"If music listeners  concerned with  accidentally finding themselves   situation where they  listening   supporting generative AI music, I would   most direct thing     straight   source," Pelly says, "whether that  buying music directly from independent artists  independent record labels, getting recommendations  through these anonymous algorithmic news feeds,  investing   networks  music culture that exist outside   centers  power   tech industry."
+
+-----
+https://www.nytimes.com/2025/08/08/business/fed-miran-rates-powell-trump.html
+Stephen I. Miran   filling only  temporary opening   Federal Reserve’ powerful board  governors,   that role   influence important discussions   around  central bank, which President Trump  repeatedly attacked   obstacle   economic agenda.
+
+Officials   Fed  deliberating when    much  lower interest rates after  long pause,  there   tight contest underway   will  named  next chair   institution.
+
+Mr. Miran,  chair  Mr. Trump’ Council  Economic Advisers,  tapped  Thursday  serve   governor   term that expires  Jan. 31. That position  formerly held  Adriana Kugler,  officially stepped down  Friday after abruptly announcing last week that  would leave  post early  return  academia.
+
+Her departure gave Mr. Trump    directly alter  upper echelons   Fed, which  emerged     president’ biggest foes since  return   White House. Mr. Trump wants  Fed   interest rates significantly,   central bank  opted  keep them steady this year, anticipating that  Trump administration’ tariff  other economic policies would unleash higher inflation even  growth slows.
+
+-----
+https://www.nytimes.com/2025/08/08/world/europe/uk-free-speech-vance-starmer.html
+Britain    knife edge when Lucy Connolly,  mother  former nanny, tapped   inflammatory 51-word post  social media  year , calling  “” hotels that house asylum seekers     fire. “If that makes   racist,   ,”  added,  postscript that  nothing  spare   wrath   country’ courts.
+
+Her post  viewed 310,000 times. Now serving  31-month prison sentence  inciting racial hatred, Ms. Connolly  become  charged symbol   debate over whether Britain  suppressing free speech. Last month,  appeals court refused  reduce  sentence, drawing angry protests from  defenders, mainly   political right.
+
+Ms. Connolly’ arrest came during  fevered period after  killing  three young girls   British   Rwandan migrants, which ignited anti-immigrant riots across  country. She    thousands  people arrested  Britain each year  sending  posting offensive messages, which  include those that  “indecent  grossly offensive”  they  intended  cause distress   recipient.
+
+Critics, including Vice President JD Vance  Elon Musk, accuse Britain  backsliding     social media. They point   thicket  laws, some , some , combined with overly zealous policing,   perception,   right   left, that  enforcement  biased against their points  view.
+
+-----
+https://abcnews.go.com/International/video/young-children-transported-urgent-medical-treatment-amid-israel-124478097
+Young children transported  urgent medical treatment amid Israel-Hamas  ABC News' Ian Pannell spoke   mother  father from Gaza whose young children will  traveling  Jordan  urgent medical treatment.
+
+-----
+https://abcnews.go.com/US/video/passengers-cry-horror-water-slide-malfunction-injures-cruise-124477902
+Passengers    horror  water slide malfunction injures cruise ship guest The guest, whose condition  stable, received medical attention   being treated  injuries.
+
+-----
+https://abcnews.go.com/Lifestyle/video/sea-turtles-return-ocean-after-8-months-rehabilitation-124476273
+Sea turtles return  ocean after 8 months  rehabilitation  Massachusetts Footage shows  green  turtle   Kemp’ ridley  turtles crawling into  Nantucket Sound after care from  New England Aquarium’ Sea Turtle Hospital.
+
+-----
+https://abcnews.go.com/US/wireStory/fast-growing-brush-fire-forces-thousands-evacuate-north-124476664
+A fast-growing brush fire  forcing thousands  people  evacuate   mountainous area north  Los Angeles
+
+LOS ANGELES -- A fast-growing brush fire  forced thousands  people  evacuate   mountainous area north  Los Angeles.
+
+The Canyon Fire ignited Thursday afternoon  grew  more than 7.6 square miles (19.7 square kilometers)  11 .., according   Ventura County Fire Department. At least 400 personnel were battling  blaze along with several planes  helicopters. It remained uncontained late Thursday   spreading east into Los Angeles County, officials said.
+
+The fire  burning just south  Lake Piru,  reservoir located   Los Padres National Forest. It' close  Lake Castaic,  popular recreation area burned   Hughes Fire  January. That fire burned about 15 square miles (39 square kilometers)   hours   50,000 people under evacuation orders  warnings.
+
+Sunny,    conditions were expected   area where  Canyon Fire  burning  Friday, with  daytime high near 100 degrees Fahrenheit (38 degrees Celsius)  minimum humidity   -teens, according   National Weather Service. Winds were expected   light   morning  grow from  south  southwest   afternoon.
+
+In LA County, around 2,700 residents evacuated with 700 structures under  evacuation order, officials said late Thursday. Another 14,000 residents  5,000 structures were covered   evacuation warning. Areas within  Val Verde zone  been reduced from  order   warning.
+
+The evacuation zones  nearby Ventura County were relatively unpopulated, Ventura County Fire Department spokesperson Andrew Dowd said Thursday. Fifty- people were evacuated from  Lake Piru recreation area.
+
+Dowd called  blaze  “very dynamic situation” caused  ,  weather, steep  rugged terrain   fuel.
+
+LA County Supervisor Kathryn Barger,  represents  district, urged residents  evacuate.
+
+“Extreme heat   humidity   north county have created dangerous conditions where flames  spread with alarming speed," Barger said   statement. “If first responders tell   leave, —without hesitation.”
+
+The  blaze comes   massive wildfire  Central California became  state' largest blaze   year, threatening hundreds  homes  burning   control   Los Padres National Forest.
+
+The Gifford Fire  spread  155 square miles (402 square kilometers)  Thursday night with 15% containment. It grew    least four smaller fires that erupted Aug. 1 along State Route 166, forcing closures  both directions east  Santa Maria,  city  about 110,000 people. It  injured  least four people. The causes   fires  under investigation.
+
+Wildfire risk will  elevated through  weekend across much  inland California   heat wave gripping  area intensifies. August  September  typically  most dangerous months  wildfires   state.
+
+-----
+https://abcnews.go.com/International/wireStory/reintegrating-millions-afghan-refugees-critical-peaceful-future-official-124478290
+A U.N. official says reintegrating Afghan refugees  crucial   country' peaceful future
+
+FILE - Afghan refugee children play next  trucks loaded with their family' belongings  they wait  return Afghanistan along  highway  Landi Kotal, Pakistan, April 9, 2025. (AP Photo/Muhammad Sajjad, File)
+
+FILE - Afghan refugee children play next  trucks loaded with their family' belongings  they wait  return Afghanistan along  highway  Landi Kotal, Pakistan, April 9, 2025. (AP Photo/Muhammad Sajjad, File)
+
+FILE - Afghan refugee children play next  trucks loaded with their family' belongings  they wait  return Afghanistan along  highway  Landi Kotal, Pakistan, April 9, 2025. (AP Photo/Muhammad Sajjad, File)
+
+FILE - Afghan refugee children play next  trucks loaded with their family' belongings  they wait  return Afghanistan along  highway  Landi Kotal, Pakistan, April 9, 2025. (AP Photo/Muhammad Sajjad, File)
+
+ISLAMABAD -- Reintegrating Afghan refugees  critical   country’ peaceful future  social cohesion will  reduced without ,  U.N. official said Friday.
+
+Some 2.2 million Afghans have crossed  border from Iran  Pakistan since  start   year, according   latest figures from  U.N. refugee agency. They arrive   country struggling with climate change,  stagnant economy   humanitarian crisis. Some 60%  those returning  Afghanistan  under 18.
+
+Stephanie Loose,  country program manager  U.N. Habitat, said reintegrating these millions  critical   peaceful future  Afghanistan.
+
+“If  come back   country where resources  already scarce, there’    competition already  jobs, land, housing,  sort  services, ’ clear that   ’ foster dialogue between  local population  those arriving, this feeling  competition will grow  reduce social cohesion, which  like creating another root cause    conflicts,” Loose told  media briefing  Geneva. “And  country  seen enough  that.”
+
+It  important  people  understand that those returning    burden,  added. They come with skills   part   solution  social  economic stability.
+
+People bring what they  carry from Iran  Pakistan, leaving behind their homes   majority  their belongings. Afghan authorities offer support   border with cash, food, shelter, health care  onward transport  settlements across  country.
+
+The Taliban have urged their neighbors  avoid forcibly returning Afghans   treat them with dignity. Iran  Pakistan deny targeting Afghans, saying they  expelling foreigners living  their countries illegally.
+
+Women  girls  particularly hard  once they return  Afghanistan, where education  banned  females beyond grade    Taliban restrict access  many jobs  public spaces.
+
+Loose said Afghan women  girls lacked social, educational  economic development opportunities. Requirements  have  male guardian when leaving  home created further barriers  women-headed households.
+
+-----
+https://abcnews.go.com/Business/wireStory/intel-ceo-responds-after-trump-calls-resignation-124478434
+Intel CEO Lip-Bu Tan says ’ “always operated within  highest legal  ethical standards” after coming under pressure following President Donald Trump’ call    resign
+
+Intel CEO Lip-Bu Tan says ' “always operated within  highest legal  ethical standards” after President Donald Trump said  should resign.
+
+On Thursday Trump said  Truth Social platform that, “The CEO  Intel  highly CONFLICTED  must resign, immediately. There   other solution  this problem. Thank   your attention  this problem!”
+
+Trump' post landed after Sen. Tom Cotton sent  letter  Intel Chairman Frank Yeary expressing concern over Tan’ investments  ties  semiconductor firms that  reportedly linked   Chinese Communist Party   People’ Liberation Army,  asked  board whether Tan  divested  interests  these companies  eliminate  conflicts  interest.
+
+It   immediately clear  Thursday  Tan,  took over  Intel’ CEO  March,  divested  interests   companies.
+
+The economic  political rivalry between  U.S.  China  increasingly focused  computer chips, AI  other digital technologies that  expected  shape future economies  military conflicts.
+
+Intel said   statement that ’ “deeply committed  advancing U.S. national  economic security interests   making significant investments aligned with  President’ America First agenda.”
+
+Tan also addressed  situation, saying   message  employees that there  misinformation circulating about  past roles  Walden International  Cadence Design Systems  that ' always followed proper standards.
+
+Tan also said Intel   contact with  Trump administration.
+
+“We  engaging with  Administration  address  matters that have been raised  ensure they have  facts,” Tan said. “I fully share  President’ commitment  advancing U.S. national  economic security, I appreciate  leadership  advance these priorities,  I’ proud  lead  company that   central  these goals.”.
+
+The company' stock rose slightly  premarket trading  Friday.
+
+-----
+https://www.cnbc.com/2025/08/08/stocks-making-the-biggest-moves-premarket-uaa-expe-ttd-mp.html
+Check   companies making headlines before  bell: Under Armour — The retail stock tumbled 21% after American sportswear company posted first-quarter results that missed estimates. Under Armour reported adjusted earnings  2 cents  share, lower than  FactSet consensus estimate  3 cents. Revenue  $1.10 billion came  below  $1.13 billion expectation. Trade Desk — Shares tumbled 33%. A slew  Wall Street firms including Bank  America  MoffettNathanson downgraded  stock, even after Trade Desk' surprisingly strong earnings results, after CEO Jeff Green warned during  earnings call that "some   world' largest brands  absolutely facing pressure" from tariffs  inflation. Viavi Solutions — Shares soared 20% following  network test  equipment manufacturer' fiscal fourth-quarter financial results. Viavi topped analysts' earnings  revenue expectations, according  FactSet,  guided  current-quarter earnings  revenue above forecasts. Wynn Resorts — The resort  casino company shed more than 1% following  disappointing second-quarter results. Earnings were $1.09  share, falling short   $1.21  share expected from analysts polled  LSEG. Revenue came   $1.74 billion, versus  $1.75 billion consensus estimate. Yelp — Shares fell 6% after  restaurant review service narrowed  full-year revenue guidance   range  $1.465 billion  $1.475 billion. The company previously called  revenue  land between $1.465 billion  $1.485 billion. The  outlook  also below  FactSet consensus estimate  $1.48 billion. LegalZoom. — Shares   AI stock surged 32% after Bank  America upgraded    from underperform  raised  price target   stock, suggesting   jump another 43% from current levels. Expedia — The travel booking website surged more than 15% after Expedia' second-quarter earnings  revenue topped expectations. The company also raised full-year bookings  revenue guidance. Maplebear — Shares   grocery delivery company, which does business  Instacart, rallied more than 9% after reporting second-quarter results that topped expectations. Instacart earned 41 cents  share  revenue  $914 million. Analysts polled  LSEG expected  would earn 38 cents  share  $896 million  revenue. The company also expects  gross value  transactions   current quarter   higher than analysts  predicting. Figs — Shares soared 8% after  scrubs maker posted second-quarter earnings that bested analysts' expectations. Figs reported earnings  4 cents  share  revenue  $152.6 million. Analysts polled  FactSet forecasted 2 cents  earnings  share  $144.2 million  revenue. Block — The Cash App parent' shares popped 8% after  company raised  guidance  full-year gross profit  $10.17 billion, representing 14% growth from  year earlier. In  prior earnings report, Block projected gross profit   year  $9.96 billion. Microchip Technology — Shares dropped 4% after  semiconductor manufacturer issued guidance that failed  impress Wall Street. Microchip called  fiscal second-quarter adjusted earnings  30 cents  36 cents  share, while FactSet consensus estimates sought 31 cents  share. Revenue  expected  range between $1.11 billion  $1.15 billion, versus analysts' prediction  $1.13 billion. Pinterest — The visual media platform fell 28% after reporting 33 cents  adjusted earnings  share   second quarter, missing  consensus estimate  35 cents  share from analysts polled  LSEG. Revenue came   $998 million, higher than  $975 million penciled   Wall Street. Sweetgreen — The salad chain sank 28% after  second-quarter earnings  revenue missed analysts' expectations. Sweetgreen also slashed  full-year revenue guidance  $700 million  $715 million. That  down from  prior guidance  $740 million  $760 million. Doximity — Shares rallied almost 9% after Doximity  Thursday said ' acquiring startup Pathway Medical  $63 million. The medical network platform also reported fiscal first-quarter results that topped estimates. Earnings  36 cents  share exceeded  30 cents consensus estimate, according  LSEG. Revenue  $145.9 million topped  $139.5 million consensus estimate. MP Materials — The rare earths materials stock jumped 9% after stronger-than-expected second quarter earnings. MP Materials posted  loss  13 cents  share, narrower than  expected loss  20 cents  share, according  FactSet. Revenue  $57.4 million exceeded  $46.1 million consensus estimate. Monster Beverage — Shares   energy drink company climbed 8% after Monster Beverage topped second quarter expectations. The company posted adjusted earnings  51 cents  share  revenue  $2.11 billion. Analysts polled  FactSet anticipated earnings  48 cents  share  revenue  $2.08 billion. Take-Two Interactive Software — The video game producer added more than 4% after posting fiscal first-quarter revenue  $1.42 billion, exceeding  $1.31 billion expected  analysts polled  LSEG. The company also raised  annual bookings forecast. Gilead Sciences — Shares gained more than 4% after Gilead Sciences reported surprisingly strong second-quarter results. Adjusted earnings  $2.01  share topped  $1.96 LSEG consensus estimate. Revenue  $7.08 billion came  above  forecasted $6.97 billion. TripAdvisor — Shares   online travel company popped rose more than 3% after  company posted adjusted earnings  46 cents  share, which topped estimates. On  other hand, revenue  $529 million disappointed expectations. — CNBC' Michelle Fox, Alex Harring  Tanaya Macheel contributed reporting
+
+-----
+https://www.cnbc.com/2025/08/08/wall-streets-biggest-analyst-calls-friday-like-nvidia.html
+Here   biggest calls  Wall Street  Friday: Morgan Stanley upgrades Novartis  equal weight from underweight Morgan Stanley said   upgrade  Novartis that growth  improving   biopharma company. "Valuation remains demanding   growth profile,  growth quality  higher    room  upside (commercial execution  pipeline)." Goldman Sachs upgrades Diageo  neutral from sell Goldman said upgraded  beverage company  valuation. The firm says  sees limited downside  Diageo. "We  limited downside risk  FY26,   management steps- cost saving  support best--class margins  stabilise earnings, albeit visibility remains    outlook  based   2H recovery." Barclays downgrades Crocs  equal weight from overweight Barclays downgraded  shoe company  says fundamentals  worsening. "We  downgrading shares  CROX  Equal Weight based : 1) ongoing macro uncertainty that  depressing  forward order book, 2)  shift  athletic footwear purchasing behavior   US consumer base..." Jefferies initiates James Hardie   Jefferies says  cement manufacturer  poised   -rating. " JHX   rare secular growth story, driven  material conversion, with leading  positions  well-structured industries that allow   outgrow   consistently & take price." Bernstein reiterates Nvidia  outperform Bernstein says ' sticking with Nvidia shares. "The datacenter opportunity  enormous,  still early, with material upside still possible." Piper Sandler upgrades Monster Beverage  overweight from neutral Piper says growth  improving  Monster. "We have been overly careful  ensure that  energy category' inexplicable 2024 funk    rear-view  that MNST' better momentum could return,    looks like   clearly  hand." Piper Sandler upgrades GoDaddy  overweight from neutral Piper says shares  website domain company  oversold. "We  upgrading GDDY  Overweight with  $182 PT   believe shares have entered oversold territory. GoDaddy." Goldman Sachs upgrades Peloton   from neutral Goldman says Peloton' earnings report  Thursday proves that  turnaround  underway. "Mgmt Frames Path Forward; Platform  Capitalize  Health/Fitness Initiatives; Upgrade  Buy." Read more. Truist upgrades Gilead Sciences   from hold Truist upgraded  biotech company following earnings  says  likes  HIV segment. " GILD beat 2Q25 expectations  sales  EPS, driven   HIV segment." Melius reiterates Apple   Melius raised  price target  Apple shares  says ' sticking with  stock. 'Target Increases  $260 from $240, Reflecting ~28x  FY27 Estimate. The 2.4B+ installed base   high customer satisfaction  both intact  Apple." Deutsche Bank upgrades ... Beauty   from hold Deutsche said   upgrade   beauty stock that "opportunity knocks." "Heading into yesterday,   back  FY1Q26 results,  said that despite many moving parts,    think  significant downward move  ELF' stock  warranted. However,  Thursday, ELF' stock declined -9.5% leaving  stock below $100  presenting   view  attractive entry point with compelling 20%+ potential upside." Goldman Sachs reiterates Live Nation   Goldman says ' sticking with  entertainment concerting  ticket company following earnings. "We reiterate  Buy rating  shares  Live Nation  increase  Price Target  $168 ($162 prior) following 2Q25 results that featured better than expected performance  Concerts,  ~-line Sponsorships & Ticketing." Deutsche Bank initiates Bowhead   Deutsche says shares   insurance company have more room  . "Given  uncertainty around  future path  interest rates,  prefer companies like Bowhead that haven'  optimized their investment income." Bank  America downgrades Trade Desk  underperform from  Bank  America double downgraded  software  company following earnings. :"While  continue  believe TTD    double-digit topline grower,  believe   challenging  justify  premium multiple   historically received. As  result, when comparing  more traditional -tech peers,   potential downside  current levels  downgrade  Underperform. Our  $55 PO ( $130 prior)  based  20x  lower CY26E . EBITDA." Bank  America upgrades Legal Zoom   from underperform The firm says  online legal company  well positioned  AI. "We upgrade LZ from Underperform  Buy  mgmt.  executed  substantial portion   shift toward Subscriptions, while also adding strategic AI collaborations." Read more. Goldman Sachs upgrades Cushman & Wakefield   from sell Goldman double upgraded  commercial real estate company  says  sees tailwinds  international. "We  updating  CWK estimates following strong 2Q25 results (where management meaningfully raised guidance),  following  analysis deconstructing CWK' EMEA margin gains." Benchmark upgrades Instacart   from hold Benchmark upgraded  stock following earnings  Thursday. "And  appears sustainable  CART continues  benefit from competitive pressures facing regional/smaller grocers that need  platform  compete with mass merchants  online pure plays like Walmart  Amazon Fresh, respectively." Deutsche Bank reiterates Block   Deutsche says growth  accelerating following earnings  Thursday. " XYZ cleared  high  investors   heading into 2Q25 earnings, delivering  strong beat  raise driven  material outperformance  Cash App   acceleration  Square." Morgan Stanley reiterates Pinterest  overweight Morgan Stanley lowered  price target  $41  share from $45 following earnings  says ' sticking with  stock. "For PINS, faster growth likely needed  durably rerate stock, lower PT  $41, remain OW." Bank  America reiterates SharkNinja   The firm says sales trends  accelerating following  home products company' earnings report  Thursday. " SN reported 2Q25 adjusted EPS  $0.98 (.  $0.82)  sales increased 15.7% / with upside   Food Prep appliances (+53.0% .  20.0% .) driven  strong sales  SLUSHi   cream makers."
+
+-----
+https://www.cnbc.com/2025/08/08/crocs-reducing-order-volume-second-half-cautious-consumer.html
+
+You are a Current Events UIL question writer. Using only the information below (do not add outside details), generate as many multiple-choice current events questions as possible at an advanced (“very very very hard”) difficulty level.
+Requirements:
+- Each question must have a concise, high-level stem that tests deep understanding, synthesis, or nuance from the information.
+- Provide exactly four answer choices labeled A–D, with one clearly correct answer and three highly plausible distractors.
+- Distractors must be subtle, drawing on related details or common misconceptions found in the text.
+- Do not introduce any facts or context not present in the source material.
+- For each article or segment separated by a “––––––––––––––––––––––––”, generate at least one and up to three questions based solely on that segment.
+- At the end, include an Answer Key listing each question’s number, correct answer letter, and:
+    - A brief explanation citing the specific text evidence supporting the answer.
+    - The associated URL that corresponds to the source of the question (use the one placed above each dashed info section).
+
+Formatting:
+- Do not include citations, summaries, or explanations under each question.
+- Place all explanations and source URLs in the Answer Key only.
+- Do not include any additional commentary beyond the questions and the formatted Answer Key.
+Info: 
+
+
+Casual footwear company Crocs plans  reduce orders   second half   year amid what  CEO called  "concerning" environment   consumer.
+
+"We   U.S. consumer behaving cautiously around discretionary spending. They  faced with current  implied future price increases, which  think   potential    further drag   already choiceful consumer. Against this backdrop,  retail partners  acting more carefully  reducing their open-- dollars  future seasons," said CEO Andrew Rees   company' second-quarter earnings call this week, according   FactSet transcript.
+
+"The current environment   second half  concerning,    that clearly reflected  retail order books. We strongly believe this   time  make bold decisions   future  sustain  advance  durable cash flow mode," Rees added.
+
+Shares  Crocs shed nearly 30% Thursday after  company issued  stark warnings  posted  weaker-than-expected forecast   current quarter.
+
+Thursday' losses made   stock' worst  since October 2011.
+
+Crocs imports most   products from countries like Vietnam, China, Indonesia  Cambodia that   subject  steep import tariffs.
+
+Rees said  company  taking steps  protect profitability, including pulling back  promotional activity across retailers  taking back some   older inventory, specifically   Heydude shoe brand,  order  "reset" retail partners with  stock.
+
+"This will create further headwinds  sales volume over  next several quarters," Rees said   earnings call.
+
+Rees said   earnings release Crocs  previously implemented $50 million  cost savings.
+
+"Although these actions will impact  topline   business   short term, they will position  business  , drive margin dollars,  support continued cash flow generation longer term,"  said   release.
+
+The company  projecting third-quarter revenue well below Wall Street estimates. Crocs expects revenue   current quarter  shrink between 9%  11% year over year. Analysts surveyed  LSEG expected revenue   slightly higher over  year earlier.
+
+Crocs  also forecasting  third-quarter adjusted operating margin  around 18%  19%, down from 25.4%   third-quarter  year prior.
+
+The company declined  issue full-year guidance.
+
+For  second quarter, Crocs reported   loss  $492.3 million,  $8.82  share, compared    income  $228.9 million,  $3.77  share, during  same period  year earlier. That loss  driven   $737 million -cash impairment charge related   Heydude brand.
+
+Excluding that charge  accounting  other -time items,  company posted adjusted earnings  $4.23  share, topping Wall Street expectation  $4.01  share, according  LSEG.
+
+Revenue came   $1.15 billion,  increase  3.4% over  year prior   line with  LSEG estimate  $1.14 billion.
+
+— CNBC' Melissa Repko  Sara Salinas contributed  this report.
+
+-----
+https://www.cnbc.com/2025/08/08/openstore-demise-endgame-for-once-booming-ecommerce-aggregator-market.html
+When venture capitalist Keith Rabois  into -commerce,  couldn' stop buying brands. Now, everything must .
+
+OpenStore, -founded  Rabois  2021,  shutting down nearly    40-plus Shopify stores  acquired,  '   process  liquidating  remaining inventory  offering steep discounts  move merchandise.
+
+Earlier this week,  company announced  plans  focus solely  growing Jack Archer,  menswear brand  bought  $837,000  2022. The website address open.store  redirects  jackarcher..
+
+The dramatic downsizing   single brand comes  OpenStore  recent weeks raised  $15 million funding round that valued  company  just $50 million,  fraction   previous $1 billion valuation, CNBC  confirmed. Bloomberg previously reported   financing round  some   reorganization details.
+
+OpenStore' existing backers include General Catalyst, Lux Capital  Khosla Ventures, where Rabois   managing director. Rabois didn' respond  requests  comment.
+
+It marks  latest example   decaying -commerce aggregator market. Companies   space took advantage   interest rates  pandemic-driven growth  online retail  collectively raise more than $16 billion from  names  Wall Street   Silicon Valley with  intent  rolling  independent sellers  marketplaces like Amazon  Shopify.
+
+Rabois   No. 1 cheerleader  social media  elsewhere, touting  startup   Miami headquarters. He posted  Twitter ( X)  April 2021,  "best talent  have ever worked with  joining Openstore." About  year later, Business Insider quoted Rabois   story saying, "We  absolutely handle acquiring  business   ,"  that "I eventually want      hour,  that  definitely  challenge."
+
+As recently  June 2024, Rabois shared  post from  company  wrote, "We' hiring! Come learn about  future  commerce online."
+
+By that point,  broader aggregator market   free fall. Cracks  begun  appear  2022  venture funding dried   cash-burning startups  -commerce demand cooled with consumers returning  physical stores. Many aggregators struggled    brands they acquired profitably,  began selling  assets  merging with rivals  stay afloat.
+
+-----
+https://www.cnbc.com/2025/08/08/10-things-to-watch-in-the-stock-market-friday-including-eli-lilly-defense-and-teslas-shakeup.html
+The Club' 10 things  watch Friday, Aug. 8 — Today' newsletter  written  Jeff Marks, director  portfolio analysis 1. The S & P 500  pointing   higher open this morning after  modest pullback yesterday, keeping  index  track   positive week. The Dow, after  sharp reversal yesterday, also   track   positive open. 2. Several analysts defended Club name Eli Lilly after yesterday' 14% plunge  disappointing data   obesity pill. Morgan Stanley called  "overdone. JPMorgan said  pullback creates  "compelling entry point." Goldman Sachs said  sell- implies  pill   impaired asset, which simply '  case. We downgraded Lilly yesterday. Lilly shares were  about 1.7%   premarket. 3. Shares  The Trade Desk sank 30% this morning. The digital advertising company beat analyst estimates  revenue  adjusted EBITDA,  guided  slowing revenue growth   third quarter. Bank  America double downgraded shares  underperform, citing  uncertain trajectory from here  competitive pressures from Club name Amazon . 4. Texas Roadhouse posted strong second-quarter same-store sales growth  said  third quarter     better-than-expected start. However, beef inflation  eating into profits,  that should  have been  surprise  anyone. We reiterated  hold-equivalent rating last night   analysis  Club members. 5. Tesla  breaking   Dojo supercomputer team, Bloomberg News reported,  leader Peter Bannon leaves  electric vehicle maker. As  result,  report said Tesla will increase  reliance  Club name Nvidia  peer AMD  computing power. 6. Shares  Expedia surged nearly 15% this morning after  travel company reported  strong second-quarter earnings beat  raised  full-year outlook  bookings, revenue  operating profitability. Ad sales helped helped drive  results. 7. Take-Two Interactive' bookings exceed  high   guidance. The video-game publisher reaffirmed that "Grand Theft Auto 6"    May 26, 2026. There were  updates  pricing   long-awaited game, which  more than  decade   making. Shares popped more than 4%. 8. Pinterest shares fell nearly 13% this morning after  mixed quarter. The digital pinboard' revenue slightly beat expectations  earnings  share came    cents short. Global monthly active users were better than expected,  missed   U.S.  Canada. 9. Melius Research increased  price target  Club name Apple price target  $260  share from $240. The firm also raised  fiscal 2026 earnings  share estimates thanks  higher gross margins. Apple shares have climbed 8.4% over  past  sessions following  latest U.S. investment pledges . 10. Club stock Meta Platforms turned  PIMCO  Blue Owl Capital  lead  $29 billion financing deal  help fund  data center development. Meta' aggressive investments into AI aren' slowing down. Sign    Top 10 Morning Thoughts   Market email newsletter  free (See here   full list   stocks  Jim Cramer' Charitable Trust.) As  subscriber   CNBC Investing Club with Jim Cramer,  will receive  trade alert before Jim makes  trade. Jim waits 45 minutes after sending  trade alert before buying  selling  stock   charitable trust' portfolio. If Jim  talked about  stock  CNBC TV,  waits 72 hours after issuing  trade alert before executing  trade. THE ABOVE INVESTING CLUB INFORMATION IS SUBJECT TO OUR TERMS AND CONDITIONS AND PRIVACY POLICY , TOGETHER WITH OUR DISCLAIMER . NO FIDUCIARY OBLIGATION OR DUTY EXISTS, OR IS CREATED, BY VIRTUE OF YOUR RECEIPT OF ANY INFORMATION PROVIDED IN CONNECTION WITH THE INVESTING CLUB. NO SPECIFIC OUTCOME OR PROFIT IS GUARANTEED.
+
+-----
+https://www.cnbc.com/2025/08/08/palantir-could-be-a-trillion-dollar-firm-within-3-years-dan-ives-says.html
+Palantir      becoming  trillion-dollar company, according  prominent tech bull Dan Ives. The AI company' stock  surged more than 140% since  beginning   year. Earnings beats , lucrative military contracts   firm' CEO boasting about "crazy, efficient revolution"  terms  growing revenue while downsizing headcount, have  helped build buzz around  firm. The firm' shares popped 7.85%  Tuesday, after  reported $1 billion quarterly revenues   first time,  ahead  analyst expectations. Since then,  stock  extended  gains   last seen 1% higher  -market trading. PLTR YTD line Palantir share price Speaking  CNBC' "Squawk Box Europe" this week, Ives,   global head  tech research  Wedbush Securities, outlined   still sees huge upside ahead   stock. Ives runs  Wedbush AI Revolution ETF, which counts Palantir among   holdings. Labeling Palantir " Messi  AI" —  reference  legendary Argentinian soccer star Lionel Messi — Ives said: "I believe this  going    trillion-dollar company   next   three years." "There'  company that  what they have when  comes  software   cases,  I think they' exploding across  board,"  explained. "And  government … they' really going  take  lead when  comes  AI   sovereign front,  that'  they'     names,  again, I think  trillion-dollar [market ]   next , three years." Palantir currently   market   around $432 billion, according  LSEG data. In  note  Tuesday, Ives raised  price target  Palantir from $160  $200, citing "continued hyper growth demand   company' AI product suite." If  stock achieves Wedbush'  target price,  would mark  9.8% premium  Thursday' closing price. Earlier this week, Palantir CEO Alex Karp said  firm  "obliterating"  -called "Rule  40,"   metric investors   evaluate potential returns  tech stocks. The metric ranks businesses  evaluating revenue growth  margins, with  score over 40% considered good. According  Karp, Palantir' score  94%. Ives told CNBC  Wednesday that some investors already  Palantir stock  overpriced,  warned that this approach could lead  missing    company' growth trajectory. "If  focus just  valuation,  missed every transformational tech stock  last 20 years,"  said. "Many investors, they' hated [Palantir shares]  $20, despised   $50, [been] screaming from  mountaintops  $100, $150, [] they' revolutionizing tech." — CNBC' Alex Harring contributed  this article.
+
+-----
+https://www.cnbc.com/2025/08/08/record-setting-market-using-etfs-to-help-avoid-hefty-tax-bills-.html
+A major exchange-traded fund provider  getting ready  launch  fund designed  ease investors'  burdens from  record-setting stock market.
+
+Even though ETFs  considered more  efficient than mutual funds, Astoria Portfolio Advisors plans  launch  Astoria U.S. Enhanced Core Equity ETF (LCOR)  October. The fund uses  -mitigation strategy that' known   exchange  conversion under Section 351    code.
+
+When  stock   huge -, investors    overconcentrated  that name, putting them   hook  large capital gains taxes  they   sell down  position. With  Section 351 exchange, investors   able  reallocate some  that position without triggering capital gains taxes. They transfer those assets   newly created ETF  receive shares  that fund  exchange.
+
+Bruce Lavine,  firm' chief operating officer  head  ETFs, thinks LCOR  particularly relevant  Big Tech' outperformance  leave investors with  pretty hefty  bill  they take profits.
+
+"The idea behind  351 fund  that  have    stocks that  stuck from   perspective because they'   much. Think about buying Nvidia  years . Perhaps  bought Microsoft 10 years ,"  told CNBC' "ETF Edge" this week.
+
+Based  Thursday' close, Nvidia  gained 83% over  past year, while Microsoft  jumped 31%   same period. As  July 15, Big Tech stocks comprise -third   S&P 500, according  S&P Global.
+
+VettaFi Head  Research Todd Rosenbluth suggests Astoria  tapping into growing yearning  more  efficiency.
+
+"ETFs  general   -efficient vehicle,   '  capital gains unless ' buying  selling,"  said. "This  really focused  people  have  concentrated individual stock position  want  move that  instead  buying  ETF  holding  necessarily  same ."
+
+-----
+https://www.cnbc.com/2025/08/08/silicon-valley-dominant-us-ai-policy-will-benefit-china.html
+SHANGHAI, CHINA - JULY 27: Robots  Unitree Robotics show their kick boxing skills during  2025 World AI Conference (WAIC)  High-Level Meeting  Global AI Governance  Shanghai World Expo Exhibition  Convention Center  July 27, 2025  Shanghai, China.
+
+While humanoid robots sparred   ring  China' World AI Conference  Shanghai,  more consequential contest played  just steps away. Chinese officials unveiled plans    global governance body —  World AI Cooperation Organization (WAICO) — aimed  setting international standards  norms around artificial intelligence. Framed     prevent monopolies  foster inclusivity,  move  also  clear shot across Washington' :  declaration that China intends  just  compete  AI,   define  rules  global architecture.
+
+That same week,  United States released   high-level vision: Winning  Race: America' AI Action Plan. Spearheaded  AI czar David Sacks,  plan outlines  sweeping, three-pillared strategy focused  accelerating innovation, building infrastructure,  leading  international AI diplomacy. It   good start —  robust  ambitious document —   still reflects  fragmented  uneven approach.
+
+What  becoming clear  that  race  global AI leadership will    only  those  develop  most powerful models,   those   deploy them when  where they matter most. China' practical, application-first approach — deploying open-source AI  improve agriculture, logistics, education, public health,  other public services — makes  model especially attractive  countries seeking early, visible gains. Its export  utility  digital infrastructure — including power grids  smart city platforms  bundles like Huawei' compact "AI---" systems —  enabling even -resource nations such  Kenya, Thailand,  Egypt  scale AI applications without  need  expensive hyperscale data centers.
+
+To  clear, China' approach   without risk   users. Its AI systems often come bundled with surveillance tools, opaque financing,  long-term strategic dependencies. But  many global south countries, these  acceptable trade-offs  tangible benefits. Beijing  meeting rising demand  AI access  cost,  scale,   speed. In doing ,   turning AI access into  powerful instrument  soft power,  that fuses technological exports with influence over digital norms, governance preferences,  strategic alignment.
+
+By contrast,  U.S. approach remains overly anchored  Silicon Valley' commercial interests. American firms continue  lead  foundational models  generative AI,   strategy often fails  connect technological excellence with global deployment  development impact. Without  accessible, adaptable model that serves diverse needs,  U.S. risks ceding  AI frontier  China  default.
+
+With "Winning  Race AI Action Plan"    table, even with  imperfections, that   starting  change. Its pillars — innovation, infrastructure,  diplomacy — signal Washington' recognition that AI leadership demands more than cutting-edge research. It requires trusted systems, trusted rules,  trusted partnerships.
+
+-----
+https://www.cnbc.com/2025/08/08/trumps-russia-deadline-comes-around-with-tariffs-at-stake.html
+U.S. President Donald Trump speaks,   makes  announcement   economy,   Oval Office   White House  Washington, D.C., U.S., August 7, 2025.
+
+U.S. President Donald Trump' deadline  Russia  cease    Ukraine expires  Friday,  markets watch whether  White House will proceed with steep penalties  Moscow'  clients.
+
+Increasingly frustrated with  Kremlin, Trump  pledged "secondary tariffs"  "about 100%"  Russia' trade partners,  Moscow does    invasion  Ukraine, setting  initial 50- timeline that  later shortened.
+
+Trump  made ending    Ukraine   foreign policy objective   second presidential mandate, reversing course   initial thawing  White House relations with Moscow   pile  pressure   Kremlin   lull  diplomatic progress.
+
+At  heart  Russia  Ukraine' inability  strike  ceasefire  date have been differences over Putin' maximalist demands that    only   Kyiv gives   ambitions  join  NATO military alliance   Moscow retains four Ukrainian regions annexed during  latest conflict. Russia also seeks  final conclusion      previously called   elections  Ukraine.
+
+Earlier   week, U.S. Special Envoy Steve Witkoff travelled   eleventh-hour meeting with Putin, which Trump hailed  "highly productive."
+
+"Everyone agrees this War must come   close,   will work towards that   days  weeks  come,"  said Wednesday.
+
+Trump' optimism appeared  have dwindled  Thursday, despite suggestions that  U.S. president could meet  Russian counterpart over  coming days.
+
+Asked Thursday whether  stood   Friday deadline  Russian President Vladimir Putin, Trump said, "We' going   what    . It' going     . Very disappointed."
+
+At risk  Russia   potential dissolution   scant remaining client base   crude   products volumes, which countries within  G7   longer permitted  take   seaborne basis. Under  G7 scheme, nations outside   coalition retain critical access  Western shipping  insurance mechanisms  long  they only purchase Russian supplies under  price .
+
+Russia' sanctions-sapped economy heavily depends   crude sales, amid increasing isolation   international stage  dwindling growth expected near 1.4% this year, from 4.3%  2024, according   World Bank' June forecasts.
+
+-----
