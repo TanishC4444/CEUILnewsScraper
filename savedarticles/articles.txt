@@ -73212,3 +73212,554 @@ https://www.cnbc.com/2025/08/08/why-teslas-latest-move-could-be-a-boon-for-nvidi
 The   Tesla '  AI supercomputer efforts — where   developing   chips — means Elon Musk' company will become  even bigger customer  major chipmakers, according  Wells Fargo. Analyst Aaron Rakers highlighted Nvidia  Advanced Micro Devices  beneficiaries  Tesla' decision  shut down  custom-built AI training supercomputer Dojo team, which  first reported  Bloomberg  Thursday. Pete Bannon, Tesla hardware design engineering vice president,  leaving  company after joining from Apple  2016, CNBC confirmed. Remaining employees  being reassigned  Tesla, Bloomberg' report said, citing people familiar with  matter. Dojo'   " indication that  company  stepping back from  internal AI-optimized silicon efforts," said Rakers. "This should  viewed   positive  NVIDIA  AMD  this likely increases Tesla usage  general purpose GPUs  AI." Rakers highlighted that Tesla  been notably expanding  graphics processing units (GPU) infrastructure. Tesla  bought several thousands  Nvidia GPUs such   H100,   effort  scale  training compute power. "During  2Q25 earnings call, Tesla disclosed that  company  deployed  ~50k NVIDIA H100 training cluster Cortex. The same week Elon Musk posted that Tesla  deploying  ' 16k NVIDIA H200 GPUs   Texas Gigafactory; running  ~67k NVIDIA H100 equivalents," Rakers said. Musk said  early 2024 that while  Dojo supercomputer would cost $500 million  build, "Tesla will spend more than that  Nvidia hardware this year." Nvidia GPUs were being used  Tesla' other efforts beyond Dojo, such  training  inference   Grok AI chatbot. TSLA 1Y mountain Tesla stock performance over  past year. The analyst acknowledged that  Bloomberg report  markedly different from Musk' comments during Tesla' second-quarter earnings call, during which  said that  Dojo 2 supercomputer  expected  operate  scale next year  that  Dojo 3   Ai6 inference chip would find convergence, meaning they would integrate  some     same chip. Tesla' custom-designed Ai6 AI chip  intended  -vehicle inference  Tesla' Full Self-Driving system. The Dojo supercomputer  designed  train AI models  data captured  Tesla vehicles,   been part  Musk' heavy emphasis  investors over  last year that Tesla   artificial intelligence  robotics company,  just  electric vehicle company. Tesla shares edged slightly lower before Friday' market open. The stock  down about 20% year  date.
 
 -----
+
+==== 🕒 Run at 2025-08-08T14:29:29.806260 ====
+https://www.bbc.com/news/articles/cjw6qj990lno?at_medium=RSS&at_campaign=rss
+NCA  investigate police officer  abuse claims
+
+13 minutes  Share Save David Spereall BBC News, Yorkshire Share Save
+
+Getty Images Five women  were exploited  grooming gangs  Rotherham  children  they were also abused  police officers
+
+The National Crime Agency (NCA) will take over  investigation into allegations that South Yorkshire Police officers sexually abused children  Rotherham. The BBC reported  July   five women  were exploited  grooming gangs  children have said they were also abused  police officers   town   1990s  early 2000s. South Yorkshire Police initially said  would look   claims,  subsequently faced calls   removed from  investigation   interests  transparency. The NCA said  would ensure "victims remain   heart  this investigation".
+
+Three former police officers have   been arrested  connection with  allegations. Assistant Chief Constable Hayley Barnett said  force  requested that  NCA take over  investigation. She said: "Concerns around  mode  investigation have   force,    victim survivors,   centre   narrative,  this fails  align with  truly victim-centred investigation. "I  also mindful there   chance that some victim survivors   suffering  silence  unwilling  make  report   result  SYP' involvement." Prof Alexis Jay,    landmark 2014 report which exposed  scale   scandal,  told  BBC   "shocked"  force  investigating   former officers. The Shadow Home Secretary Chris Philp  also called   separate body  lead  probe, saying there could   "conflicts  interest". Switalskis,  solicitors representing survivors, welcomed  development   "step   right direction".
+
+-----
+https://www.bbc.com/news/articles/cvgv9jj9np7o?at_medium=RSS&at_campaign=rss
+Israel' Gaza City plan means more misery  Palestinians   risk  Netanyahu
+
+About  million people still live  Gaza City, which  already seen widespread damage   Israeli bombardment
+
+News   Israeli government' decision  take over Gaza City  being   surprisingly with despair  Gaza. Gaza City,  capital,    countdown  oblivion.
+
+Assuming that Hamas does  capitulate   coming weeks –  there  currently  signs  this happening – then  Israeli military    embark   devastating  phase   .
+
+For Gaza City, where  estimated  million civilians still live,  prospects  bleak.
+
+Hundreds  thousands  people  were forced  flee during  early months      returned  January when  ceasefire raised hopes      fighting.
+
+They spent more than  year away from their homes, driven from  location  another, living  increasingly desperate conditions.
+
+When they returned   north, many found their homes destroyed  their neighbourhoods erased. But they settled down where they could, believing   might finally  over.
+
+But life   city, hard enough already, deteriorated rapidly after Israel broke  ceasefire  -March     supplies, triggering  worst humanitarian crisis   conflict.
+
+Now  seems   cycle  about  unfold.
+
+The Israeli government  once again going  attempt  force Gaza City' entire population  move south,  process which reports suggest could  completed   months.
+
+Expect   curfews, evacuation orders  convoys  exhausted civilians   road once more.
+
+Last time, evacuees were able  seek shelter  cities like Khan Younis  Rafah. But those cities have been almost entirely obliterated, raising serious questions about where fleeing civilians will live.
+
+Israel says more  will  available,   given  details.
+
+-----
+https://www.bbc.com/news/articles/cr4ez9pn9z6o?at_medium=RSS&at_campaign=rss
+River Island allowed  shut shops  stave  collapse
+
+As well  closing shops, rents will  reduced   further 71 branches  part   plan which, River Island' chief executive Ben Lewis, said "will enable   align  store estate   customers' needs".
+
+It  warned  creditors that  could  short  cash     August   turnaround proposal   approved.
+
+The High Street brand said  customer shift towards online shopping  higher operating costs  contributed  multi-million pound losses.
+
+River Island  been given  green light  close 33 stores across  UK after  High Court approved  fashion retailer' restructuring plans.
+
+Negotiations    begin with those landlords shortly.
+
+As well   store closures  rent reductions, about 110  roughly 950 roles  River Island' head office will  made redundant, saving  estimated £8.1m.
+
+The retailer  already closed seven loss-making shops this year, River Island' barrister Matthew Weaver KC told  High Court.
+
+He said that unless  restructure  approved,  alternative  insolvency.
+
+Mr Lewis said  company   "clear transformation strategy"  ensure  business   future, " this decision gives   strong platform  deliver this".
+
+Charles Allen,  intelligence analyst  Bloomberg, said River Island  been suffering from issues felt  many UK retailers, such   shift  online shopping.
+
+"There' just less business going  shops,"  told BBC' Today programme. He added that rising costs have also been exacerbated   increase  employer National Insurance Contributions.
+
+Originally known  Chelsea Girl,   rebranded  1988  River Island  grew steadily,   recent years  experienced declining sales, Mr Weaver said.
+
+The restructuring will involve closing 33 stores from January 2026,  negotiating with  landlords   further 71 stores  reduce rents  some cases  zero.
+
+Mr Weaver acknowledge that  some cases, landlords  prefer  regain shop space before    leases.
+
+With  restructure,  company  forecasting 1% annual growth   next five years.
+
+-----
+https://www.bbc.com/sport/football/articles/c36j5g8r2z0o?at_medium=RSS&at_campaign=rss
+Arsenal teenager Ethan Nwaneri  signed   five-year contract which will keep    Premier League club until  summer  2030.
+
+The 18-year-' previous deal  been   expire  June 2026.
+
+"It means everything  , I'  happy  have   done. This  where I feel  home,  where I' going  develop  best,"  said.
+
+"I' very excited. I  this   first real season  part   proper squad   changing room. I'  excited  what I  bring   team   I  help  team.
+
+"I think I' actually become more direct over  past  years  I' added more goals,  I' excited  what will come next."
+
+Nwaneri made headlines when  became  youngest player ever  appear   Premier League aged 15 years  181 days  against Brentford  September 2022.
+
+And  attacking midfielder made 37 appearances  scored nine goals   competitions during  breakthrough campaign   Gunners last term.
+
+He capped  fine 2024-25 season  helping England Under-21s defend their European Championship title  Slovakia  June.
+
+-----
+https://www.pbs.org/newshour/world/germany-halts-exports-of-military-equipment-to-israel-until-further-notice
+BERLIN (AP) — Germany will  authorize  exports  military equipment that could  used  Gaza “until further notice,” Chancellor Friedrich Merz announced Friday,   strikingly quick response    Israel’ strongest international backers   decision  Prime Minister Benjamin Netanyahu’ Cabinet  take over Gaza City.
+
+The move  Germany, which  previously stopped short  tougher lines against Israel’ government taken  some   European Union allies, appeared likely  further isolate Israel   wake   military takeover plan that  been decried   United Nations,   human rights groups,  supporters  Israeli hostages still held  Gaza, among others.
+
+READ MORE: Israel plans  take over Gaza City, escalating  with Hamas  fueling worries  hostages
+
+In  statement, Merz emphasized that Israel “  right  defend itself against Hamas’ terror”  said that  release  Israeli hostages  purposeful negotiations toward  ceasefire   22-month conflict “   priority.” He said Hamas must  have  role   future  Gaza.
+
+“The even harsher military action   Israeli army   Gaza Strip, approved   Israeli Cabinet last night, makes  increasingly difficult   German government    these goals will  achieved,”  added. “Under these circumstances,  German government will  authorize  exports  military equipment that could  used   Gaza Strip until further notice.”
+
+It   immediately clear which military equipment from Germany would  affected.
+
+The weight  responsibility
+
+The German government remains deeply concerned about  suffering  civilians  Gaza, Merz said, adding: “With  planned offensive,  Israeli government bears even greater responsibility than before  providing  their needs.”
+
+He called  Israel  allow comprehensive access   deliveries — including  U.N. organizations  other NGOs —  said Israel “must continue  comprehensively  sustainably address  humanitarian situation  Gaza.”
+
+The move  particular weight because Germany  been seen    Israel’ strongest supporters — arguably surpassed only   United States. Germany  maintained  strongly -Israel stance  decades largely because   historical responsibility   Holocaust, which  shaped  postwar foreign policy around ensuring Israel’ security  combating antisemitism.
+
+WATCH: Mideast experts analyze consequences  Israel considers full Gaza occupation
+
+Merz’ government   join announcements  President Emmanuel Macron   German ally France  Britain’ Keir Starmer that they plan  formally recognize  Palestinian state  September.
+
+The reluctance   that   EU’ biggest economic power  take  tougher line   actions  Netanyahu’ government clouded  prospects that international pressure might have  impact  Israel’ decisions.
+
+Israel’   ground   already killed tens  thousands  people  Gaza, displaced most   population, destroyed vast areas  pushed  territory toward famine. The campaign  triggered when Hamas- militants stormed into Israel  Oct. 7, 2023, killing around 1,200 people  abducting 251 people.
+
+Merz also called  Israel’ government “  take  further steps toward annexing  West Bank.”
+
+Other European countries express their concerns
+
+Dutch Foreign Minister Caspar Veldkamp said  X that Netanyahu’ plan  intensify operations  Gaza “  wrong move.” He added that “ humanitarian situation  catastrophic  demands immediate improvement. This decision    contributes  this  will also  help    hostages home.”
+
+Danish Foreign Minister Lars Løkke Rasmussen  quoted  public broadcaster DR  saying: “The Israeli government’ decision  intensify  military operation  Gaza  wrong. It will only lead  even greater suffering   civilian population.”
+
+Last week, even before  Gaza City takeover plane, Slovenia announced  will   import, export  transit   weapons   from Israel  response   country’ actions  Gaza — saying    first EU member country   .
+
+READ MORE: Egypt’ foreign minister says  West’ response  Gaza suffering  shameful
+
+Last month,  dozen mostly European countries condemned Israel’ restrictions   shipments into Gaza   killings  hundreds  Palestinians trying  reach food.
+
+Outrage over Israel’ actions  Gaza  grown  Europe  images  suffering Palestinians have driven protests  London, Berlin, Brussels  other capitals. More recently, almost-daily killings  Palestinians while seeking  have tested  EU’ friendly relationship with Israel like never before.
+
+The Israeli decision, taken after  late-night meeting   officials, came despite mounting international calls      protests  many  Israel  fear   remaining hostages held  Hamas. Tens  thousands  Palestinians  bracing  once again  forced from their homes, while families   hostages fear their loved ones ’ return.
+
+Most   hostages have been released  ceasefires  other deals  50 remain inside Gaza. Israel believes around 20  them   alive.
+
+The timing  another major Israeli ground operation remains unclear since  will likely hinge  mobilizing thousands  troops  forcibly evacuating civilians, almost certainly exacerbating  humanitarian catastrophe.
+
+-----
+https://abcnews.go.com/Politics/trumps-deadline-arrives-putin-agree-ceasefire-face-sanctions/story?id=124479057
+Uncertainty remains   whether  U.S. will  Russia with more penalties.
+
+Trump' deadline arrives  Putin  agree   ceasefire  face sanctions
+
+Donald Trump  Russia' President Vladimir Putin talk during  family photo session   APEC Summit  Danang, Vietnam November 11, 2017.
+
+Donald Trump  Russia' President Vladimir Putin talk during  family photo session   APEC Summit  Danang, Vietnam November 11, 2017.
+
+Donald Trump  Russia' President Vladimir Putin talk during  family photo session   APEC Summit  Danang, Vietnam November 11, 2017.
+
+Donald Trump  Russia' President Vladimir Putin talk during  family photo session   APEC Summit  Danang, Vietnam November 11, 2017.
+
+President Donald Trump' Friday deadline  arrived  Russia' Vladimir Putin  agree   ceasefire with Ukraine  face "secondary sanctions" against countries that   from Russia.
+
+But uncertainty remains   whether  U.S. will  Moscow with  economic penalties amid talk   possible bilateral meeting between Trump  Putin happening soon.
+
+Trump  Thursday  asked directly   Aug. 8 deadline  Putin  make peace  face consequences still applied.
+
+"It' gonna    ,"  president responded. "We’ going   what    . It’ gonna    . Very disappointed.”
+
+The White House  pushing   trilateral summit between Trump, Putin  Ukrainian President Volodymyr Zelenskyy, though Trump said Putin meeting with Zelenskyy wasn'  condition    Putin  meet.
+
+"They would like  meet with   I'  whatever I   stop  killing," Trump said  Thursday.
+
+Donald Trump  Russia' President Vladimir Putin talk during  family photo session   APEC Summit  Danang, Vietnam November 11, 2017. Jorge Silva/Reuters
+
+Trump,  once said  could   Russia-Ukraine  within  first 24 hours  office  touted  personal relationship with Putin,  expressed increasing frustration with  Russian leader.
+
+In -July, Trump said   giving Putin  50- ultimatum  stop  fighting. He then moved   timeline  10 days, citing  disappointment with Putin.
+
+“I want   generous,   just ’   progress being made,” Trump said   time. “I’   interested  talking anymore. He talks,  have such nice conversations, such respectful  nice conversations,  then people   following night   -- with  missile going into  town  hitting.”
+
+Tensions between  U.S.  Russia escalated last week when Trump announced   moving nuclear submarines  response  what  called "highly provocative statements" from  deputy chair  Russia' security council, Dmitry Medvedev.
+
+Medvedev, also  former president  Russia,  sounded   Trump' ceasefire deadline, writing  social media that "each  ultimatum   threat   step towards ."
+
+While Trump said  nuclear submarines would  moved  response,    White House would  specify what capabilities  submarines have  other questions surrounding  announcement.
+
+And earlier this week, Trump indirectly upped  pressure  Russia  doubling  tariff rate against India over India' imports  Russian .
+
+-----
+https://abcnews.go.com/US/wireStory/trump-host-armenia-azerbaijan-white-house-peace-summit-124480815
+President Donald Trump will convene  peace summit   White House with  leaders  Armenia  Azerbaijan
+
+Trump will host Armenia  Azerbaijan   White House peace summit   decades  conflict
+
+President Donald Trump speaks   event  mark National Purple Heart Day   East Room   White House, Thursday, Aug. 7, 2025,  Washington. (AP Photo/Mark Schiefelbein)
+
+President Donald Trump speaks   event  mark National Purple Heart Day   East Room   White House, Thursday, Aug. 7, 2025,  Washington. (AP Photo/Mark Schiefelbein)
+
+President Donald Trump speaks   event  mark National Purple Heart Day   East Room   White House, Thursday, Aug. 7, 2025,  Washington. (AP Photo/Mark Schiefelbein)
+
+President Donald Trump speaks   event  mark National Purple Heart Day   East Room   White House, Thursday, Aug. 7, 2025,  Washington. (AP Photo/Mark Schiefelbein)
+
+WASHINGTON -- President Donald Trump will convene  peace summit   White House  Friday with  leaders  Armenia  Azerbaijan that  meant   decades  conflict  reopen  transportation routes   region.
+
+The  countries   South Caucasus region will sign  agreement that will create  major transit corridor that will  named  Trump Route  International Peace  Prosperity,  White House said. That route will connect mainland Azerbaijan   autonomous Nakhchivan region,  demand   capital, Baku, that  held  peace talks between   nations.
+
+“The roadmap they  agreeing  will build  cooperative future that benefits both countries, their region   South Caucasus  beyond," White House spokeswoman Anna Kelly said Friday. She added that   transit corridor will “allow unimpeded connectivity between   countries while respecting Armenia' sovereignty  territorial integrity   people."
+
+Azerbaijan  Nakhchivan  separated   32-kilometer (20-mile) patch  Armenia’ territory.
+
+Separate from  joint agreement, both Armenia  Azerbaijan will sign deals with  United States meant  bolster cooperation  energy, technology   economy,  White House said.
+
+Trump previewed much  Friday’ plan   social media post Thursday evening, saying   leaders would participate   peace ceremony  sign economic agreements with  U.S. that would “fully unlock  potential   South Caucasus Region.”
+
+“Many Leaders have tried    War, with  success, until , thanks  ‘TRUMP,’” Trump said   Truth Social site.
+
+The Republican president will first meet with Armenian Prime Minister Nikol Pashinyan  then will host Azerbaijan' president, Ilham Aliyev. Finally,  three leaders will participate   joint signing ceremony   State Dining Room.
+
+The  nations have been locked  conflict  nearly four decades  they fought  control   Karabakh region, known internationally  Nagorno-Karabakh.
+
+The area  largely populated  Armenians during  Soviet    located within Azerbaijan. The  nations battled  control   region through multiple violent clashes that left tens  thousands  people dead over  decades,  while international mediation efforts failed.
+
+Most recently, Azerbaijan reclaimed   Karabakh  2023   been  talks with Armenia  normalize ties.
+
+The signing   deal between Armenia  Azerbaijan also marks  geopolitical blow  their former imperial master, Russia. Throughout  nearly four-decade conflict, Moscow played mediator  expand  clout   strategic South Caucasus region,   influence waned quickly after  launched  full-scale invasion  Ukraine  February 2022.
+
+Moscow stood back when Azerbaijan reclaimed control   Karabakh region   blitz offensive  September 2023, angering Armenia, which  moved  shed Russian influence  turn westward. Azerbaijan, emboldened   victory  Karabakh, also  become increasingly defiant  relations with Moscow.
+
+-----
+https://abcnews.go.com/International/wireStory/israel-plans-gaza-city-pressure-hamas-worries-rise-124473182
+Israel plans  take over Gaza City  pressure Hamas. Worries rise  civilians  hostages
+
+JERUSALEM -- Israel said Friday  will intensify  22-month  with Hamas  taking over Gaza City, drawing  dismissal from  militant group  renewed international calls    conflict, while stirring fears  Palestinian civilians  Israeli hostages still held  Gaza.
+
+Israel’   ground   already killed tens  thousands  people  Gaza, displaced most   population, destroyed vast areas  pushed  territory toward famine. The timing  another major ground operation remains unclear since  will likely hinge  mobilizing thousands  troops  forcibly evacuating civilians, almost certainly exacerbating  humanitarian catastrophe.
+
+Mediators from Egypt  Qatar  working    framework that will include  release   hostages — dead  alive —     return        Gaza   withdrawal  Israeli forces from  strip,  Arab officials told The Associated Press.
+
+Before Israel' Security Cabinet approved  plan  take over Gaza City, Prime Minister Benjamin Netanyahu  outlined more sweeping plans Thursday   interview with Fox News, saying Israel planned  take control    Gaza. Israel already controls around three-quarters   territory.
+
+Hamas rejected Israel’ plans   statement. “Expanding  aggression against  Palestinian people will    walk   park,”  group said.
+
+An expanded offensive could widen discord between Israel  international powers, which have stepped  criticism    amid mounting shock over media reports showing starvation.
+
+Britain urged Israel  reconsider,  Germany said  would  authorize  export  military equipment that could  used  Gaza until further notice.
+
+“The even harsher military action   Israeli army   Gaza Strip, approved   Israeli Cabinet last night, makes  increasingly difficult   German government    these goals will  achieved,” Chancellor Friedrich Merz said.
+
+Tensions could rise further  Netanyahu follows through   more sweeping plans  take control   entire territory,  decades after Israel’ unilateral withdrawal from  strip.
+
+Asked   interview with Fox News ahead   Security Cabinet meeting  Israel would “take control    Gaza,” Netanyahu replied: “We intend ,  order  assure  security, remove Hamas there.” He added that Israel   intend  “keep .”
+
+Israel'  plan stopped short  that,    aimed  part  pressuring Hamas  accept  ceasefire  Israel' terms.
+
+It  also reflect  reservations  Israel’ military chief  staff, Lt. Gen. Eyal Zamir,  reportedly warned that expanding operations would endanger  remaining 20   living hostages held  Hamas  further strain Israel’ army after nearly  years  regional wars.
+
+The military “will prepare  take control  Gaza City while providing humanitarian    civilian population outside  combat zones,” Netanyahu' office said   statement after  meeting.
+
+Amir Avivi,  retired brigadier general  chairman  Israel’ Defense  Security Forum, estimated  would take less than three months  mobilize some 30,000 troops, evacuate Palestinian civilians  take over Gaza City.
+
+Hamas- militants triggered   when they stormed into Israel  Oct. 7, 2023, killing around 1,200 people  abducting 251 people. Most   hostages have been released  ceasefires  other deals  50 remain inside Gaza. Israel believes around 20  them   alive.
+
+The efforts    ceasefire have  backing  major Arab Gulf monarchies, according  officials  spoke anonymously    sensitivity   discussions. One  involved directly   deliberations   second  briefed   efforts. The monarchies  concerned about further regional destabilization  Israel’ government proceeds with  full reoccupation  Gaza,  officials said.
+
+The -- finalized framework aims  address  contentious issue  what   with Hamas’ weapons, with Israel seeking full disarmament  Hamas refusing. The official directly involved   efforts said discussions  underway about “freezing arms,” which  involve Hamas retaining   using  weapons. It also calls   group  relinquish power   strip.
+
+A Palestinian-Arab committee would  Gaza  oversee  reconstruction efforts until  establishment   Palestinian administration with   police force, trained   U.S. allies   Middle East,  take over  strip,  said. It  unclear what role  Western-backed Palestinian Authority would play.
+
+The second official said  U.S. administration  been briefed   broad lines   framework.
+
+A senior Hamas official, speaking  condition  anonymity because  wasn’ authorized  brief  media, said  group’ leadership  been aware   Arab mediators’ efforts  revive  ceasefire talks,     receive details.
+
+AP reached    governments  Qatar, Egypt  Israel  well   White House  comment.
+
+U.S. envoy Steve Witkoff told hostage families during  recent visit that Israel  shifting  approach  pursue  comprehensive “--nothing” deal aimed  ending    securing  release  hostages,  person  attended  meeting told  AP, speaking   condition  anonymity  they were  authorized  speak about  private meeting.
+
+Israel  repeatedly bombarded Gaza City  carried  numerous raids there, only  return  neighborhoods again  again  militants regrouped. Today,       areas  Gaza that hasn’ been turned into  Israeli buffer zone  placed under evacuation orders.
+
+A major ground operation there could displace tens  thousands  people  further disrupt efforts  deliver food   hunger-stricken territory.
+
+It’ unclear  many people reside   city, which  Gaza’ largest before  . Hundreds  thousands fled under evacuation orders   opening weeks   conflict,  many returned during  ceasefire   start  this year.
+
+Palestinians were already anticipating even more suffering ahead   decision,   least 42 were killed  Israeli airstrikes  shootings  Thursday, according  local hospitals.
+
+“There  nothing left  occupy,” said Maysaa -Heila,   living   displacement camp. “There   Gaza left.”
+
+Of those killed Thursday, Nasser Hospital said  least 13 were seeking    Israeli military zone  southern Gaza where U.N.  convoys  regularly overwhelmed  hungry crowds  people stealing food  resell . Another  were killed  roads leading  nearby sites    Israeli-backed Gaza Humanitarian Foundation,  American contractor, according   hospital, which received  bodies.
+
+GHF said there were  violent incidents   near  sites  Thursday. Israel’ military said  forces   fire   morning  that  knew   encounters   area. The military zone, known   Morag Corridor,   limits  independent media.
+
+Israel’ military offensive  killed over 61,000 Palestinians, according  Gaza’ Health Ministry, which does    many were fighters  civilians. The ministry  part   Hamas- government  staffed  medical professionals.
+
+The United Nations  independent experts view  ministry’ figures   most reliable estimate  casualties. Israel  disputed them without offering  toll   .
+
+___
+
+Shurafa reported from Deir -Balah, Gaza Strip,  Magdy from Cairo. Associated Press writers Danica Kirka  London, Michelle Price  Washington, Joseph Krauss  Ottawa, Ontario, Sam Mednick  Tel Aviv, Israel  Fanny Brodersen  Berlin contributed.
+
+___
+
+Follow AP’  coverage  https://apnews.//israel-hamas-
+
+-----
+https://abcnews.go.com/Business/wireStory/boars-head-plans-reopen-troubled-deli-meat-plant-124482178
+The Boar' Head deli meat plant   heart   deadly food poisoning outbreak    reopen   coming months
+
+The entrance   Boar' Head deli meat plant  seen  New Castle, Ind., Wednesday, Aug. 6, 2025. (AP Photo/Michael Conroy)
+
+The entrance   Boar' Head deli meat plant  seen  New Castle, Ind., Wednesday, Aug. 6, 2025. (AP Photo/Michael Conroy)
+
+The entrance   Boar' Head deli meat plant  seen  New Castle, Ind., Wednesday, Aug. 6, 2025. (AP Photo/Michael Conroy)
+
+The entrance   Boar' Head deli meat plant  seen  New Castle, Ind., Wednesday, Aug. 6, 2025. (AP Photo/Michael Conroy)
+
+The Boar' Head deli meat plant   heart  last year' deadly food poisoning outbreak    reopen   coming months, company officials said.
+
+But recent inspections  Boar’ Head sites  three states documented sanitation problems similar  those that    listeria contamination that killed 10 people  sickened dozens.
+
+The Jarratt, Virginia, plant  shut down  September when U.S. Agriculture Department officials suspended operations  withdrew  federal marks  inspection required  operate, saying  company “failed  maintain sanitary conditions.” Boar’ Head permanently stopped making liverwurst  recalled more than 7 million pounds  deli products.
+
+USDA officials this week said they  “thoroughly reviewed”  plant  lifted  forced suspension  July 18.
+
+“The facility   full compliance   guidelines  protocols    safe handling  production  food   serious issues that   suspension have been fully rectified,” officials with  USDA' Food Safety  Inspection Service said   email Wednesday.
+
+And , documents obtained  The Associated Press through  freedom  information request show that Boar’ Head plants  Arkansas, Indiana  elsewhere  Virginia were flagged   same kinds  sanitation problems that    outbreak, with  most recent report  June.
+
+In  past seven months, government inspectors reported problems that include instances  meat   residue left  equipment  walls, drains blocked with meat products, beaded condensation  ceilings  floors, overflowing trash cans,  staff  didn’ wear protective hairnets  plastic aprons —  wash their hands.
+
+The records, which included USDA noncompliance reports logged  inspectors from Jan. 1 through July 23, raise  questions about  company' promises  address systemic problems  about federal oversight  listeria contamination  plants that make ready-- foods.
+
+“If there  evidence that food safety problems  continuing,  government needs  make sure  company fixes them,” said Sandra Eskin,  former USDA official   heads STOP Foodborne Illness,  consumer group focused  food safety.
+
+Agriculture Secretary Brooke Rollins last month announced plans  bolster efforts that combat foodborne germs, including listeria.
+
+Officials  Boar' Head,  120-year- company based  Sarasota, Florida, have posted  openings   dozen positions, including  food safety quality analyst,   Jarratt site.
+
+The company convened  panel  expert advisers last fall  hired  chief food safety officer  May. The advisers include Frank Yiannas,  former U.S. Food  Drug Administration official,  Mindy Brashears, President Donald Trump' nominee  USDA' undersecretary  food safety.
+
+Boar' Head last year said they “regret  deeply apologize"   contamination  that “comprehensive measures  being implemented  prevent such  incident from ever happening again.”
+
+But company officials refused  discuss  problems found this year. They canceled  scheduled AP interview with Natalie Dyenson,   food safety officer. And they declined  allow Yiannas  detail  investigation   into  contamination' cause.
+
+Brashears,   directs  food safety center  Texas Tech University,   respond  requests  comment about  Boar' Head problems. An automatic email reply said  USDA nominee  traveling    country until Aug. 25. She remains   company' food safety board.
+
+“Boar’ Head   unwavering commitment  food safety  quality. That commitment  reflected  recent enhancements   practices  protocols" described   company' website, Boar' Head said   emailed statement.
+
+"We have also been working with  USDA  developing  plan  reopen  Jarratt facility   measured, deliberate    coming months,”  statement said.
+
+The 35 pages   inspection findings cover Boar' Head sites  Forrest City, Arkansas; New Castle, Indiana;  Petersburg, Virginia.
+
+They surprised outside food safety advocates,  said that factory conditions should have improved   year since  outbreak  first identified.
+
+“You would have expected after  they went through that they would  themselves   place where  could essentially  deli meat   factory floor,” said Brian Ronholm, director  food policy  Consumer Reports,  advocacy group.
+
+Rep. Rosa DeLauro called  findings “appalling.”
+
+“This   pattern  negligence — cutting corners  protect  company’ bottom line   expense  consumers  these conditions show  complete disregard  food safety    public health   American people,”  Connecticut Democrat said   statement.
+
+The findings echo  “inadequate sanitation practices” that USDA officials said contributed   outbreak. Key factors included product residue, condensation  structural problems   buildings,  January report concluded.
+
+At  Jarratt plant, state inspectors working  partnership with USDA  documented mold, insects, liquid dripping from ceilings,  meat   residue  walls, floors  equipment,  AP previously reported.
+
+While  instances  insects were documented  this year' inspection reports, there were repeated reports  “dried   protein from  previous ' production”  equipment, stairs  walls. In April,  inspector   Petersburg plant reported finding discarded meat underneath equipment, including “5-6 hams, 4 large pieces  meat   large quantity  pooling meat juice.”
+
+Other reports detailed beaded condensation “directly over  food contact surfaces  tables  conveyor belts.” Additional reports documented rusting meat racks, doors that failed  close completely  staff  ignored required handwashing stations.
+
+The reports point   “food safety culture problem,” said Barbara Kowalcyk,  directs  food safety  nutrition security center  George Washington University.
+
+“What jumped     there   organizational culture issue that needs   changed,”  said. “Usually that culture   start   .”
+
+In  meantime,  advised consumers  think carefully about deli meat consumption. Older people  those   pregnant  have weakened immune systems  especially vulnerable  serious illness from listeria infections.
+
+“I think they need   aware that there  issues  this organization that still   completely under control, apparently,” Kowalcyk said.
+
+Boar' Head faced multiple lawsuits from people  fell   from  families  those  died. Several survivors declined  comment publicly    problems, citing financial settlements with  company that included nondisclosure agreements.
+
+___
+
+The Associated Press Health  Science Department receives support from  Howard Hughes Medical Institute’ Department  Science Education   Robert Wood Johnson Foundation. The AP  solely responsible   content.
+
+-----
+https://abcnews.go.com/Technology/wireStory/summers-best-meteor-shower-peaks-moon-interfere-viewing-124480060
+The Perseid meteor shower  peaking soon
+
+Summer' best meteor shower peaks soon. But  moon will interfere with viewing  Perseids
+
+In this long-exposure photo,  meteor streaks across  , seen above palm trees,  Bal Harbour, Fla., early Monday, Aug. 13, 2018, during  Perseid meteor shower. (AP Photo/Wilfredo Lee)
+
+In this long-exposure photo,  meteor streaks across  , seen above palm trees,  Bal Harbour, Fla., early Monday, Aug. 13, 2018, during  Perseid meteor shower. (AP Photo/Wilfredo Lee)
+
+In this long-exposure photo,  meteor streaks across  , seen above palm trees,  Bal Harbour, Fla., early Monday, Aug. 13, 2018, during  Perseid meteor shower. (AP Photo/Wilfredo Lee)
+
+In this long-exposure photo,  meteor streaks across  , seen above palm trees,  Bal Harbour, Fla., early Monday, Aug. 13, 2018, during  Perseid meteor shower. (AP Photo/Wilfredo Lee)
+
+WASHINGTON -- Summer' most dazzling meteor shower,  Perseids, peaks soon.
+
+This year,  bright moon will dampen viewing   time  peak early Wednesday morning,  some experts recommend waiting  week    glimpse shooting stars against  darker .
+
+The Perseids "  incredible meteor shower,” said Thaddeus LaCoursiere, planetarium program coordinator   Bell Museum  St. Paul, Minnesota.
+
+Under dark skies with  moon,  Perseids  produce between 60  100 meteors  hour,  said. Since  moon will  around 84% full during  peak, skywatchers might expect between 10  20 meteors  hour, according   American Meteor Society.
+
+“This year I’ actually recommending that people    little  later" —  week   past  peak when  moon will    bright, LaCoursiere said.
+
+Viewing   Perseids lasts until August 23.
+
+As  Earth orbits  , several times  year  passes through debris left  passing comets  sometimes asteroids.
+
+The source   Perseids  debris from comet 109P/Swift-Tuttle.
+
+When these fast-moving space rocks enter Earth’ atmosphere,  debris encounters  resistance from    becomes very , eventually burning .
+
+Sometimes  surrounding  glows briefly, leaving behind  fiery tail —     “shooting star.”
+
+You ’ need special equipment    various meteor showers that flash across annually, just  spot away from city lights.
+
+The best time  watch  meteor shower    early predawn hours when  moon     .
+
+Competing sources  light — such   bright moon  artificial glow —   main obstacles   clear view  meteors. Cloudless nights when  moon wanes smallest  optimal viewing opportunities.
+
+And keep looking ,  down. Your eyes will  better adapted  spot shooting stars   aren’ checking your phone.
+
+The next major meteor shower,  Orionids, peaks  late October.
+
+___
+
+The Associated Press Health  Science Department receives support from  Howard Hughes Medical Institute’ Science  Educational Media Group. The AP  solely responsible   content.
+
+-----
+https://www.cnbc.com/2025/08/08/chatgpt-gpt-5-openai-altman-loss.html
+OpenAI CEO Sam Altman  Friday said  artificial intelligence company should prioritize growth   investments  training  compute "  long time," even   delays  path  profitability.
+
+Last year, OpenAI  expecting about $5 billion  losses  $3.7 billion  revenue. OpenAI' annual recurring revenue    track  pass $20 billion this year,   company  still losing money.
+
+"As long  '  this very distinct curve   model getting better  better, I think  rational thing     just  willing    loss  quite  while," Altman told CNBC' "Squawk Box"   interview Friday following  release  GPT-5.
+
+GPT-5   company' latest  most advanced large-scale AI model   released  Thursday.
+
+-----
+https://www.cnbc.com/2025/08/08/sweetgreen-cuts-outlook-stock-drops.html
+
+You are a Current Events UIL question writer. Using only the information below (do not add outside details), generate as many multiple-choice current events questions as possible at an advanced (“very very very hard”) difficulty level.
+Requirements:
+- Each question must have a concise, high-level stem that tests deep understanding, synthesis, or nuance from the information.
+- Provide exactly four answer choices labeled A–D, with one clearly correct answer and three highly plausible distractors.
+- Distractors must be subtle, drawing on related details or common misconceptions found in the text.
+- Do not introduce any facts or context not present in the source material.
+- For each article or segment separated by a “––––––––––––––––––––––––”, generate at least one and up to three questions based solely on that segment.
+- At the end, include an Answer Key listing each question’s number, correct answer letter, and:
+    - A brief explanation citing the specific text evidence supporting the answer.
+    - The associated URL that corresponds to the source of the question (use the one placed above each dashed info section).
+
+Formatting:
+- Do not include citations, summaries, or explanations under each question.
+- Place all explanations and source URLs in the Answer Key only.
+- Do not include any additional commentary beyond the questions and the formatted Answer Key.
+Info: 
+
+
+Sweetgreen shares dropped more than 25%  Friday after  salad chain   2025 outlook   second quarter   , citing issues with  loyalty program, weak consumer sentiment, tariff headwinds  store challenges.
+
+For  full-year 2025, Sweetgreen  expects revenue  between $700 million  $715 million, down from  May prediction  $740 million  $760 million   February outlook  $760 million  $780 million.
+
+It also projects negative same-store sales   full year, estimating declines  between 4%  6%, down from  original outlook  single-digit growth. Restaurant-level profit margin  2025  expected   200 basis points lower than Sweetgreen' latest outlook  May. That includes  40 basis-point     impact  tariffs.
+
+On  Thursday call with analysts, CEO Jonathan Neman said Sweetgreen   "really, really rough quarter."
+
+He said both external headwinds  internal actions played  role   performance, including " more cautious consumer environment starting  April, lapping  tough comparison with last year' successful steak launch   transition    loyalty program   beginning   quarter."
+
+The company reported  second-quarter earnings  revenue miss, reporting  loss  20 cents  share versus  12-cent loss expected  analysts surveyed  LSEG. Revenue came   $186 million compared with  LSEG estimate  $192 million.
+
+Same-store sales dropped 7.6% during  quarter, significantly underperforming  same quarter  year earlier when  company reported  same-store sales increase  9.3%. Analysts were expecting  second-quarter decline  5.5%, according  StreetAccount.
+
+Executives said "loyalty headwinds" played   role   results. Neman said  transition from  Sweetgreen+ subscription program    program, SG Rewards, generated  250 basis-point headwind   company' second-quarter same-store sales. He said Sweetgreen   falloff  revenue from that small  high-frequency cohort  Sweetgreen+ customers,   said  believes  impact will  temporary.
+
+Going forward, company leaders said they  focused  improving customer satisfaction  operations  stores.
+
+Neman told investors  Thursday that only -third  restaurants  performing   above standards, while  remaining -thirds "represent  meaningful opportunity  improvement."
+
+He said  company  aiming  improve operations through  leadership    COO, Jason Cochran,   launch    program called Project One Best Way, focused  improving speed  food standards  increasing portion sizes.
+
+Consumer sentiment  played  role   company' performance. Reback said pressure  consumer spending  persisted longer than expected.
+
+"It' pretty obvious that  consumer     great place overall," Neman added.
+
+-----
+https://www.cnbc.com/2025/08/08/why-its-so-difficult-to-manufacture-in-the-us.html
+At  540,000-square-foot facility  Seymour, Indiana, Guardian Bikes  pulling   unique challenge: making children' bikes  America. The company says  produces about 12,000 bikes  week,  manufacturing feat that  become increasingly uncommon   U.S.
+
+"All   back  World War II , pretty much every bike sold   United States  made   U.S.," said Guardian Bikes -founder  CEO Brian Riley. "By  time     '70s, '80s, '90s,   evaporated."
+
+Over  last four decades, many American factories have shut down  production moved overseas  search  cheaper labor  larger supplier networks. Between 1997  2023  number  U.S. manufacturing firms  plants dropped  25%  global trade barriers fell, according   World Resources Institute.
+
+Now,  companies like Apple , IBM  Johnson & Johnson pledge billions towards U.S. manufacturing  politicians call  reshoring, Guardian offers  glimpse into  possibilities  difficulties  being "Made  America."
+
+"It wasn' easy," said Riley. "It even took kind  getting into losing money   little ."
+
+Guardian Bikes used  rely   Chinese original equipment manufacturer (OEM)  build  product based  specifications provided  Guardian. But long shipping times  quality concerns prompted  pivot.
+
+Starting  2022, Guardian opened   plant   Midwest with  help  $19 million  financing from JPMorgan. Riley said  higher cost  producing domestically  offset  automation, lower inventory costs,   some cases, tariffs.
+
+"With  most recent tariff environment, ' starting   either cost parity   some cases,  domestic parts  cheaper than what      China," said Riley.
+
+But building  domestic supply chain from scratch ' easy. Many parts, like bicycle chains  reflectors,   longer made   U.S.  scale.
+
+Experts  finding input suppliers    many challenges companies face  bringing manufacturing back   U.S. Meanwhile, countries like China  Vietnam have become manufacturing powerhouses, investing billions more  factories  training.
+
+Even with  tariffs  federal subsidies under  CHIPS Act, some economists remain skeptical   true U.S. "manufacturing renaissance."
+
+"Think about  much  pair  sneakers would cost  they were made here   United States,   phone   number   items that     retail store  purchase. It would    more expensive," said Colin Grabow, associate director   Cato Institute' Herbert A. Stiefel Center  Trade Policy Studies. "So  should  welcome  fact that goods  being produced   most efficient ways possible, because that lowers prices    allows   raise  standard  living."
+
+To learn more about  Guardian Bikes  pulling  "Made  America," watch  video above.
+
+-----
+https://www.cnbc.com/2025/08/08/sam-altman-says-he-doesnt-think-about-elon-musk-that-much.html
+Sam Altman  dismissed longtime rival Elon Musk' warnings that OpenAI    dominate Microsoft, after  companies announced that OpenAI' latest AI model will  incorporated into Microsoft products.
+
+On Thursday, Microsoft CEO Satya Nadella announced that OpenAI' GPT-5 service would  launching across platforms including Microsoft 365 Copilot, Copilot, GitHub Copilot,  Azure AI Foundry — prompting  response from Musk that "OpenAI  going   Microsoft alive."
+
+Nadella sought  downplay  issue. "People have been trying  50 years  that'    ! Each   learn something ,  innovate, partner,  compete,"  said  X, also expressing excitement  Musk'  Grok 4 chatbot, which  available  Azure   limited preview.
+
+OpenAI CEO Altman shared   repartee  CNBC' "Squawk Box" Friday, saying, when asked  Musk' input, "You know, I ' think about  that much."
+
+He went   question  meaning  Musk' statements, also noting   tech billionaire, "I thought   just, like, tweeting   [ X] about  much OpenAI sucks,   model  , ,  know, [']  gonna   good company   that."
+
+CNBC  reached   Musk-owned X  comment.
+
+Altman  Musk have frequently exchanged barbs  part   long-storied feud that dates back  their disagreement over  ultimate mission  OpenAI, which they -founded  2015   nonprofit AI research .
+
+OpenAI  since been seeking  convert into  -profit entity  capitalize  meteoric demand   viral ChatGPT product, with Microsoft stepping     backer. Musk previously filed —   since dropped —  lawsuit against  company, citing breach  contract.
+
+Earlier this year,  Tesla boss also   consortium that offered  acquire  nonprofit that controls OpenAI  $97.4 billion. Altman declined  proposal with  curt " thank    will  twitter  $9.74 billion   want"  social media. He separately told CNBC   time that  thought  takeover offer   effort  "slow down  competitor."
+
+-----
+https://www.cnbc.com/2025/08/08/bank-of-england-governor-denies-rift-with-government-over-revolut.html
+Revolut cards  seen  this illustration photo taken  Krakow, Poland  March 29, 2024.
+
+LONDON — Bank  England Governor Andrew Bailey told CNBC there hasn' been  "falling " with  U.K. government over delays  fintech giant Revolut' long-awaited bank license.
+
+Last week,  Financial Times reported that  meeting arranged  British Finance Minister Rachel Reeves with Revolut   Prudential Regulation Authority (PRA) —     BOE that oversees banks —  cancelled after  intervention from Bailey.
+
+Authorizing Revolut   fully licensed bank  become  important issue   U.K. government, particularly   figures   tech industry have challenged  changes that affect  wealthy.
+
+However,   interview with CNBC' Ritika Gupta  Thursday, Bailey denied  suggestion that relations between  BOE  Treasury  soured over delays  Revolut' bank license approval process.
+
+"There' been  falling  between [Reeves]  I  this,  indeed  anything,"  said. "Actually,  have very good relations,  I think both  Bank   Treasury have made that clear."
+
+Bailey added that while  couldn' comment  much  Revolut specifically,  Prudential Regulation Authority  working things through with  digital banking startup during  "mobilization" process.
+
+-----
