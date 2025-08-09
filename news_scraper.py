@@ -150,6 +150,13 @@ def main():
                             existing_urls.add(article_url)
                             new_count += 1
                             print(f"✅ Added: {entry.title[:50]}...")
+                        elif feed_name == "Texas Tribune":
+                            f.write(f"Link: {article_url}\n")
+                            f.write(f"Article: {entry.get('summary', 'No summary')}\n\n")
+                            existing_urls.add(article_url)
+                            new_count += 1
+                            print(f"✅ Added: {entry.title[:50]} (Texas Tribune)...")
+
                         else:
                             print(entry.title)
                             print(f"⏭️  Filtered out: {entry.title[:50]}...")
