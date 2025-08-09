@@ -8,11 +8,31 @@ from functools import lru_cache
 # RSS feeds
 FEEDS = {
     "BBC": "http://feeds.bbci.co.uk/news/rss.xml",
+    "BBC World": "http://feeds.bbci.co.uk/world/rss.xml",
+    "MSNBC": "https://feeds.nbcnews.com/msnbc/public/news",
     "NPR": "https://feeds.npr.org/1001/rss.xml",
     "CNN": "http://rss.cnn.com/rss/cnn_topstories.rss",
     "PBS NewsHour": "https://www.pbs.org/newshour/feeds/rss/headlines",
     "Washington Post": "https://feeds.washingtonpost.com/rss/national",
     "NY Times": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "NY World": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+    "NY Africa": "https://rss.nytimes.com/services/xml/rss/nyt/Africa.xml",
+    "NY Americas": "https://rss.nytimes.com/services/xml/rss/nyt/Americas.xml",
+    "NY Asia Pacific": "https://rss.nytimes.com/services/xml/rss/nyt/AsiaPacific.xml",
+    "NY Europe": "https://rss.nytimes.com/services/xml/rss/nyt/Europe.xml",
+    "NY Middle East": "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml",
+    "NY US": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml", 
+    "NY Politics": "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "NY Education": "https://rss.nytimes.com/services/xml/rss/nyt/Education.xml",
+    "NY Business": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "NY Energy&Environment": "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml",
+    "NY Small Business": "https://rss.nytimes.com/services/xml/rss/nyt/SmallBusiness.xml",
+    "NY Economy": "https://rss.nytimes.com/services/xml/rss/nyt/Economy.xml",
+    "NY Technology": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "NY Science": "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "NY Environment": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+    "NY Space&Cosmos": "https://rss.nytimes.com/services/xml/rss/nyt/Space.xml",
+    "NY Health": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml", 
     "Texas Tribune": "https://feeds.texastribune.org/feeds/main/",
     "ABC Top Stories": "https://feeds.abcnews.com/abcnews/topstories",
     "ABC US Headlines": "https://feeds.abcnews.com/abcnews/usheadlines",
@@ -31,7 +51,20 @@ FEEDS = {
     "CNBC Business": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147",
     "CNBC Tech": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=19854910",
     "CNBC Health": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000108",
-    "CNBC Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258"
+    "CNBC Economy": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=20910258",
+    "WSJ World News": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+    "WSJ US Business": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+    "WSJ US": "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
+    "WSJ Politics": "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed",
+    "WSJ Economy": "https://feeds.content.dowjones.io/public/rss/RSSEconomy",
+    "Al Jazeera": "https://www.aljazeera.com/xml/rss/all.xml",
+    "NBC News": "http://feeds.nbcnews.com/nbcnews/public/news",
+    "LA Times": "https://www.latimes.com/local/rss2.0.xml",
+    "Morning Brew": "https://www.morningbrew.com/feed.xml",
+    "Newsweek": "https://www.newsweek.com/rss",
+    "KXAN News": "https://www.kxan.com/feed/",
+    "WFAA News": "https://www.wfaa.com/feeds/syndication/rss/news",
+    "ABC Houston": "https://abc13.com/feed/"
 }
 
 OUTPUT_DIR = "articles"
@@ -150,7 +183,7 @@ def main():
                             existing_urls.add(article_url)
                             new_count += 1
                             print(f"✅ Added: {entry.title[:50]}...")
-                        elif feed_name == "Texas Tribune":
+                        elif feed_name == "Texas Tribune" or feed_name == "KXAN News":
                             f.write(f"Link: {article_url}\n")
                             f.write(f"Article: {entry.get('summary', 'No summary')}\n\n")
                             existing_urls.add(article_url)
