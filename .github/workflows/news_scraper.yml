@@ -3,7 +3,7 @@ name: News Article Scraper
 on:
   schedule:
     # Run every 5 minutes to collect new articles
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch: # Allow manual triggering
   push:
     branches: [ main ]
