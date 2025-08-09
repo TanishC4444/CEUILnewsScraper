@@ -129,7 +129,7 @@ def main():
             try:
                 feed = feedparser.parse(feed_url)
                 
-                for entry in feed.entries[:20]:  # Limit per feed
+                for entry in feed.entries[:50]:  # Limit per feed
                     article_url = entry.link
                     
                     if article_url in existing_urls:
@@ -151,6 +151,7 @@ def main():
                             new_count += 1
                             print(f"✅ Added: {entry.title[:50]}...")
                         else:
+                            print(entry.title)
                             print(f"⏭️  Filtered out: {entry.title[:50]}...")
                             
                     except Exception as e:
