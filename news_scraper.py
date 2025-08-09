@@ -143,7 +143,7 @@ def main():
                         cleaned_text = clean_text(article.text)
                         
                         # Only keep if has content after filtering
-                        if cleaned_text and len(cleaned_text.split()) > 10:
+                        if cleaned_text and len(cleaned_text.split()) > 1:
                             f.write(f"Link: {article_url}\n")
                             f.write(f"Article: {cleaned_text}\n\n")
                             
