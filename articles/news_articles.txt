@@ -7186,3 +7186,6 @@ Article: “It was really depressing through the winter and the fall.” Burroug
 Link: https://feeds.texastribune.org/link/16799/17120816/texas-staar-scores-lookup
 Article: Test scores rose slightly after math scores previously fell last year.<img height="1" src="https://feeds.texastribune.org/link/16799/17120816.gif" width="1" />
 
+Link: https://www.nytimes.com/2025/08/16/world/europe/trump-putin-ukraine-ceasefire-peace-deal.html
+Article: The change could give Russia an advantage in talks to end the fighting, which are due to continue on Monday when President Volodymyr Zelensky of Ukraine visits the White House. “It was determined by all that the best way to end the horrific war between Russia and Ukraine is to go directly to a Peace Agreement, which would end the war, and not a mere Ceasefire Agreement, which often times do not hold up,” Mr. Zelensky agreed to cede the rest of the eastern Donbas region to Russia, even those areas not occupied by Russian troops, according to two senior European officials briefed on the call.
+
