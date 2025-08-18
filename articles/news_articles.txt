@@ -8335,3 +8335,6 @@ Article: Josh Shapiro of Pennsylvania, a popular and ambitious Democrat, drew hi
 Link: https://www.cnbc.com/2025/08/18/deutsche-bank-initiates-this-hidden-gem-education-stock-at-a-buy-rating.html
 Article: "The company is well-positioned to take advantage of AI as its content, data-driven insights, and learning science help deliver personalized learning experiences and drive positive outcomes," wrote analyst Faiza Alwy. "As the proliferation of AI-generated generic content raises risks of low quality information, we see McGraw Hill as a trusted provider of solutions." Looking forward, the analyst predicts revenue growth for the company as it settles more long-term education contracts.
 
+Link: https://www.nytimes.com/2025/08/18/us/politics/republican-stacy-garrity-josh-shapiro-pennsylvania.html
+Article: Josh Shapiro of Pennsylvania, a popular and ambitious Democrat, drew his most credible Republican opponent to date on Monday as Stacy Garrity, the state treasurer, announced a bid to challenge his re-election. Shapiro — a prolific fund-raiser and experienced campaigner with a record of winning in Trump country — will be no easy feat, especially in a midterm environment, when the party with the presidency typically struggles.
+
