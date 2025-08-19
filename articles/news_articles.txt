@@ -9805,3 +9805,6 @@ Article: Users of Apple's iPhones, Macs and other devices can enable the feature
 Link: https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html
 Article: The Trump administration has reached an agreement with Britain to spare Apple from a request that the company create a tool to give British law enforcement organizations access to customers’ cloud data. director of national intelligence, said in a social media post on Monday night that Britain had “agreed to drop its mandate for Apple to provide a ‘back door’ that would have enabled access to the protected encrypted data of American citizens and encroached on our civil liberties.” Britain’s decision to back off the policy comes after Apple spent months lobbying officials in Washington and rolled back an encrypted storage feature for British users.
 
+Link: https://www.cnbc.com/2025/08/19/european-markets-on-aug-19-stoxx-600-ftse-dax-trump-talks-fed.html
+Article: He also said security guarantees for Ukraine would be "provided" by European countries with "coordination with the U.S." Zelenskyy said a package of coveted security guarantees for Ukraine — expected to include a massive purchase of American weapons — would be "formalized on paper within the next week to 10 days." The U.S.
+
