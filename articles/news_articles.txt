@@ -9802,3 +9802,6 @@ Article: Jules Witcover, who cowrote one of the nation’s leading political col
 Link: https://www.cnbc.com/2025/08/19/us-spy-chief-gabbard-says-uk-agreed-to-drop-back-door-mandate-for-apple.html
 Article: Users of Apple's iPhones, Macs and other devices can enable the feature to ensure that only they — and not even Apple — can unlock data stored on its cloud.
 
+Link: https://www.nytimes.com/2025/08/19/technology/britain-apple-back-door.html
+Article: The Trump administration has reached an agreement with Britain to spare Apple from a request that the company create a tool to give British law enforcement organizations access to customers’ cloud data. director of national intelligence, said in a social media post on Monday night that Britain had “agreed to drop its mandate for Apple to provide a ‘back door’ that would have enabled access to the protected encrypted data of American citizens and encroached on our civil liberties.” Britain’s decision to back off the policy comes after Apple spent months lobbying officials in Washington and rolled back an encrypted storage feature for British users.
+
