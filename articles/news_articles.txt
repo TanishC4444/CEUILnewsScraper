@@ -17521,3 +17521,6 @@ Article: But a string of strong performances in special legislative elections th
 Link: https://www.wfaa.com/article/news/local/greeneville-texas-cyber-incident/287-a7d90a65-f1a4-4555-a373-4ea0865b3366
 Article: GREENVILLE, Texas — The city of Greenville reported a cyber incident affecting certain city technology systems earlier this month, officials said, prompting immediate action to secure networks and restore services. “...we have no evidence showing that personal information belonging to employees or citizens was impacted by the incident." Greenville is the latest North Texas city to be hit by cyber criminals.
 
+Link: https://www.nbcnews.com/video/cdc-director-leaves-agency-just-weeks-into-job-245917253774
+Article: Create your free profile or log in to save this video Create your free profile or log in to save this video CDC Director Susan Monarez is leaving the agency, just weeks after taking the position.
+
