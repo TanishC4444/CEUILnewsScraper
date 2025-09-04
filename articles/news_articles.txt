@@ -29836,3 +29836,6 @@ Article: Postal Service temporarily closed a post office in Torrance, relocated 
 Link: https://www.nytimes.com/2025/09/04/business/joshua-abram-dead.html
 Article: Joshua Abram, a serial entrepreneur whose company NeueHouse brought upscale style and a clubby exclusivity to the shared-workspace business as the practice known as co-working took off in the 2010s, died on Aug. With the aid of a stem-cell transplant from his brother Adam, he survived 16 more years and went on to create, with a longtime business partner, Alan Murray, what he considered to be his defining ventures.
 
+Link: https://www.wfaa.com/article/news/nation-world/sesame-street-youtube/507-3ce5cf67-3bc9-4cec-bc06-b0bf7dcf6fbc
+Article: YouTube announced Thursday that it has signed an expanded partnership with Sesame Workshop, the nonprofit behind the iconic children’s show, to host the largest digital library of “Sesame Street” episodes beginning in January 2026. Sesame Workshop said in a statement that the move will help “children everywhere grow smarter, stronger and kinder, one episode at a time.” The partnership also includes a unique educational component. Sesame Workshop will lead seminars with YouTube creators, sharing best practices for making content that is entertaining while also promoting learning, drawing on its 50-plus years of research-driven children’s media.
+
