@@ -31333,3 +31333,9 @@ Article: MARTIN: During his nomination for the post earlier this year, Kennedy a
 Link: https://www.aljazeera.com/news/2025/9/5/eu-slaps-3-45-billion-fine-on-google-for-unfair-ad-practices?traffic_source=rss
 Article: The European Union has imposed a penalty of 2.95 billion euros ($3.45bn) on Google for favouring its own advertising services, marking the fourth time the tech giant has been fined in its decade-long fight with the bloc’s competition regulators. The European Commission accused Google of distorting competition in the 27-nation bloc after investigating a complaint from the European Publishers Council, moving to rein in the tech firm despite threats of retaliation from United States President Donald Trump. EU competition chief Teresa Ribera had originally planned to hand out the fine on Monday, but delayed her move after meeting opposition from EU trade chief Maros Sefcovic over concerns about the potential impact on US promises to lower tariffs on European cars under a trade deal agreed in July. The Commission said Google favoured its own online display technology services to the detriment of rivals and online publishers and that it has abused its market power from 2014 until today.
 
+Link: https://www.nytimes.com/2025/09/05/world/europe/nigel-farage-uk-rayner-politics.html
+Article: As news broke of the latest setback for Britain’s beleaguered Labour government, there was jubilation 120 miles north of London, where the anti-immigration party led by Nigel Farage was on Friday gathering for its annual conference.
+
+Link: https://www.aljazeera.com/video/newsfeed/2025/9/5/bus-crashes-off-steep-cliff-killing-at-least-15-people-in-sri-lanka?traffic_source=rss
+Article: NewsFeed Bus crashes off steep cliff, killing at least 15 people in Sri Lanka A passenger bus veered off the road in a mountainous region in Sri Lanka, plunging down a 300-metre precipice and killing at least 15 people onboard.
+
